@@ -1,29 +1,28 @@
 # Site settings
-title: Klise Theme # site title
+title: KnowsCount's Blog # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
-lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+    I am a young front-end developer.
+lang: en-UK # default lang
+timezone: Asia/China # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+repo: # site repo [optional]
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
-  bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+    name: KnowsCount # author name
+    bio: >- # tell to the world
+        yet another beauteous blog.<br />
+        meet KnowsCount on <a href="https://github.com/knowscount/" target="_blank">@github</a>.
+    username: KnowsCount # general username
+    github: KnowsCount # github username
+    twitter: knowscount # twitter username
+    #facebook: facebook_username # facebook username
+    email: knowscount@google.com # email adress
+    avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://blog.knowscount.vercel.app" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -31,33 +30,33 @@ fb_appid:
 
 # Collection setting
 collections:
-  posts:
-    output: true
+    posts:
+        output: true
 
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  syntax_highlighter: rouge
+    syntax_highlighter: rouge
 
 # Default front matter
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: post
-      comments: false
+    - scope:
+          path: ""
+      values:
+          layout: post
+          comments: false
 
 # Jekyll Compose default front matter
 jekyll_compose:
-  post_default_front_matter:
-    modified:
-    tags: []
-    description:
-  draft_default_front_matter:
-    modified:
-    tags: []
-    description:
+    post_default_front_matter:
+        modified:
+        tags: []
+        description:
+    draft_default_front_matter:
+        modified:
+        tags: []
+        description:
 
 # Homepage limit posts
 number_of_posts: 5
@@ -65,28 +64,28 @@ number_of_posts: 5
 # Build settings
 # theme: klise
 sass:
-  style: compressed
+    style: compressed
 
 include:
-  - _redirects
-  - .htaccess
+    - _redirects
+    - .htaccess
 
 exclude:
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - CHANGELOG.md
-  - README.md
-  - node_modules
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - lighthouse.png
-  - klise-*.gem
-  - klise.gemspec
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - CHANGELOG.md
+    - README.md
+    - node_modules
+    - CODE_OF_CONDUCT.md
+    - CONTRIBUTING.md
+    - lighthouse.png
+    - klise-*.gem
+    - klise.gemspec
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-postfiles
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-postfiles
