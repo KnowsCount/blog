@@ -13,6 +13,8 @@ my React projects / React projects I contributed to:
 
 [Storage Management System](https://github.com/KnowsCount/NKCS-Storage)
 
+![](https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/c-m-X_j3b4rqnlk-unsplash.jpg)
+
 -   a project made for school storage managemnet.. collabrated with a back-end developer.
 
 [WeeBlog](https://github.com/KnowsCount/WeeBlog)
