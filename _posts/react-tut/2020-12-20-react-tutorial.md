@@ -1,7 +1,7 @@
 ---
 title: ⚛︎ KnowsCount's ReactJS Tutorial - Intro
-date: 2020-12-19 00:15:00 +07:00
-tags: [ReactJS, Tutorial]
+date: 2020-12-20 00:15:00
+tags: [tutorial, ReactJS, code]
 description: a beauteous content sharing platform solution orchestrated to be sexy and concise.
 ---
 
@@ -9,7 +9,7 @@ Hi! This is basically the first blog post here – a brief introduction of a fut
 
 ---
 
-my React projects / React projects I contributed to:
+some of my React projects / React projects I contributed to:
 
 [Storage Management System](https://github.com/KnowsCount/NKCS-Storage)
 
@@ -22,6 +22,8 @@ my React projects / React projects I contributed to:
 -   a project under development. It is going to be, quoting myself in its description,
 
 > a beauteous content sharing platform solution orchestrated to be sexy and concise.
+
+_This is what we will be aiming for in the project part of the tutorial._
 
 [hackchat](https://github.com/hack-chat/hackchat-client)
 
@@ -38,6 +40,8 @@ React, my most used framework in front-end development and my favourite one, had
 Many tech giants in China I know are using this framework, for instance, Alibaba (taobao), NetEase, Zhihu, etc.; globally, companies like Facebook (of course), Instagram, Airbnb, Discord, etc. are also using React.
 
 Along with the usage of tech giants, many new technologies are produced based on React. For example, [React Native](https://reactnative.dev) & [React VR](https://facebook.github.io/react-360).
+
+![](https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/peek-definition.png)
 
 React, however, is somewhat strange. One can actually learn the method to using the tool in a few hours, but it would be very hard for one to claim themselves mastering the framework. During all my time learning React, I've met many difficulties (which helped me to realise the fact that I am very stupid), and I shall hereby share some of them with you, so as to save more of your precious time.
 
@@ -56,8 +60,61 @@ However, in this post I would start by telling you the basic skills one need in 
 ## Prerequisites
 
 -   Comparatively good Javascript skills (`this`, for instance)
--   basic understanding of ES6 grammar
+-   basic understanding of ES6 syntax
 -   webpack _(optional)_
 -   npm _(optional)_
+-   Router _(optional)_
+
+## What will I Teach?
+
+I will divide the whole tutorial into three parts:
+
+-   Basic React
+
+    -   Environment
+    -   Basic Syntax
+    -   Concepts Explanation (Virtual DOM, Diff Algorithm, etc.)
+    -   Animation
+
+-   Redux
+
+-   Making your own Project
+    -   Header (kinda complex)
+    -   HomePage
+    -   About Page
+    -   Login/Signup
+    -   Deployment
+
+## What will you Learn?
+
+-   create-react-app
+-   Component Thinking
+-   JSX
+-   Debugging
+-   Virtual DOM
+-   Diff Algorithm
+-   Lifecycle
+-   React-transition-group (third party animation module)
+-   Redux
+-   Antd
+-   UI, Container Component
+-   Stateless Component
+-   redux-thunk, redux-saga
+-   Styled-components
+-   Immutable.js
+-   redux-immutable
+-   axios
+-   ...
+-   ...
+
+In conclusion, after learning from this tutorial, you will be able to
+
+-   **thoroughly comprehend** React
+-   **entirely master** 'React Bucket' (react + redux + react-router + axios + antd)
+-   do the front-end developement of **megaprojects**
+-   code in **standard**
+-   (whispering) **at least 100K a year**
+
+---
 
 OK. that would be it. Also, I personally recommand [FreeCodeCamp](https://www.freecodecamp.org) as a self-teaching site. **This is not an advertisement.**
