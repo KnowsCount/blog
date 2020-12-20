@@ -1,6 +1,6 @@
 // Fonts preferences
-$sans-family: Roboto, sans-serif;
-$mono-family: Consolas, monospace;
+$sans-family: Baskerville;
+$mono-family: Baskerville;
 $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
@@ -49,15 +49,15 @@ $on-desktop: 1024px;
 $on-widescreen: 1152px;
 
 @mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
+	@media screen and (max-width: $device) {
+		@content;
+	}
 }
 
 @mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
+	font-size: $base-font-size * $ratio;
 }
 
 // Import sass files
 @import "klise/fonts", "klise/base", "klise/layout", "klise/post",
-  "klise/miscellaneous", "klise/syntax", "klise/dark";
+	"klise/miscellaneous", "klise/syntax", "klise/dark";
