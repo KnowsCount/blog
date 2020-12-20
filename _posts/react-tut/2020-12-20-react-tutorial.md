@@ -5,7 +5,7 @@ tags: [tutorial, ReactJS, code]
 description: a beauteous content sharing platform solution orchestrated to be sexy and concise.
 ---
 
-Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used Wordpress to [blog](https://docs.knowscount.cc) but now I switched here onto [GitHub](https://github.com/KnowsCount/blog), using [Jekyll](https://jekyllrb.com), a much nicer and much more seamless blogging environment. So, many thanks to GitHub and developers of Jekyll!
+Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used WordPress to [blog](https://docs.knowscount.cc) but now I switched here onto [GitHub](https://github.com/KnowsCount/blog), using [Jekyll](https://jekyllrb.com), a much nicer and much more seamless blogging environment. So, many thanks to GitHub and the developers of Jekyll!
 
 ---
 
@@ -15,7 +15,7 @@ some of my React projects / React projects I contributed to:
 
 ![](https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/c-m-X_j3b4rqnlk-unsplash.jpg)
 
--   a project made for school storage managemnet.. collabrated with a back-end developer.
+-   a project made for school storage management.. collaborated with a back-end developer.
 
 [WeeBlog](https://github.com/KnowsCount/WeeBlog)
 
@@ -37,7 +37,7 @@ _This is what we will be aiming for in the project part of the tutorial._
 
 React, my most used framework in front-end development and my favourite one, had a vastly speedy development since 2013 – the year Facebook opened its source (if you want, you can read a [2013 post](https://React.org/blog/2013/06/05/why-react.html) about the reason why Facebook built React). Facebook did an awesome job maintaining and upgrading React... The newest [React v17.0](https://React.org/blog/2020/10/20/react-v17.html) released in this October (20 October, 2020) is an exemplary case.
 
-Many tech giants in China I know are using this framework, for instance, Alibaba (taobao), NetEase, Zhihu, etc.; globally, companies like Facebook (of course), Instagram, Airbnb, Discord, etc. are also using React.
+Many tech giants in China I know are using this framework, for instance, Alibaba (Taobao), NetEase, Zhihu, etc.; globally, companies like Facebook (of course), Instagram, Airbnb, Discord, etc. are also using React.
 
 Along with the usage of tech giants, many new technologies are produced based on React. For example, [React Native](https://reactnative.dev) & [React VR](https://facebook.github.io/react-360).
 
@@ -110,11 +110,11 @@ I will divide the whole tutorial into three parts:
 In conclusion, after learning from this tutorial, you will be able to
 
 -   **thoroughly comprehend** React
--   **entirely master** 'React Bucket' (react + redux + react-router + axios + antd)
+-   **entirely master** 'React Family' (react + redux + react-router + axios + antd)
 -   do the front-end developement of **megaprojects**
 -   code in **standard**
 -   (whispering) **at least 100K a year**
 
 ---
 
-OK. that would be it. Also, I personally recommand [FreeCodeCamp](https://www.freecodecamp.org) as a self-teaching site. **This is not an advertisement.**
+OK. that would be it. Also, I personally recommend [FreeCodeCamp](https://www.freecodecamp.org) as a self-teaching site. **This is not an advertisement.**
