@@ -1,6 +1,6 @@
 ---
-title: ⚛︎ KnowsCount's ReactJS Tutorial - Intro
-date: 2020-12-20 00:15:00
+title: ⚛︎ ReactJS Tutorial - Intro
+date: 2020-12-19 00:15:00
 tags: [tutorial, ReactJS, code]
 description: a beauteous content sharing platform solution orchestrated to be sexy and concise.
 ---

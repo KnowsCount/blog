@@ -1,7 +1,6 @@
 ---
-title: 👶 How this site was born
-date: 2020-12-19 21:45:47
-modified: 2019-08-29 09:24:47 +07:00
+title: 👶 How this site was made
+date: 2020-12-02 21:45:47
 tags: [blog, jekyll, github]
 description: All the services are free, a source code this site placed on github repository and intergration with netlify service, another service that you can use is github page for hosting your own static site.
 ---
@@ -10,7 +9,7 @@ This site is powered by [Vercel](https://vercel.com/), bootstrapped with [Jekyll
 
 ---
 
-If you would like to make a same blog site as me, carefully follow steps below:
+If you would like to build a same site like mine, carefully follow the steps below:
 
 1. **fork this repo via clicking the button above** or **clone this repo**
 

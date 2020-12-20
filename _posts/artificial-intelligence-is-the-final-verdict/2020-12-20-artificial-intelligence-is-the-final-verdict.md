@@ -1,6 +1,6 @@
 ---
-title: 🤖 Artificial Intelligence is the Final Verdict
-date: 2020-12-20 03:57:00
+title: 🤖 Artificial Intelligence - the Final Verdict
+date: 2020-12-07 15:57:32
 tags: [blog, code]
 description: in this article I talked briefly about the whys and wherefores of artificial intelligence being the final verdict in future.
 ---
@@ -19,7 +19,7 @@ One, in this scenario, may predictably argue an experienced cabby would have the
 
 One may also argue those whose jobs depend partly on prior experiences like doctors would also be a hardship for AI to overcome, however, ‘Many doctors focus almost exclusively on processing information: they absorb medical data, analyse it, and produce a diagnosis.’ (Where machines could replace humans—and where they can’t (yet), Michael Chui)
 
-Alongside experience-needing jobs, aforementioned creativity works, supposingly, also makes it difficult for AI to replace everyone. When we are evaluating art, according to Art Evaluation: How to Appreciate Art?we tend to judge it by how well it simulates ‘an emotional response from the viewer’ (Art Evaluation: How to Appreciate Art?, Editor Neil Collins). If so, what might happen once AI algorithms can train models to comprehend and manipulate human emotions better than Shakespeare, Keats or Beyoncé?
+Alongside experience-needing jobs, the aforementioned creativity works, presumeably, also makes it difficult for AI to replace everyone. When we are evaluating art, according to Art Evaluation: How to Appreciate Art?we tend to judge it by how well it simulates ‘an emotional response from the viewer’ (Art Evaluation: How to Appreciate Art?, Editor Neil Collins). If so, what might happen once AI algorithms can train models to comprehend and manipulate human emotions better than Shakespeare, Keats or Beyoncé?
 
 For all those reasons mentioned above, I strongly believe Artificial Intelligence is the final verdict.
 
