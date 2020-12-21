@@ -35,7 +35,7 @@ _This is what we will be aiming for in the project part of the tutorial._
 
 ## Story
 
-React, my most used framework in front-end development and my favourite one, had a vastly speedy development since 2013 – the year Facebook opened its source (if you want, you can read a [2013 post](https://React.org/blog/2013/06/05/why-react.html) about the reason why Facebook built React). Facebook did an awesome job maintaining and upgrading React... The newest [React v17.0](https://React.org/blog/2020/10/20/react-v17.html) released in this October (20 October, 2020) is an exemplary case.
+React, my most-used framework in front-end development and my favourite one, had a highly speedy development since 2013 – the year Facebook opened its source (you can read a [2013 post](https://React.org/blog/2013/06/05/why-react.html) about the reason why Facebook built React). Facebook did an awesome job maintaining and enhancing React... The newest [React v17.0](https://React.org/blog/2020/10/20/react-v17.html) released this October (20 October, 2020) is an very exemplary case.
 
 Many tech giants in China I know are using this framework, for instance, Alibaba (Taobao), NetEase, Zhihu, etc.; globally, companies like Facebook (of course), Instagram, Airbnb, Discord, etc. are also using React.
 
@@ -43,17 +43,15 @@ Along with the usage of tech giants, many new technologies are produced based on
 
 ![](https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/peek-definition.png)
 
-React, however, is somewhat strange. One can actually learn the method to using the tool in a few hours, but it would be very hard for one to claim themselves mastering the framework. During all my time learning React, I've met many difficulties (which helped me to realise the fact that I am very stupid), and I shall hereby share some of them with you, so as to save more of your precious time.
+React, however, is somewhat strange. One can learn the to use it in a few hours, but it would be very hard for one to claim they has mastered the framework. During all my time learning React, I've met many difficulties (which helped me to realise the fact that I am very stupid), and I, in this blog, shall hereby share some of them with you.
 
-There is also a framework named ['VueJS'](https://github.com/vuejs/vue), developed by a Chinese developer [Evan You](https://github.com/yyx990803) which I only use to bootstrap small projects like my [portfolio](https://github.com/KnowsCount/portfolio). It has actually more stars on GitHub than react **(stars, not popularity)**.
+There is also a framework named ['VueJS'](https://github.com/vuejs/vue), created by a Chinese developer [Evan You](https://github.com/yyx990803) which I only use to bootstrap small projects like my [portfolio](https://github.com/KnowsCount/portfolio). It has actually more stars on GitHub than react **(stars, not popularity)**.
 
 ## Announcement
 
-This will be a series on my blog, I plan to try update it at least once per week, because for many a year, we have known that the best way to understand a concept is to explain it to someone else:
+This will be a series on my blog, I plan to try update it at least once per week, because for many a year, we know the best way to understand a concept is to explain it to someone else, quoting the Roman philosopher Seneca:
 
 > While we teach, we learn,
-
-said the Roman philosopher Seneca.
 
 However, in this post I would start by telling you the basic skills one need in order to make the most out of this tutorial:
 
