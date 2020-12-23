@@ -1,5 +1,5 @@
 ---
-title: ✒️ 冬——随笔
+title: ✏️ 冬——随笔
 date: 2020-12-21 15:00:05
 tags: [blog]
 description: 随笔一篇。内容乱七八糟。

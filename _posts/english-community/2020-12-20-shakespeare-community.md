@@ -1,19 +1,8 @@
-<!--
- * @Description: 编辑。
- * @Date: 2020-12-20 16:58:11
- * @Author: KnowsCount
- * @Github: https://github.com/KnowsCount/
- * @LastEditTime: 2020-12-23 16:10:06
- * @FilePath: /myBlog/_posts/english-community/2020-12-20-shakespeare-community.md
--->
-
 ---
-
 title: ✒️ The Upstart Crows
 date: 2020-12-20 03:57:00
 tags: [blog]
 description: a community focusing on Shakespeare.
-
 ---
 
 To be finished.
