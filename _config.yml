@@ -22,7 +22,7 @@ author:
     avatar: https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/12.png # change with your own avatar
 
 # URL settings
-url: "https://blog.knowscount.vercel.app" #
+url: 'https://blog.knowscount.cc' #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -42,7 +42,7 @@ kramdown:
 # Default front matter
 defaults:
     - scope:
-          path: ""
+          path: ''
       values:
           layout: post
           comments: false
@@ -89,6 +89,12 @@ plugins:
     - jekyll-feed
     - jekyll-sitemap
     - jekyll-postfiles
+    - jekyll-analytics
 
 jekyll_admin:
-    homepage: "pages"
+    homepage: 'pages'
+
+jekyll_analytics:
+    GoogleAnalytics: # Add, if you want to track with Google Analytics
+        id: G-D56H8TP70W # Required - replace with your tracking id
+        anonymizeIp: false # Optional - Default: false - set to true for anonymized tracking
