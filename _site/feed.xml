@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2020-12-23T03:26:36+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@google.com</email></author><entry><title type="html">2020 Christmas Journal 1</title><link href="http://localhost:4000/2020-christmas-journal-1/" rel="alternate" type="text/html" title="2020 Christmas Journal 1" /><published>2020-12-23T00:00:00+00:00</published><updated>2020-12-23T00:00:00+00:00</updated><id>http://localhost:4000/2020-christmas-journal-1</id><content type="html" xml:base="http://localhost:4000/2020-christmas-journal-1/">&lt;p&gt;I’ve done a few things this week.&lt;/p&gt;
+
+&lt;p&gt;I have, firstly, started this blog.&lt;/p&gt;
+&lt;h3 id=&quot;coding&quot;&gt;Coding&lt;/h3&gt;
+
+&lt;p&gt;I also kept making contributions to GitHub over the past … well, more than a month.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/contributions.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have created, and contributed to a few repositories, too. I, for instance, contributed to the &lt;a href=&quot;https://github.com/hack-chat/hackchat-client&quot;&gt;new client&lt;/a&gt; of &lt;a href=&quot;https://hack.chat&quot;&gt;hack chat&lt;/a&gt; (it looks like &lt;a href=&quot;https://beta.hack.chat&quot;&gt;this&lt;/a&gt;), a minimal, distraction-free chat app (though it somewhat caused more &lt;a href=&quot;https://github.com/hack-chat/hackchat-client/issues/30&quot;&gt;internationalisation issues&lt;/a&gt;); started a ReactJS tutorial page; fixed a fatal &lt;a href=&quot;https://github.com/KnowsCount/nkcsStorage/issues/1&quot;&gt;bug&lt;/a&gt; on the beta-version project &lt;a href=&quot;https://github.com/KnowsCount/nkcsStorage&quot;&gt;NKCS Storage System&lt;/a&gt; (the current fatal issues are the potential security vulnerabilities in dependencies); sketched the basic &lt;a href=&quot;https://github.com/KnowsCount/WeeBlog&quot;&gt;framework (outline)&lt;/a&gt; of the &lt;a href=&quot;https://weeblog.knowscount.vercel.app/&quot;&gt;WeeBlog&lt;/a&gt; project,  ‘a beauteous content sharing platform solution orchestrated to be sexy and concise’; made a simple &lt;a href=&quot;https://github.com/KnowsCount/yuanyuan&quot;&gt;photo-wall&lt;/a&gt; for one of my cyber-security friend under his request as his birthday is approaching; forked and changed some bit of the project &lt;a href=&quot;https://github.com/KnowsCount/logoly&quot;&gt;logoly&lt;/a&gt; which is not appopriate to describe.&lt;/p&gt;
+
+&lt;h3 id=&quot;books&quot;&gt;Books&lt;/h3&gt;
+&lt;p&gt;I, under the demand of my Chinese teacher, finished a part of &lt;em&gt;The Gay Genius: The Life and Times of Su DongPo&lt;/em&gt; wherein the word Gay is used the old-fashioned way. Fun fact: this book is a masterpiece writ by a Chinese writer named Lin YuTang, yet it was an English book – the version I am reading is translated into Chinese.&lt;/p&gt;
+
+&lt;p&gt;As for my English homework, I have been reading &lt;em&gt;The prisoner of Zenda&lt;/em&gt;. I planned to read Edgar Allan Poe’s at first, but has given up.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;p&gt;I have done my Chinese homework but the reading part; a part of Maths homework. I plan to finish the poster and therefore Science homework today (on 23 Dec).&lt;/p&gt;
+
+&lt;h3 id=&quot;video-games&quot;&gt;Video Games&lt;/h3&gt;
+&lt;p&gt;Two days ago I played video games the whole morning, and nothing remarkable happened. It was that evening when I. intentionally, deleted the a Europa Universalis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;savegame&lt;/code&gt; which I spent tens of hours on… I was Great Britain in the savegame, and was therefore too strong, and the game thereby became boring.&lt;/p&gt;
+
+&lt;h3 id=&quot;telly-shows&quot;&gt;Telly Shows&lt;/h3&gt;
+&lt;p&gt;I started watching &lt;em&gt;Silicon Valley&lt;/em&gt; again – the third time, also the funeral episode of &lt;em&gt;The IT crowd&lt;/em&gt; which I watched over and over for a few million times.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><summary type="html">I’ve done a few things this week.</summary></entry><entry><title type="html">✒️ 冬——随笔</title><link href="http://localhost:4000/winter-memo/" rel="alternate" type="text/html" title="✒️ 冬——随笔" /><published>2020-12-21T15:00:05+00:00</published><updated>2020-12-21T15:00:05+00:00</updated><id>http://localhost:4000/winter-memo</id><content type="html" xml:base="http://localhost:4000/winter-memo/">&lt;p&gt;人类初创的年岁，没有凛冬，只有春夏与秋，却也是呼腾呼腾地闹着，就如当初伊的膀子呼呼地抡着，万物不乏活力；然天帝似乎不大乐意如此的局面，觉得实在缺少了甚么，就恶趣地给天地加入了一个新的时令，名之曰「冬」。&lt;/p&gt;
+
+&lt;p&gt;人类热心家的猛士们便奋勇地站出了，严辞地反抗肃杀的冷冬。这样的局面娱乐了天帝，觉得似乎一切又都平衡了，于是昏昏然眯了过去。人类的其他热心家看他们的猛士们似乎抗议未果，就也奋勇地站出，谴责这些颓废货色。&lt;/p&gt;
+
+&lt;p&gt;人们过了几个肃杀的凛冬；北国飘了几年的鹅毛，南国下了几年的白霜。——说到这雪呵，天帝确乎是只给北国降了大雪，不知是疏忽还是善意，没有给南国留甚么极多的雪。南国的人民便愈发高傲，有了些天选之子的论调；北国的人民愈发恼怒，总觉得也要说些甚么，但总话未出口便被自己堵住。&lt;/p&gt;
+
+&lt;p&gt;这么僵着，又是几年。&lt;/p&gt;
+
+&lt;p&gt;北国的学者从原先精神抖擞，到了倚靠拐杖，终于作出了一章《雪国凤年论》，谐音了丰年，很是得意。而从此北国的学者逢人就讲塞恩斯，瑞雪兆丰年。北国的人于是有了比南国人民更高一些的作威作福资本，使南国人很是不快。南国人便派出学者，先私下去北国考察，又闭门苦读十五年，才作另一文章——大致引了北国人著名的话：「雪是雨水的精魂」，给其予「精魂是证明雪是煞死了的」的反驳。&lt;/p&gt;
+
+&lt;p&gt;这时天帝终于醒来，看到这样的局面，更觉娱乐，便哈哈大笑起来。神清气爽着，他想起奖励下人类，于是要收回冬季。多年不见的人类热心家的猛士们便再次奋勇地站出了，誓死捍卫冬天的存在，这次倒要更猛烈尖锐些，甚者居然说出了「神心不古，天将不天」的造反话。天帝于是震怒，委地球而去。&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="blog" /><summary type="html">人类初创的年岁，没有凛冬，只有春夏与秋，却也是呼腾呼腾地闹着，就如当初伊的膀子呼呼地抡着，万物不乏活力；然天帝似乎不大乐意如此的局面，觉得实在缺少了甚么，就恶趣地给天地加入了一个新的时令，名之曰「冬」。</summary></entry><entry><title type="html">✒️ The Upstart Crows</title><link href="http://localhost:4000/shakespeare-community/" rel="alternate" type="text/html" title="✒️ The Upstart Crows" /><published>2020-12-20T03:57:00+00:00</published><updated>2020-12-20T03:57:00+00:00</updated><id>http://localhost:4000/shakespeare-community</id><content type="html" xml:base="http://localhost:4000/shakespeare-community/">&lt;p&gt;To be finished.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/mindmap@tuc.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="blog" /><summary type="html">To be finished.</summary></entry><entry><title type="html">⚛︎ ReactJS Tutorial - Intro</title><link href="http://localhost:4000/react-tutorial/" rel="alternate" type="text/html" title="⚛︎ ReactJS Tutorial - Intro" /><published>2020-12-19T00:15:00+00:00</published><updated>2020-12-19T00:15:00+00:00</updated><id>http://localhost:4000/react-tutorial</id><content type="html" xml:base="http://localhost:4000/react-tutorial/">&lt;p&gt;Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used WordPress to &lt;a href=&quot;https://docs.knowscount.cc&quot;&gt;blog&lt;/a&gt; but now I switched here onto &lt;a href=&quot;https://github.com/KnowsCount/blog&quot;&gt;GitHub&lt;/a&gt;, using &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, a much nicer and much more seamless blogging environment. So, many thanks to GitHub and the developers of Jekyll!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;some of my React projects / React projects I contributed to:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/KnowsCount/NKCS-Storage&quot;&gt;Storage Management System&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/c-m-X_j3b4rqnlk-unsplash.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a project made for school storage management.. collaborated with a back-end developer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/KnowsCount/WeeBlog&quot;&gt;WeeBlog&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a project under development. It is going to be, quoting myself in its description,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a beauteous content sharing platform solution orchestrated to be sexy and concise.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;This is what we will be aiming for in the project part of the tutorial.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hack-chat/hackchat-client&quot;&gt;hackchat&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a rather novel online chat web app written in React. Quoting the &lt;a href=&quot;https://github.com/marzavec&quot;&gt;author&lt;/a&gt;, it is&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a minimal, distraction-free chat application&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;now-enough-advertising-lets-get-to-the-topic&quot;&gt;Now enough advertising, let’s get to the topic.&lt;/h5&gt;
+
+&lt;h2 id=&quot;story&quot;&gt;Story&lt;/h2&gt;
+
+&lt;p&gt;React, my most-used framework in front-end development and my favourite one, had a highly speedy development since 2013 – the year Facebook opened its source (you can read a &lt;a href=&quot;https://React.org/blog/2013/06/05/why-react.html&quot;&gt;2013 post&lt;/a&gt; about the reason why Facebook built React). Facebook did an awesome job maintaining and enhancing React… The newest &lt;a href=&quot;https://React.org/blog/2020/10/20/react-v17.html&quot;&gt;React v17.0&lt;/a&gt; released this October (20 October, 2020) is an very exemplary case.&lt;/p&gt;
+
+&lt;p&gt;Many tech giants in China I know are using this framework, for instance, Alibaba (Taobao), NetEase, Zhihu, etc.; globally, companies like Facebook (of course), Instagram, Airbnb, Discord, etc. are also using React.&lt;/p&gt;
+
+&lt;p&gt;Along with the usage of tech giants, many new technologies are produced based on React. For example, &lt;a href=&quot;https://reactnative.dev&quot;&gt;React Native&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://facebook.github.io/react-360&quot;&gt;React VR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/peek-definition.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;React, however, is somewhat strange. One can learn the to use it in a few hours, but it would be very hard for one to claim they has mastered the framework. During all my time learning React, I’ve met many difficulties (which helped me to realise the fact that I am very stupid), and I, in this blog, shall hereby share some of them with you.&lt;/p&gt;
+
+&lt;p&gt;There is also a framework named &lt;a href=&quot;https://github.com/vuejs/vue&quot;&gt;‘VueJS’&lt;/a&gt;, created by a Chinese developer &lt;a href=&quot;https://github.com/yyx990803&quot;&gt;Evan You&lt;/a&gt; which I only use to bootstrap small projects like my &lt;a href=&quot;https://github.com/KnowsCount/portfolio&quot;&gt;portfolio&lt;/a&gt;. It has actually more stars on GitHub than react &lt;strong&gt;(stars, not popularity)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement&quot;&gt;Announcement&lt;/h2&gt;
+
+&lt;p&gt;This will be a series on my blog, I plan to try update it at least once per week, because for many a year, we know the best way to understand a concept is to explain it to someone else, quoting the Roman philosopher Seneca:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;While we teach, we learn,&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;However, in this post I would start by telling you the basic skills one need in order to make the most out of this tutorial:&lt;/p&gt;
+
+&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Comparatively good Javascript skills (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this&lt;/code&gt;, for instance)&lt;/li&gt;
+  &lt;li&gt;basic understanding of ES6 syntax&lt;/li&gt;
+  &lt;li&gt;webpack &lt;em&gt;(optional)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;npm &lt;em&gt;(optional)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Router &lt;em&gt;(optional)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-will-i-teach&quot;&gt;What will I Teach?&lt;/h2&gt;
+
+&lt;p&gt;I will divide the whole tutorial into three parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Basic React&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Environment&lt;/li&gt;
+      &lt;li&gt;Basic Syntax&lt;/li&gt;
+      &lt;li&gt;Concepts Explanation (Virtual DOM, Diff Algorithm, etc.)&lt;/li&gt;
+      &lt;li&gt;Animation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Redux&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Making your own Project&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Header (kinda complex)&lt;/li&gt;
+      &lt;li&gt;HomePage&lt;/li&gt;
+      &lt;li&gt;About Page&lt;/li&gt;
+      &lt;li&gt;Login/Signup&lt;/li&gt;
+      &lt;li&gt;Deployment&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-will-you-learn&quot;&gt;What will you Learn?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;create-react-app&lt;/li&gt;
+  &lt;li&gt;Component Thinking&lt;/li&gt;
+  &lt;li&gt;JSX&lt;/li&gt;
+  &lt;li&gt;Debugging&lt;/li&gt;
+  &lt;li&gt;Virtual DOM&lt;/li&gt;
+  &lt;li&gt;Diff Algorithm&lt;/li&gt;
+  &lt;li&gt;Lifecycle&lt;/li&gt;
+  &lt;li&gt;React-transition-group (third party animation module)&lt;/li&gt;
+  &lt;li&gt;Redux&lt;/li&gt;
+  &lt;li&gt;Antd&lt;/li&gt;
+  &lt;li&gt;UI, Container Component&lt;/li&gt;
+  &lt;li&gt;Stateless Component&lt;/li&gt;
+  &lt;li&gt;redux-thunk, redux-saga&lt;/li&gt;
+  &lt;li&gt;Styled-components&lt;/li&gt;
+  &lt;li&gt;Immutable.js&lt;/li&gt;
+  &lt;li&gt;redux-immutable&lt;/li&gt;
+  &lt;li&gt;axios&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In conclusion, after learning from this tutorial, you will be able to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;thoroughly comprehend&lt;/strong&gt; React&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;entirely master&lt;/strong&gt; ‘React Family’ (react + redux + react-router + axios + antd)&lt;/li&gt;
+  &lt;li&gt;do the front-end developement of &lt;strong&gt;megaprojects&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;code in &lt;strong&gt;standard&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;(whispering) &lt;strong&gt;at least 100K a year&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;OK. that would be it. Also, I personally recommend &lt;a href=&quot;https://www.freecodecamp.org&quot;&gt;FreeCodeCamp&lt;/a&gt; as a self-teaching site. &lt;strong&gt;This is not an advertisement.&lt;/strong&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="tutorial" /><category term="ReactJS" /><category term="code" /><summary type="html">Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used WordPress to blog but now I switched here onto GitHub, using Jekyll, a much nicer and much more seamless blogging environment. So, many thanks to GitHub and the developers of Jekyll!</summary></entry><entry><title type="html">🤖 Artificial Intelligence - the Final Verdict</title><link href="http://localhost:4000/artificial-intelligence-is-the-final-verdict/" rel="alternate" type="text/html" title="🤖 Artificial Intelligence - the Final Verdict" /><published>2020-12-07T15:57:32+00:00</published><updated>2020-12-07T15:57:32+00:00</updated><id>http://localhost:4000/artificial-intelligence-is-the-final-verdict</id><content type="html" xml:base="http://localhost:4000/artificial-intelligence-is-the-final-verdict/">&lt;p&gt;Devised by OpenAI and released this year, GPT-3, ‘an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model’ (Language Models are Few-Shot Learners, Tom B. Brown et al 2020), achieved an astonishingly admirable aftermath on simulating human language usage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/photo-1527474305487-b87b222841cc.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Whilst a great advancement in technology, this also leads to the question: will robots finally outdo human beings in every aspect? Many negate the statement, however, I here would in fact agree.&lt;/p&gt;
+
+&lt;p&gt;Imagine, my friend, a cabby though you are, you, for years long, have been gawping deep into the constellations, blurring in and out of focus; yet AI, on the contrary, does nothing but safeguarding their costumer unto they reach the destination as speedy as possible. To wit, Artificial Intelligence is a much more effective labour replacement in these situations wherein creativity is less likely to be needed.&lt;/p&gt;
+
+&lt;p&gt;One, in this scenario, may predictably argue an experienced cabby would have the vital intuition which may safeguard their costumers in an unexpected situation. Be that as it may, these situations, firstly, has an extremely low rate of existence: AI are trained with divers situations wherein human beings can even make mistakes. Secondly, it is crucial to realise that the AI revolution is not just about computers getting faster and smarter; it is fuelled by breakthroughs in the life sciences and the social sciences as well. The better we understand the biochemical mechanisms that underpin human emotions, desires and choices, the better computers can become in analysing human behaviour, predicting human decisions, and replacing human drivers, bankers and lawyers.&lt;/p&gt;
+
+&lt;p&gt;‘This means that AI can outperform humans even in tasks that supposedly demand “intuition”.’ Says Yuval Noah Harari (21 Lessons for the 21st Century, Chapter 2) ‘If you think AI needs to compete against the human soul in terms of mystical hunches – that sounds impossible. But if AI really needs to compete against neural networks in calculating probabilities and recognising patterns – that sounds far less daunting.’&lt;/p&gt;
+
+&lt;p&gt;One may also argue those whose jobs depend partly on prior experiences like doctors would also be a hardship for AI to overcome, however, ‘Many doctors focus almost exclusively on processing information: they absorb medical data, analyse it, and produce a diagnosis.’ (Where machines could replace humans—and where they can’t (yet), Michael Chui)&lt;/p&gt;
+
+&lt;p&gt;Alongside experience-needing jobs, the aforementioned creativity works, presumeably, also makes it difficult for AI to replace everyone. When we are evaluating art, according to Art Evaluation: How to Appreciate Art?we tend to judge it by how well it simulates ‘an emotional response from the viewer’ (Art Evaluation: How to Appreciate Art?, Editor Neil Collins). If so, what might happen once AI algorithms can train models to comprehend and manipulate human emotions better than Shakespeare, Keats or Beyoncé?&lt;/p&gt;
+
+&lt;p&gt;For all those reasons mentioned above, I strongly believe Artificial Intelligence is the final verdict.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/Screenshot%202020-12-07%20at%2020.46.00.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;i&gt;A GPT-3 demo&lt;/i&gt;&lt;/center&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="blog" /><category term="code" /><summary type="html">Devised by OpenAI and released this year, GPT-3, ‘an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model’ (Language Models are Few-Shot Learners, Tom B. Brown et al 2020), achieved an astonishingly admirable aftermath on simulating human language usage.</summary></entry><entry><title type="html">👶 How this site was made</title><link href="http://localhost:4000/how-this-site-was-made/" rel="alternate" type="text/html" title="👶 How this site was made" /><published>2020-12-02T21:45:47+00:00</published><updated>2020-12-02T21:45:47+00:00</updated><id>http://localhost:4000/how-this-site-was-made</id><content type="html" xml:base="http://localhost:4000/how-this-site-was-made/">&lt;p&gt;This site is powered by &lt;a href=&quot;https://vercel.com/&quot;&gt;Vercel&lt;/a&gt;, bootstrapped with &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, themed &lt;a href=&quot;https://github.com/piharpi/klise&quot;&gt;klisé&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you would like to build a same site like mine, carefully follow the steps below:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;fork this repo via clicking the button above&lt;/strong&gt; or &lt;strong&gt;clone this repo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/KnowsCount/blog.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;change things in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;. Remember to carefully go through everything!&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Import the code into Vercel (I’ll just assume you have a Vercel account)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="blog" /><category term="jekyll" /><category term="github" /><summary type="html">This site is powered by Vercel, bootstrapped with Jekyll, themed klisé.</summary></entry></feed>
