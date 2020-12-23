@@ -25,7 +25,7 @@ author:
 url: 'https://blog.knowscount.cc' #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-D56H8TP70W # leave it blank if not wish
 fb_appid:
 
 # Collection setting
@@ -89,12 +89,6 @@ plugins:
     - jekyll-feed
     - jekyll-sitemap
     - jekyll-postfiles
-    - jekyll-analytics
 
 jekyll_admin:
     homepage: 'pages'
-
-jekyll_analytics:
-    GoogleAnalytics: # Add, if you want to track with Google Analytics
-        id: G-D56H8TP70W # Required - replace with your tracking id
-        anonymizeIp: false # Optional - Default: false - set to true for anonymized tracking
