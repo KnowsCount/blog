@@ -1,14 +1,21 @@
 [
   
     {
-      "title"    : "2020 Christmas Journal 1",
+      "title"    : "📖 故事接龙平台的版本控制实现",
+      "tags"     : "",
+      "url"      : "/storyPlatform1/",
+      "date"     : "2020-12-29 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "🎄 2020 Christmas Journal 1",
       "tags"     : "",
       "url"      : "/2020-christmas-journal-1/",
       "date"     : "2020-12-23 00:00:00 +0000"
     } ,
   
     {
-      "title"    : "✒️ 冬——随笔",
+      "title"    : "✏️ 冬——随笔",
       "tags"     : "blog",
       "url"      : "/winter-memo/",
       "date"     : "2020-12-21 15:00:05 +0000"
