@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-01-02T08:27:57+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@google.com</email></author><entry><title type="html">📖 故事接龙平台的版本控制实现</title><link href="http://localhost:4000/storyPlatform1/" rel="alternate" type="text/html" title="📖 故事接龙平台的版本控制实现" /><published>2020-12-29T00:00:00+00:00</published><updated>2020-12-29T00:00:00+00:00</updated><id>http://localhost:4000/storyPlatform1</id><content type="html" xml:base="http://localhost:4000/storyPlatform1/">&lt;h3 id=&quot;版本控制&quot;&gt;版本控制&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-01-02T11:28:01+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@google.com</email></author><entry><title type="html">🔮 2021 Christmas Journal 2</title><link href="http://localhost:4000/2021-christmas-journal-2/" rel="alternate" type="text/html" title="🔮 2021 Christmas Journal 2" /><published>2021-01-02T00:00:00+00:00</published><updated>2021-01-02T00:00:00+00:00</updated><id>http://localhost:4000/2021-christmas-journal-2</id><content type="html" xml:base="http://localhost:4000/2021-christmas-journal-2/">&lt;p&gt;I’ve done quite a few things this week and shall hereby record them. I changed the title date but think it’s kinda inadequete to continue using ‘2’, but this does not matter.&lt;/p&gt;
+
+&lt;h3 id=&quot;coding&quot;&gt;Coding&lt;/h3&gt;
+
+&lt;p&gt;Still, I kept making contributions on GitHub.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/contributions2.png&quot; alt=&quot;contributions2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have started a new project, &lt;a href=&quot;https://github.com/fissureNet&quot;&gt;fissure&lt;/a&gt;, ‘a beauteous story collaboration platform orchestrated to be sexy and novel’, wherein I suggested a novel &lt;a href=&quot;https://en.wikipedia.org/wiki/Version_control&quot;&gt;Version Control System&lt;/a&gt; (&lt;a href=&quot;https://github.com/fissureNet/CCS-paper&quot;&gt;CCS&lt;/a&gt;, Collaborative Concurrent System) that in a sense combines &lt;a href=&quot;http://git-scm.com&quot;&gt;git&lt;/a&gt; and &lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot;&gt;Blockchain&lt;/a&gt; together with &lt;a href=&quot;https://github.com/orgs/fissureNet/people&quot;&gt;a few others&lt;/a&gt;. You can take a glance &lt;a href=&quot;https://github.com/fissureNet/fissure.vue&quot;&gt;here&lt;/a&gt;; sadly however, it is not yet open-sourced. Meanwhile, my &lt;a href=&quot;https://github.com/KnowsCount/nkcsStorage&quot;&gt;NKCS Storage Management System&lt;/a&gt; had some &lt;a href=&quot;https://github.com/KnowsCount/nkcsStorage/commit/main&quot;&gt;major updates&lt;/a&gt; on &lt;a href=&quot;https://github.com/KnowsCount/nkcsStorage/pulls?q=is%3Apr+is%3Aclosed&quot;&gt;versioning&lt;/a&gt; and security vulnerabilities &lt;a href=&quot;https://github.com/KnowsCount/nkcsStorage/pull/10&quot;&gt;(such as bumping ini from 1.3.5 to 1.3.8)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;books&quot;&gt;Books&lt;/h3&gt;
+
+&lt;p&gt;Huzzah. I still has not finished &lt;em&gt;The Gay Genius&lt;/em&gt;. It is a bit too boring for me. And as for the English book, I am currently on &lt;a href=&quot;http://www.gutenberg.org/ebooks/7321&quot;&gt;&lt;em&gt;The Nibelungenlied&lt;/em&gt; by G. H. Needler&lt;/a&gt;. Yes. &lt;em&gt;The Prisoner of Zenda&lt;/em&gt; was not the best choice&lt;/p&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+
+&lt;p&gt;There is still a Chinese poster/timeline tbd.&lt;/p&gt;
+
+&lt;h3 id=&quot;video-games&quot;&gt;Video Games&lt;/h3&gt;
+
+&lt;p&gt;Don’t talk this into me. Didn’t play ‘em for ages.&lt;/p&gt;
+
+&lt;h3 id=&quot;telly-shows&quot;&gt;Telly Shows&lt;/h3&gt;
+
+&lt;p&gt;Still watching &lt;em&gt;Silicon Valley&lt;/em&gt;.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><summary type="html">I’ve done quite a few things this week and shall hereby record them. I changed the title date but think it’s kinda inadequete to continue using ‘2’, but this does not matter.</summary></entry><entry><title type="html">📖 故事接龙平台的版本控制实现</title><link href="http://localhost:4000/storyPlatform1/" rel="alternate" type="text/html" title="📖 故事接龙平台的版本控制实现" /><published>2020-12-29T00:00:00+00:00</published><updated>2020-12-29T00:00:00+00:00</updated><id>http://localhost:4000/storyPlatform1</id><content type="html" xml:base="http://localhost:4000/storyPlatform1/">&lt;h3 id=&quot;版本控制&quot;&gt;版本控制&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;要怎么实现允许用户提交内容至不同故事线？&lt;/em&gt;&lt;/p&gt;
 

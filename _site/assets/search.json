@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "🔮 2021 Christmas Journal 2",
+      "tags"     : "",
+      "url"      : "/2021-christmas-journal-2/",
+      "date"     : "2021-01-02 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "📖 故事接龙平台的版本控制实现",
       "tags"     : "",
       "url"      : "/storyPlatform1/",
