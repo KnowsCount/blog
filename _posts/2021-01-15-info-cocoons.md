@@ -184,3 +184,11 @@ if __name__ == "__main__":
 ### 如何逃脱？
 
 CyberV。
+
+---
+
+## 有用的链接
+
+[强化学习总结（1）--EE 问题](ttps://www.cnblogs.com/xiachongkun/p/7719235.html)
+[manifold 代码](https://github.com/manifoldai/reinforcement_learning_public/blob/master/src/models/k_armed_bandit.py)
+[manifold 文章](https://www.manifold.ai/exploration-vs-exploitation-in-reinforcement-learning)
