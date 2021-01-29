@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-01-28T15:05:45+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@google.com</email></author><entry><title type="html">📕 The Eyeless.</title><link href="http://localhost:4000/the-eyeless/" rel="alternate" type="text/html" title="📕 The Eyeless." /><published>2021-01-28T00:00:00+00:00</published><updated>2021-01-28T00:00:00+00:00</updated><id>http://localhost:4000/the-eyeless</id><content type="html" xml:base="http://localhost:4000/the-eyeless/">&lt;p&gt;The breeze, albeit mild, has long dandled daffodils; the sun, albeit glaring, has long flickered aground.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-01-29T07:18:37+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@google.com</email></author><entry><title type="html">🌐 Google Forcing us To Use Chrome?!</title><link href="http://localhost:4000/google-forces-to-use-chrome/" rel="alternate" type="text/html" title="🌐 Google Forcing us To Use Chrome?!" /><published>2021-01-29T00:00:00+00:00</published><updated>2021-01-29T00:00:00+00:00</updated><id>http://localhost:4000/google-forces-to-use-chrome</id><content type="html" xml:base="http://localhost:4000/google-forces-to-use-chrome/">&lt;!--
+ * @Date: 29/01/2021 14.14.20 +0800
+ * @Author: KnowsCount
+ * @LastEditTime: 29/01/2021 14.54.49 +0800
+ * @FilePath: /myBlog/_posts/2021-01-29-google-forces-to-use-chrome.md
+--&gt;
+
+&lt;p&gt;In a recent &lt;a href=&quot;https://blog.chromium.org/2021/01/limiting-private-api-availability-in.html&quot;&gt;Chromium blog post&lt;/a&gt;, it was stated:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;During a recent audit, we discovered that some third-party Chromium based browsers were able to integrate Google features, such as Chrome sync and Click to Call, that are only intended for Google’s use. This meant that a small fraction of users could sign into their Google Account and store their personal Chrome sync data, such as bookmarks, not just with Google Chrome, but also with some third-party Chromium based browsers. We are limiting access to our private Chrome APIs starting on March 15, 2021.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/photo-1501250987900-211872d97eaa.jpeg&quot; alt=&quot;photo-1501250987900-211872d97eaa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Google Chrome teams has also sent an &lt;a href=&quot;https://groups.google.com/a/chromium.org/g/embedder-dev/c/NXm7GIKTNTE/m/Qxcew5lfCAAJ?pli=1&quot;&gt;email&lt;/a&gt;, announcing their future plans to bannig third-party browsers from using account synchronisation, and this irritated Linux distribution developers.&lt;/p&gt;
+
+&lt;p&gt;It is reported that from 15 March, users of third-party browsers based on Chromium using the configurations of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google_default_client_id&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google_default_client_secret&lt;/code&gt; will not be able to sign in to their Google Accounts.&lt;/p&gt;
+
+&lt;p&gt;According to Google, they – in recent audits – found some Chromium based browsers using services and APIs designed only for Google Chrome, most importantly, Chrome Sync API. Therefore, Google decided to remove the visiting of these APIs from third parties, claiming the decision is made as to enhance data security of users.&lt;/p&gt;
+
+&lt;p&gt;Linux distribution developers who have been using those APIs and services for the past decade, on the other hand, evinced their angriness and expressed it to Google by saying they will have to &lt;strong&gt;cease from maintaining Chromium software package&lt;/strong&gt; as it will become pointless. Jochen Eisinger, Chrome’s Director of Engineering, responded that &lt;strong&gt;they will firmly stick to their decision in future&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Up to this point, Slackware Linux and Arch Linux are already considering to &lt;strong&gt;remove Chromium from their repos&lt;/strong&gt;. Take Arch Linux’s &lt;a href=&quot;https://lists.archlinux.org/pipermail/arch-dev-public/2021-January/030263.html&quot;&gt;thread&lt;/a&gt; as an example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jochen Eisinger (Director of Engineering, Chrome) has confirmed that the killing of our API keys is a done deal. He also does not seem interested in the slightest bit to explore possible remedies for Chromium packages … I am going to stop maintaining Chromium and be in favor of dropping the package from our repos, though I have a feeling someone will want to adopt it despite the reduction in functionality.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><summary type="html"></summary></entry><entry><title type="html">📕 The Eyeless.</title><link href="http://localhost:4000/the-eyeless/" rel="alternate" type="text/html" title="📕 The Eyeless." /><published>2021-01-28T00:00:00+00:00</published><updated>2021-01-28T00:00:00+00:00</updated><id>http://localhost:4000/the-eyeless</id><content type="html" xml:base="http://localhost:4000/the-eyeless/">&lt;p&gt;The breeze, albeit mild, has long dandled daffodils; the sun, albeit glaring, has long flickered aground.&lt;/p&gt;
 
 &lt;p&gt;A genteel country maid greedy of flowers wandered amid the alien corns, and pressed the vivid petals whereon diamond-dews rests tenderly.&lt;/p&gt;
 
@@ -508,24 +535,4 @@ Short description - This module simulates a 10 armed bandit problem using a simp
 
 &lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/Screenshot%202020-12-07%20at%2020.46.00.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;center&gt;&lt;i&gt;A GPT-3 demo&lt;/i&gt;&lt;/center&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="blog" /><category term="code" /><summary type="html">Devised by OpenAI and released this year, GPT-3, ‘an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model’ (Language Models are Few-Shot Learners, Tom B. Brown et al 2020), achieved an astonishingly admirable aftermath on simulating human language usage.</summary></entry><entry><title type="html">👶 How this site was made</title><link href="http://localhost:4000/how-this-site-was-made/" rel="alternate" type="text/html" title="👶 How this site was made" /><published>2020-12-02T21:45:47+00:00</published><updated>2020-12-02T21:45:47+00:00</updated><id>http://localhost:4000/how-this-site-was-made</id><content type="html" xml:base="http://localhost:4000/how-this-site-was-made/">&lt;p&gt;This site is powered by &lt;a href=&quot;https://vercel.com/&quot;&gt;Vercel&lt;/a&gt;, bootstrapped with &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, themed &lt;a href=&quot;https://github.com/piharpi/klise&quot;&gt;klisé&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;If you would like to build a same site like mine, carefully follow the steps below:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;fork this repo via clicking the button above&lt;/strong&gt; or &lt;strong&gt;clone this repo&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/KnowsCount/blog.git
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;change things in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;. Remember to carefully go through everything!&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Import the code into Vercel (I’ll just assume you have a Vercel account)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="blog" /><category term="jekyll" /><category term="github" /><summary type="html">This site is powered by Vercel, bootstrapped with Jekyll, themed klisé.</summary></entry></feed>
+&lt;center&gt;&lt;i&gt;A GPT-3 demo&lt;/i&gt;&lt;/center&gt;</content><author><name>KnowsCount</name><email>knowscount@google.com</email></author><category term="blog" /><category term="code" /><summary type="html">Devised by OpenAI and released this year, GPT-3, ‘an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model’ (Language Models are Few-Shot Learners, Tom B. Brown et al 2020), achieved an astonishingly admirable aftermath on simulating human language usage.</summary></entry></feed>
