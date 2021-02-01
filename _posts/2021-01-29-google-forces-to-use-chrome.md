@@ -1,11 +1,11 @@
 ---
-title: "\U0001F310 Forcing us To Use Chrome?!"
+title: "\U0001F310 Forcing us to Use Chrome?!"
 ---
 
 <!--
  * @Date: 29/01/2021 14.14.20 +0800
  * @Author: KnowsCount
- * @LastEditTime: 29/01/2021 15.24.51 +0800
+ * @LastEditTime: 29/01/2021 15.40.31 +0800
  * @FilePath: /myBlog/_posts/2021-01-29-google-forces-to-use-chrome.md
 -->
 

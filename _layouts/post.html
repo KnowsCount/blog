@@ -73,6 +73,21 @@ layout: compress
           {% endif %}
         </div>
       </article>
+
+      <div id="gitmentContainer"></div>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitment@0.0.3/style/default.css">
+      <script src="https://cdn.jsdelivr.net/npm/gitment@0.0.3/dist/gitment.browser.js"></script>
+      <script>
+      var gitment = new Gitment({
+          owner: 'KnowsCount',
+          repo: 'https://github.com/KnowsCount/blog',
+          oauth: {
+              client_id: 'eecbeeb78b3337dd45e9',
+              client_secret: 'ef1d2abb1e327bcee82a25b345e8236f2675cd99',
+          },
+      });
+      gitment.render('gitmentContainer');
+      </script>
     
       {% if page.comments %}
         {% include comments.html %}
