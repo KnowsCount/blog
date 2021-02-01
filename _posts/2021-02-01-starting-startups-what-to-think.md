@@ -1,22 +1,29 @@
+<!--
+ * @Date: 01/02/2021 10.14.10 +0800
+ * @Author: KnowsCount
+ * @LastEditTime: 01/02/2021 23.12.20 +0800
+ * @FilePath: /myBlog/_posts/2021-02-01-starting-startups-what-to-think.md
+-->
+
 ---
-title: "\U0001F914 Tips for Starting Startups"
----
 
-I have been working a lot on my project '[Fissure](http://fissure1.misasky.com)' recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles. 
+## title: "\U0001F914 Tips for Starting Startups"
 
-These gave me some experience on startups.
+I have been working a lot on my project '[Fissure](http://fissure1.misasky.com)' recently and relentlessly whilst playing a quite important role in a startup Mount and Blade modding Studio Chronicles.
 
-Firstly, the pitch. The pitch is one of the most important aspect of your startup no matter how great your ideas are, if you cannot convey it, and you don't have any capital then your startup is useless. Plus, if you cannot inspire people, and you don't have a team already working for you, then your startup is more than useless.
+I've ergo gained some experiences in working on startup projects.
+
+Firstly pitching. pitching is one of the most important aspect of your startup. No matter how great your ideas are, your startup is useless if you cannot convey it and you don't have any capital. If you cannot inspire people, your startup is more than useless.
 
 > but wait what if I can make a product that doesn't require much capital?... and teamwork is not needed! I can totally handle backend, frontend, security, marketing, ~~HR~~ (not needed) by myself.
 
-Well.. If you cannot convey your ideas to customers then you're not going to have any customers, and if you don't have any customers, then your startup is useless, still. Every single interaction relating to your startup will somehow require you to pitch it. Now that is why it is essential to perfect your pitch. 
+Well.. If you cannot convey your ideas to customers then you're not going to have any customers, and if you don't have any customers, then your startup is useless, still. Every single interaction relating to your startup will somehow require you to pitch it. Now that is why it is essential to perfect your pitch.
 
 Easier said than done. Here are the seven questions that you should answer as clearly as possible:
 
 1. **What do you do?**
 
-    Test your idea with *Email test*, that is, to send an email to a competent friend and ask him to re-explain to you with his own words, and if they can do that, you're golden! If you wish to, you can follow the following template:
+    Test your idea with _Email test_, that is, to send an email to a competent friend and ask him to re-explain to you with his own words, and if they can do that, you're golden! If you wish to, you can follow the following template:
 
     ```
     To: Competent Friend
@@ -49,4 +56,4 @@ Easier said than done. Here are the seven questions that you should answer as cl
 
     The answer to this can be money, or simply to tell your mom you're actually doing something and you're not wasting her life-savings doing some paltry projects LOL.
 
-With these in mind, you'll be able to do ten-second pitches to a five-minute presentation with demo. 
+With these in mind, you'll be able to do ten-second pitches to a five-minute presentation with demo.
