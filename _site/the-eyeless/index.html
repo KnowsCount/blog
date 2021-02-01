@@ -1,17 +1,13 @@
 <!--
  * @Date: 19/12/2020 21.10.30 +0800
  * @Author: KnowsCount
- * @LastEditTime: 01/02/2021 21.55.59 +0800
+ * @LastEditTime: 01/02/2021 23.20.31 +0800
  * @FilePath: /myBlog/_layouts/post.html
 -->
----
-layout: compress
----
 
 <!DOCTYPE html>
 <html lang="en-UK">
-
-<head prefix="og: http://ogp.me/ns#">
+	<head prefix="og: http://ogp.me/ns#">
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -117,28 +113,27 @@ layout: compress
 </head>
 
 
-<body data-theme="light" class="notransition">
+	<body data-theme="light" class="notransition">
+		<script>
+			const body = document.body
+			const data = body.getAttribute('data-theme')
 
-  <script>
-    const body = document.body;
-    const data = body.getAttribute("data-theme");
+			const initTheme = (state) => {
+				if (state === 'dark') {
+					body.setAttribute('data-theme', 'dark')
+				} else if (state === 'light') {
+					body.removeAttribute('data-theme')
+				} else {
+					localStorage.setItem('theme', data)
+				}
+			}
 
-    const initTheme = (state) => {
-      if (state === "dark") {
-        body.setAttribute("data-theme", "dark");
-      } else if (state === "light") {
-        body.removeAttribute("data-theme");
-      } else {
-        localStorage.setItem("theme", data);
-      }
-    };
- 
-    initTheme(localStorage.getItem("theme"));
-    
-    setTimeout(() => body.classList.remove("notransition"), 75);
-  </script>
+			initTheme(localStorage.getItem('theme'))
 
-  <div class="navbar" role="navigation">
+			setTimeout(() => body.classList.remove('notransition'), 75)
+		</script>
+
+		<div class="navbar" role="navigation">
   <nav class="menu">
     <input type="checkbox" id="menu-trigger" class="menu-trigger" />
     <label for="menu-trigger">
@@ -325,34 +320,54 @@ layout: compress
   </nav>
 </div>
 
-  <div class="wrapper post">
-    <main class="page-content" aria-label="Content">
-      <article itemscope itemtype="https://schema.org/BlogPosting">
+		<div class="wrapper post">
+			<main class="page-content" aria-label="Content">
+				<article itemscope itemtype="https://schema.org/BlogPosting">
+					<header class="header">
+						
+						<h1 class="header-title" itemprop="headline">
+							📕 The Eyeless.
+						</h1>
+						
+						<div class="post-meta">
+							<time
+								datetime="2021-01-28T00:00:00+00:00"
+								itemprop="datePublished"
+							>
+								Jan 28, 2021
+							</time>
+							<span
+								itemprop="author"
+								itemscope
+								itemtype="https://schema.org/Person"
+							>
+								<span itemprop="name"
+									>KnowsCount</span
+								>
+							</span>
+							<time
+								hidden
+								datetime=""
+								itemprop="dateModified"
+							>
+								Jan 28, 2021
+							</time>
+							<span hidden itemprop="publisher" itemtype="Person"
+								>KnowsCount</span
+							>
+							<span hidden itemprop="image"
+								></span
+							>
+							<span hidden itemprop="mainEntityOfPage"
+								><p>The breeze, albeit mild, has long dandled daffodils; the sun, albeit glaring, has long flickered aground.</p>
+</span
+							>
+						</div>
+						
+					</header>
 
-        <header class="header">
-          
-          <h1 class="header-title" itemprop="headline">📕 The Eyeless.</h1>
-          
-          <div class="post-meta">
-            <time datetime="2021-01-28T00:00:00+00:00" itemprop="datePublished">
-              Jan 28, 2021
-            </time>
-            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">KnowsCount</span>
-            </span>
-            <time hidden datetime="" itemprop="dateModified">
-              Jan 28, 2021
-            </time>
-            <span hidden itemprop="publisher" itemtype="Person">KnowsCount</span>
-            <span hidden itemprop="image"></span>
-            <span hidden itemprop="mainEntityOfPage"><p>The breeze, albeit mild, has long dandled daffodils; the sun, albeit glaring, has long flickered aground.</p>
-</span>
-          </div>
-          
-        </header>
-
-        <div class="page-content" itemprop="articleBody">
-          <p>The breeze, albeit mild, has long dandled daffodils; the sun, albeit glaring, has long flickered aground.</p>
+					<div class="page-content" itemprop="articleBody">
+						<p>The breeze, albeit mild, has long dandled daffodils; the sun, albeit glaring, has long flickered aground.</p>
 
 <p>A genteel country maid greedy of flowers wandered amid the alien corns, and pressed the vivid petals whereon diamond-dews rests tenderly.</p>
 
@@ -381,18 +396,14 @@ layout: compress
 <p>But ‘twas all but a dream before his death. Out of the five battalions that fought on the fields, there wasn’t anyone who truely witnessed the hideous state of the dead man’s body, the face and skull blown to smithereens by the gunshots, three holes where bullets had penetrated the neck and the region of the breastbone; nor was there anyone who saw the last smile: <em>I don’t think we did go blind, I think we are blind, Blind but seeing, Blind people who can see, but do not see</em>.</p>
 
 <p>The dew evaporated, the petals dried, the country-maid plucked the flower, touching the moistureless petals with her fingers – a vivid life can become such a weakling after being abandoned.</p>
+ 
+					</div>
+				</article>
 
-          
-        </div>
-      </article>
-    
-      
+				
+			</main>
 
-    </main>
-
-    
-    
-      <nav class="post-nav">
+			  <nav class="post-nav">
   
   <a
     class="post-nav-item post-nav-prev"
@@ -408,10 +419,7 @@ layout: compress
   </a>
   
 </nav>
-
-    
-
-    <footer class="footer">
+  <footer class="footer">
 	<a class="footer_item" href="/thanks">ack.</a>
 	<a class="footer_item" href="javascript::void(0)">resume</a>
 	<a class="footer_item" href="/feed.xml">rss</a>
@@ -432,7 +440,6 @@ layout: compress
 	</small>
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
-  </div>
-</body>
-
+		</div>
+	</body>
 </html>

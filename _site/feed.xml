@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-01T14:14:34+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🤔 Tips for Starting Startups</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="🤔 Tips for Starting Startups" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;p&gt;I have been working a lot on my project ‘&lt;a href=&quot;http://fissure1.misasky.com&quot;&gt;Fissure&lt;/a&gt;’ recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-01T15:21:29+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🤔 Tips for Starting Startups</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="🤔 Tips for Starting Startups" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;!--
+ * @Date: 01/02/2021 10.14.10 +0800
+ * @Author: KnowsCount
+ * @LastEditTime: 01/02/2021 23.21.28 +0800
+ * @FilePath: /myBlog/_posts/2021-02-01-starting-startups-what-to-think.md
+--&gt;
 
-&lt;p&gt;These gave me some experience on startups.&lt;/p&gt;
+&lt;p&gt;I have been working a lot on my project ‘&lt;a href=&quot;http://fissure1.misasky.com&quot;&gt;Fissure&lt;/a&gt;’ recently and relentlessly whilst playing a quite important role in a startup Mount and Blade modding Studio Chronicles.&lt;/p&gt;
 
-&lt;p&gt;Firstly, the pitch. The pitch is one of the most important aspect of your startup no matter how great your ideas are, if you cannot convey it, and you don’t have any capital then your startup is useless. Plus, if you cannot inspire people, and you don’t have a team already working for you, then your startup is more than useless.&lt;/p&gt;
+&lt;p&gt;I’ve ergo gained some experiences in working on startup projects.&lt;/p&gt;
+
+&lt;p&gt;Firstly pitching. pitching is one of the most important aspect of your startup. No matter how great your ideas are, your startup is useless if you cannot convey it and you don’t have any capital. If you cannot inspire people, your startup is more than useless.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;but wait what if I can make a product that doesn’t require much capital?… and teamwork is not needed! I can totally handle backend, frontend, security, marketing, &lt;del&gt;HR&lt;/del&gt; (not needed) by myself.&lt;/p&gt;
@@ -56,7 +63,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;With these in mind, you’ll be able to do ten-second pitches to a five-minute presentation with demo.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">I have been working a lot on my project ‘Fissure’ recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles.</summary></entry><entry><title type="html">🌐 Forcing us to Use Chrome?!</title><link href="http://localhost:4000/google-forces-to-use-chrome/" rel="alternate" type="text/html" title="🌐 Forcing us to Use Chrome?!" /><published>2021-01-29T00:00:00+00:00</published><updated>2021-01-29T00:00:00+00:00</updated><id>http://localhost:4000/google-forces-to-use-chrome</id><content type="html" xml:base="http://localhost:4000/google-forces-to-use-chrome/">&lt;!--
+&lt;p&gt;With these in mind, you’ll be able to do ten-second pitches to a five-minute presentation with demo.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html"></summary></entry><entry><title type="html">🌐 Forcing us to Use Chrome?!</title><link href="http://localhost:4000/google-forces-to-use-chrome/" rel="alternate" type="text/html" title="🌐 Forcing us to Use Chrome?!" /><published>2021-01-29T00:00:00+00:00</published><updated>2021-01-29T00:00:00+00:00</updated><id>http://localhost:4000/google-forces-to-use-chrome</id><content type="html" xml:base="http://localhost:4000/google-forces-to-use-chrome/">&lt;!--
  * @Date: 29/01/2021 14.14.20 +0800
  * @Author: KnowsCount
  * @LastEditTime: 29/01/2021 15.40.31 +0800

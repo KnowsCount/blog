@@ -1,17 +1,13 @@
 <!--
  * @Date: 19/12/2020 21.10.30 +0800
  * @Author: KnowsCount
- * @LastEditTime: 01/02/2021 21.55.59 +0800
+ * @LastEditTime: 01/02/2021 23.20.31 +0800
  * @FilePath: /myBlog/_layouts/post.html
 -->
----
-layout: compress
----
 
 <!DOCTYPE html>
 <html lang="en-UK">
-
-<head prefix="og: http://ogp.me/ns#">
+	<head prefix="og: http://ogp.me/ns#">
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -117,28 +113,27 @@ layout: compress
 </head>
 
 
-<body data-theme="light" class="notransition">
+	<body data-theme="light" class="notransition">
+		<script>
+			const body = document.body
+			const data = body.getAttribute('data-theme')
 
-  <script>
-    const body = document.body;
-    const data = body.getAttribute("data-theme");
+			const initTheme = (state) => {
+				if (state === 'dark') {
+					body.setAttribute('data-theme', 'dark')
+				} else if (state === 'light') {
+					body.removeAttribute('data-theme')
+				} else {
+					localStorage.setItem('theme', data)
+				}
+			}
 
-    const initTheme = (state) => {
-      if (state === "dark") {
-        body.setAttribute("data-theme", "dark");
-      } else if (state === "light") {
-        body.removeAttribute("data-theme");
-      } else {
-        localStorage.setItem("theme", data);
-      }
-    };
- 
-    initTheme(localStorage.getItem("theme"));
-    
-    setTimeout(() => body.classList.remove("notransition"), 75);
-  </script>
+			initTheme(localStorage.getItem('theme'))
 
-  <div class="navbar" role="navigation">
+			setTimeout(() => body.classList.remove('notransition'), 75)
+		</script>
+
+		<div class="navbar" role="navigation">
   <nav class="menu">
     <input type="checkbox" id="menu-trigger" class="menu-trigger" />
     <label for="menu-trigger">
@@ -325,44 +320,66 @@ layout: compress
   </nav>
 </div>
 
-  <div class="wrapper post">
-    <main class="page-content" aria-label="Content">
-      <article itemscope itemtype="https://schema.org/BlogPosting">
+		<div class="wrapper post">
+			<main class="page-content" aria-label="Content">
+				<article itemscope itemtype="https://schema.org/BlogPosting">
+					<header class="header">
+						
+						<div class="tags">
+							
+							<span itemprop="keywords">
+								
+								<a
+									class="tag"
+									href="/tags/#blog"
+									>BLOG</a
+								> 
+							</span>
+						</div>
+						
+						<h1 class="header-title" itemprop="headline">
+							✏️ 冬——随笔
+						</h1>
+						
+						<div class="post-meta">
+							<time
+								datetime="2020-12-21T15:00:05+00:00"
+								itemprop="datePublished"
+							>
+								Dec 21, 2020
+							</time>
+							<span
+								itemprop="author"
+								itemscope
+								itemtype="https://schema.org/Person"
+							>
+								<span itemprop="name"
+									>KnowsCount</span
+								>
+							</span>
+							<time
+								hidden
+								datetime=""
+								itemprop="dateModified"
+							>
+								Dec 21, 2020
+							</time>
+							<span hidden itemprop="publisher" itemtype="Person"
+								>KnowsCount</span
+							>
+							<span hidden itemprop="image"
+								></span
+							>
+							<span hidden itemprop="mainEntityOfPage"
+								><p>人类初创的年岁，没有凛冬，只有春夏与秋，却也是呼腾呼腾地闹着，就如当初伊的膀子呼呼地抡着，万物不乏活力；然天帝似乎不大乐意如此的局面，觉得实在缺少了甚么，就恶趣地给天地加入了一个新的时令，名之曰「冬」。</p>
+</span
+							>
+						</div>
+						
+					</header>
 
-        <header class="header">
-          
-          <div class="tags">
-            
-            <span itemprop="keywords">
-              
-              <a class="tag"
-                href="/tags/#blog">BLOG</a>
-              
-            </span>
-          </div>
-          
-          <h1 class="header-title" itemprop="headline">✏️ 冬——随笔</h1>
-          
-          <div class="post-meta">
-            <time datetime="2020-12-21T15:00:05+00:00" itemprop="datePublished">
-              Dec 21, 2020
-            </time>
-            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">KnowsCount</span>
-            </span>
-            <time hidden datetime="" itemprop="dateModified">
-              Dec 21, 2020
-            </time>
-            <span hidden itemprop="publisher" itemtype="Person">KnowsCount</span>
-            <span hidden itemprop="image"></span>
-            <span hidden itemprop="mainEntityOfPage"><p>人类初创的年岁，没有凛冬，只有春夏与秋，却也是呼腾呼腾地闹着，就如当初伊的膀子呼呼地抡着，万物不乏活力；然天帝似乎不大乐意如此的局面，觉得实在缺少了甚么，就恶趣地给天地加入了一个新的时令，名之曰「冬」。</p>
-</span>
-          </div>
-          
-        </header>
-
-        <div class="page-content" itemprop="articleBody">
-          <p>人类初创的年岁，没有凛冬，只有春夏与秋，却也是呼腾呼腾地闹着，就如当初伊的膀子呼呼地抡着，万物不乏活力；然天帝似乎不大乐意如此的局面，觉得实在缺少了甚么，就恶趣地给天地加入了一个新的时令，名之曰「冬」。</p>
+					<div class="page-content" itemprop="articleBody">
+						<p>人类初创的年岁，没有凛冬，只有春夏与秋，却也是呼腾呼腾地闹着，就如当初伊的膀子呼呼地抡着，万物不乏活力；然天帝似乎不大乐意如此的局面，觉得实在缺少了甚么，就恶趣地给天地加入了一个新的时令，名之曰「冬」。</p>
 
 <p>人类热心家的猛士们便奋勇地站出了，严辞地反抗肃杀的冷冬。这样的局面娱乐了天帝，觉得似乎一切又都平衡了，于是昏昏然眯了过去。人类的其他热心家看他们的猛士们似乎抗议未果，就也奋勇地站出，谴责这些颓废货色。</p>
 
@@ -373,18 +390,14 @@ layout: compress
 <p>北国的学者从原先精神抖擞，到了倚靠拐杖，终于作出了一章《雪国凤年论》，谐音了丰年，很是得意。而从此北国的学者逢人就讲塞恩斯，瑞雪兆丰年。北国的人于是有了比南国人民更高一些的作威作福资本，使南国人很是不快。南国人便派出学者，先私下去北国考察，又闭门苦读十五年，才作另一文章——大致引了北国人著名的话：「雪是雨水的精魂」，给其予「精魂是证明雪是煞死了的」的反驳。</p>
 
 <p>这时天帝终于醒来，看到这样的局面，更觉娱乐，便哈哈大笑起来。神清气爽着，他想起奖励下人类，于是要收回冬季。多年不见的人类热心家的猛士们便再次奋勇地站出了，誓死捍卫冬天的存在，这次倒要更猛烈尖锐些，甚者居然说出了「神心不古，天将不天」的造反话。天帝于是震怒，委地球而去。</p>
+ 
+					</div>
+				</article>
 
-          
-        </div>
-      </article>
-    
-      
+				
+			</main>
 
-    </main>
-
-    
-    
-      <nav class="post-nav">
+			  <nav class="post-nav">
   
   <a
     class="post-nav-item post-nav-prev"
@@ -400,10 +413,7 @@ layout: compress
   </a>
   
 </nav>
-
-    
-
-    <footer class="footer">
+  <footer class="footer">
 	<a class="footer_item" href="/thanks">ack.</a>
 	<a class="footer_item" href="javascript::void(0)">resume</a>
 	<a class="footer_item" href="/feed.xml">rss</a>
@@ -424,7 +434,6 @@ layout: compress
 	</small>
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
-  </div>
-</body>
-
+		</div>
+	</body>
 </html>

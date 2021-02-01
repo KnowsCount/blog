@@ -1,17 +1,13 @@
 <!--
  * @Date: 19/12/2020 21.10.30 +0800
  * @Author: KnowsCount
- * @LastEditTime: 01/02/2021 21.55.59 +0800
+ * @LastEditTime: 01/02/2021 23.20.31 +0800
  * @FilePath: /myBlog/_layouts/post.html
 -->
----
-layout: compress
----
 
 <!DOCTYPE html>
 <html lang="en-UK">
-
-<head prefix="og: http://ogp.me/ns#">
+	<head prefix="og: http://ogp.me/ns#">
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -117,28 +113,27 @@ layout: compress
 </head>
 
 
-<body data-theme="light" class="notransition">
+	<body data-theme="light" class="notransition">
+		<script>
+			const body = document.body
+			const data = body.getAttribute('data-theme')
 
-  <script>
-    const body = document.body;
-    const data = body.getAttribute("data-theme");
+			const initTheme = (state) => {
+				if (state === 'dark') {
+					body.setAttribute('data-theme', 'dark')
+				} else if (state === 'light') {
+					body.removeAttribute('data-theme')
+				} else {
+					localStorage.setItem('theme', data)
+				}
+			}
 
-    const initTheme = (state) => {
-      if (state === "dark") {
-        body.setAttribute("data-theme", "dark");
-      } else if (state === "light") {
-        body.removeAttribute("data-theme");
-      } else {
-        localStorage.setItem("theme", data);
-      }
-    };
- 
-    initTheme(localStorage.getItem("theme"));
-    
-    setTimeout(() => body.classList.remove("notransition"), 75);
-  </script>
+			initTheme(localStorage.getItem('theme'))
 
-  <div class="navbar" role="navigation">
+			setTimeout(() => body.classList.remove('notransition'), 75)
+		</script>
+
+		<div class="navbar" role="navigation">
   <nav class="menu">
     <input type="checkbox" id="menu-trigger" class="menu-trigger" />
     <label for="menu-trigger">
@@ -325,34 +320,54 @@ layout: compress
   </nav>
 </div>
 
-  <div class="wrapper post">
-    <main class="page-content" aria-label="Content">
-      <article itemscope itemtype="https://schema.org/BlogPosting">
+		<div class="wrapper post">
+			<main class="page-content" aria-label="Content">
+				<article itemscope itemtype="https://schema.org/BlogPosting">
+					<header class="header">
+						
+						<h1 class="header-title" itemprop="headline">
+							🖲 逃离信息茧房 - CyberV
+						</h1>
+						
+						<div class="post-meta">
+							<time
+								datetime="2021-01-15T00:00:00+00:00"
+								itemprop="datePublished"
+							>
+								Jan 15, 2021
+							</time>
+							<span
+								itemprop="author"
+								itemscope
+								itemtype="https://schema.org/Person"
+							>
+								<span itemprop="name"
+									>KnowsCount</span
+								>
+							</span>
+							<time
+								hidden
+								datetime=""
+								itemprop="dateModified"
+							>
+								Jan 15, 2021
+							</time>
+							<span hidden itemprop="publisher" itemtype="Person"
+								>KnowsCount</span
+							>
+							<span hidden itemprop="image"
+								></span
+							>
+							<span hidden itemprop="mainEntityOfPage"
+								><h2 id="当今我们活在一个算法统治的互联网里">当今，我们活在一个算法统治的互联网里。</h2>
+</span
+							>
+						</div>
+						
+					</header>
 
-        <header class="header">
-          
-          <h1 class="header-title" itemprop="headline">🖲 逃离信息茧房 - CyberV</h1>
-          
-          <div class="post-meta">
-            <time datetime="2021-01-15T00:00:00+00:00" itemprop="datePublished">
-              Jan 15, 2021
-            </time>
-            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">KnowsCount</span>
-            </span>
-            <time hidden datetime="" itemprop="dateModified">
-              Jan 15, 2021
-            </time>
-            <span hidden itemprop="publisher" itemtype="Person">KnowsCount</span>
-            <span hidden itemprop="image"></span>
-            <span hidden itemprop="mainEntityOfPage"><h2 id="当今我们活在一个算法统治的互联网里">当今，我们活在一个算法统治的互联网里。</h2>
-</span>
-          </div>
-          
-        </header>
-
-        <div class="page-content" itemprop="articleBody">
-          <h2 id="当今我们活在一个算法统治的互联网里">
+					<div class="page-content" itemprop="articleBody">
+						<h2 id="当今我们活在一个算法统治的互联网里">
         
         
           <a href="#当今我们活在一个算法统治的互联网里" class="anchor-head"></a> 当今，我们活在一个算法统治的互联网里。
@@ -585,18 +600,14 @@ Short description - This module simulates a 10 armed bandit problem using a simp
 <p><a href="ttps://www.cnblogs.com/xiachongkun/p/7719235.html">强化学习总结（1）–EE 问题</a>
 <a href="https://github.com/manifoldai/reinforcement_learning_public/blob/master/src/models/k_armed_bandit.py">manifold 代码</a>
 <a href="https://www.manifold.ai/exploration-vs-exploitation-in-reinforcement-learning">manifold 文章</a></p>
+ 
+					</div>
+				</article>
 
-          
-        </div>
-      </article>
-    
-      
+				
+			</main>
 
-    </main>
-
-    
-    
-      <nav class="post-nav">
+			  <nav class="post-nav">
   
   <a
     class="post-nav-item post-nav-prev"
@@ -612,10 +623,7 @@ Short description - This module simulates a 10 armed bandit problem using a simp
   </a>
   
 </nav>
-
-    
-
-    <footer class="footer">
+  <footer class="footer">
 	<a class="footer_item" href="/thanks">ack.</a>
 	<a class="footer_item" href="javascript::void(0)">resume</a>
 	<a class="footer_item" href="/feed.xml">rss</a>
@@ -636,7 +644,6 @@ Short description - This module simulates a 10 armed bandit problem using a simp
 	</small>
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
-  </div>
-</body>
-
+		</div>
+	</body>
 </html>
