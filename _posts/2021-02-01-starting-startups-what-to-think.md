@@ -1,5 +1,5 @@
 ---
-title: 'Starting Startups: What to Ponder'
+title: "\U0001F914 Tips for Starting Startups"
 ---
 
 I have been working a lot on my project '[Fissure](http://fissure1.misasky.com)' recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles. 
@@ -14,14 +14,39 @@ Well.. If you cannot convey your ideas to customers then you're not going to hav
 
 Easier said than done. Here are the seven questions that you should answer as clearly as possible:
 
-1. What do you do?
-2. How big is the market?
-3. What's your progress?
-4. What's your unique insight?
-5. What's your bussiness model?
-6. Who's on your team?
-7. What do you want?
+1. **What do you do?**
 
-With these in mind, you'll be able to do ten-second pitches to a five-minute presentation with demo.
+    Test your idea with *Email test*, that is, to send an email to a competent friend and ask him to re-explain to you with his own words, and if they can do that, you're golden! If you wish to, you can follow the following template:
 
-I'll come back and go into details later.
+    ```
+    To: Competent Friend
+    Subject: My Startup
+    ---
+    my startup is about xyz and it solves the problem of abc using ijk.
+    ```
+
+2. **How big is the market?**
+
+    Inverstors look at Return on Invensment so if you don't have a market, they'll never invest, so you need a market. Do not make your market target too wide or too low... make it correct. You're only wasting one another's time if you are making up numbers.
+
+3. **What's your progress?**
+
+    Investors want to make sure you are actually doing something... so, what is possible in a given time frame?
+
+4. **What's your unique insight?**
+
+    Or, in some sense, what is your competitive advantage? How are you different from any other alike-products out there in the market? What makes it likely for your startup to suceed in the market?
+
+5. **What's your bussiness model?**
+
+    How are you to make money? Are you the 'grow fast think about money later' type or are you the 'making money right now' type of company? It's always wise to have a plan of attack when it comes to monetisation.
+
+6. **Who's on your team?**
+
+    What are your standards and credentials whose technical? Who's doing what? Is everyone useful? Are you as lean as possible? These are the questions to ask yourself all the time.
+
+7. **What do you want?**
+
+    The answer to this can be money, or simply to tell your mom you're actually doing something and you're not wasting her life-savings doing some paltry projects LOL.
+
+With these in mind, you'll be able to do ten-second pitches to a five-minute presentation with demo. 

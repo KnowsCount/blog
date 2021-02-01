@@ -92,11 +92,3 @@ plugins:
 
 jekyll_admin:
     homepage: 'pages'
-
-gitalk:
-    enable: true
-    owner: KnowsCount
-    repo: blog.knowscount.cc
-    clientID: eecbeeb78b3337dd45e9
-    clientSecret: ef1d2abb1e327bcee82a25b345e8236f2675cd99
-    admin: KnowsCount

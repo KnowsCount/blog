@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-01T02:26:59+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">Starting Startups: What to Ponder</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="Starting Startups: What to Ponder" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;p&gt;I have been working a lot on my project ‘&lt;a href=&quot;http://fissure1.misasky.com&quot;&gt;Fissure&lt;/a&gt;’ recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-01T14:14:34+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🤔 Tips for Starting Startups</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="🤔 Tips for Starting Startups" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;p&gt;I have been working a lot on my project ‘&lt;a href=&quot;http://fissure1.misasky.com&quot;&gt;Fissure&lt;/a&gt;’ recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles.&lt;/p&gt;
 
 &lt;p&gt;These gave me some experience on startups.&lt;/p&gt;
 
@@ -13,18 +13,50 @@
 &lt;p&gt;Easier said than done. Here are the seven questions that you should answer as clearly as possible:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;What do you do?&lt;/li&gt;
-  &lt;li&gt;How big is the market?&lt;/li&gt;
-  &lt;li&gt;What’s your progress?&lt;/li&gt;
-  &lt;li&gt;What’s your unique insight?&lt;/li&gt;
-  &lt;li&gt;What’s your bussiness model?&lt;/li&gt;
-  &lt;li&gt;Who’s on your team?&lt;/li&gt;
-  &lt;li&gt;What do you want?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Test your idea with &lt;em&gt;Email test&lt;/em&gt;, that is, to send an email to a competent friend and ask him to re-explain to you with his own words, and if they can do that, you’re golden! If you wish to, you can follow the following template:&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; To: Competent Friend
+ Subject: My Startup
+ ---
+ my startup is about xyz and it solves the problem of abc using ijk.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;How big is the market?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Inverstors look at Return on Invensment so if you don’t have a market, they’ll never invest, so you need a market. Do not make your market target too wide or too low… make it correct. You’re only wasting one another’s time if you are making up numbers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What’s your progress?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Investors want to make sure you are actually doing something… so, what is possible in a given time frame?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What’s your unique insight?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Or, in some sense, what is your competitive advantage? How are you different from any other alike-products out there in the market? What makes it likely for your startup to suceed in the market?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What’s your bussiness model?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;How are you to make money? Are you the ‘grow fast think about money later’ type or are you the ‘making money right now’ type of company? It’s always wise to have a plan of attack when it comes to monetisation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Who’s on your team?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;What are your standards and credentials whose technical? Who’s doing what? Is everyone useful? Are you as lean as possible? These are the questions to ask yourself all the time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What do you want?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;The answer to this can be money, or simply to tell your mom you’re actually doing something and you’re not wasting her life-savings doing some paltry projects LOL.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;With these in mind, you’ll be able to do ten-second pitches to a five-minute presentation with demo.&lt;/p&gt;
-
-&lt;p&gt;I’ll come back and go into details later.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">I have been working a lot on my project ‘Fissure’ recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles.</summary></entry><entry><title type="html">🌐 Forcing us to Use Chrome?!</title><link href="http://localhost:4000/google-forces-to-use-chrome/" rel="alternate" type="text/html" title="🌐 Forcing us to Use Chrome?!" /><published>2021-01-29T00:00:00+00:00</published><updated>2021-01-29T00:00:00+00:00</updated><id>http://localhost:4000/google-forces-to-use-chrome</id><content type="html" xml:base="http://localhost:4000/google-forces-to-use-chrome/">&lt;!--
+&lt;p&gt;With these in mind, you’ll be able to do ten-second pitches to a five-minute presentation with demo.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">I have been working a lot on my project ‘Fissure’ recently and relentlessly. Also, I am in a startup Mount and Blade modding Studio Chronicles.</summary></entry><entry><title type="html">🌐 Forcing us to Use Chrome?!</title><link href="http://localhost:4000/google-forces-to-use-chrome/" rel="alternate" type="text/html" title="🌐 Forcing us to Use Chrome?!" /><published>2021-01-29T00:00:00+00:00</published><updated>2021-01-29T00:00:00+00:00</updated><id>http://localhost:4000/google-forces-to-use-chrome</id><content type="html" xml:base="http://localhost:4000/google-forces-to-use-chrome/">&lt;!--
  * @Date: 29/01/2021 14.14.20 +0800
  * @Author: KnowsCount
  * @LastEditTime: 29/01/2021 15.40.31 +0800
