@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-02T12:40:52+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🕵️‍♂️ Why is Invitation-only Winning?</title><link href="http://localhost:4000/why-is-invitation-only-winning/" rel="alternate" type="text/html" title="🕵️‍♂️ Why is Invitation-only Winning?" /><published>2021-02-02T00:00:00+00:00</published><updated>2021-02-02T00:00:00+00:00</updated><id>http://localhost:4000/why-is-invitation-only-winning</id><content type="html" xml:base="http://localhost:4000/why-is-invitation-only-winning/">&lt;p&gt;Recently, a new invitation-only app &lt;a href=&quot;https://www.joinclubhouse.com&quot;&gt;Clubhouse &lt;/a&gt;appeared in the market and had a huge triumph along with another invitation-only email app &lt;a href=&quot;https://hey.com&quot;&gt;Hey&lt;/a&gt;. That makes me wonder: why is invitation-only strategy winning?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-02T13:38:46+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🕵️‍♂️ Why is Invitation-only Winning?</title><link href="http://localhost:4000/why-is-invitation-only-winning/" rel="alternate" type="text/html" title="🕵️‍♂️ Why is Invitation-only Winning?" /><published>2021-02-02T00:00:00+00:00</published><updated>2021-02-02T00:00:00+00:00</updated><id>http://localhost:4000/why-is-invitation-only-winning</id><content type="html" xml:base="http://localhost:4000/why-is-invitation-only-winning/">&lt;!--
+ * @Date: 02/02/2021 19.48.11 +0800
+ * @Author: KnowsCount
+ * @LastEditTime: 02/02/2021 21.38.46 +0800
+ * @FilePath: /myBlog/_posts/2021-02-02-why-is-invitation-only-winning.md
+--&gt;
+
+&lt;p&gt;Recently, a new invitation-only app &lt;a href=&quot;https://www.joinclubhouse.com&quot;&gt;Clubhouse&lt;/a&gt; appeared in the market and had a huge triumph along with another invitation-only email app &lt;a href=&quot;https://hey.com&quot;&gt;Hey&lt;/a&gt;. That makes me wonder: why is invitation-only strategy winning?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/dayne-topkin-u5Zt-HoocrM-unsplash.jpg&quot; alt=&quot;invitation-only&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;The first triumph of invitation-only strategies that I am aware of is the case of &lt;a href=&quot;http://www.gmail.com/&quot;&gt;Gmail&lt;/a&gt; (and there is a hardship distinguishing whether that success had anything to do with its initial invite-only policy or other factors XD). You might also recall&lt;a href=&quot;http://www.facebook.com/&quot;&gt; Facebook&lt;/a&gt; was born for a finite group of audiences, perhaps for some of the same reasons one might institute an invite-only policy. Some other exemplars that were once invitation-only I know of are &lt;a href=&quot;http://dribbble.com&quot;&gt;Dribbble&lt;/a&gt;, &lt;a href=&quot;http://www.medium.com/&quot;&gt;Medium&lt;/a&gt;, etc. (note: all mentioned above are not invitation-only anymore).&lt;/p&gt;
+&lt;p&gt;The first triumph of invitation-only strategies that I am aware of is the case of &lt;a href=&quot;http://www.gmail.com/&quot;&gt;Gmail&lt;/a&gt; (and there is a hardship distinguishing whether that success had anything to do with its initial invite-only policy or other factors XD). You might also recall &lt;a href=&quot;http://www.facebook.com/&quot;&gt;Facebook&lt;/a&gt; was born for a finite group of audiences, perhaps for some of the same reasons one might institute an invite-only policy. Some other exemplars that were once invitation-only I know of are &lt;a href=&quot;http://dribbble.com&quot;&gt;Dribbble&lt;/a&gt;, &lt;a href=&quot;http://www.medium.com/&quot;&gt;Medium&lt;/a&gt;, etc. (note: all mentioned above are not invitation-only anymore).&lt;/p&gt;
 
 &lt;p&gt;The recent examples are Clubhouse (by &lt;a href=&quot;https://apps.apple.com/us/developer/alpha-exploration-co/id1481002987&quot;&gt;Alpha Exploration Co&lt;/a&gt;, initially released in April 2020) and Hey (by &lt;a href=&quot;https://basecamp.com&quot;&gt;Basecamp&lt;/a&gt;, initially realeased in June 2020). Both of them achieved a huge success as startups, and I am, in the next few paragraphs, going to provide you with some basic information about these two products.&lt;/p&gt;
 
@@ -13,7 +20,7 @@
 &lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/391bpr.png&quot; alt=&quot;hey-poster&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Email sucked for years. Not anymore — we fixed it. HEY’s fresh approach transforms email into something you want to use, not something you’re forced to deal with.&lt;/p&gt;
+  &lt;p&gt;Email sucked for years. Not anymore — we fixed it. HEY’s fresh approach transforms email into something you want to use, not something you’re forced to deal with. - hey.com homepage&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -22,7 +29,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.producthunt.com/posts/hey-62dbfc18-c745-4d86-9a5b-a23a1f4d9eb3&quot;&gt;&lt;strong&gt;Product Hunt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Hey is the first thing because it is more &lt;strong&gt;‘conventional’&lt;/strong&gt;. Why so? Invitation-only used to be a marketing strategy for email companies. For instance, Gmail. Gamil went viral, so viral that some were selling Gmail invites on eBay (same thing with Hey and Clubhouse invites for hundreds of dollars &lt;a href=&quot;https://twitter.com/ShaanVP/status/1356102192285900801&quot;&gt;(case 1)&lt;/a&gt; &lt;a href=&quot;https://twitter.com/dhh/status/1272885291624226816?lang=en&quot;&gt;(case 2)&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Hey is the first thing because it is considered to be more &lt;strong&gt;‘conventional’&lt;/strong&gt;. Why so? Invitation-only used to be a marketing strategy for email companies. For instance, Gmail. Gamil went viral, so viral that some were selling Gmail invites on eBay (same thing with Hey and Clubhouse invites for hundreds of dollars &lt;a href=&quot;https://twitter.com/ShaanVP/status/1356102192285900801&quot;&gt;(case 1)&lt;/a&gt; &lt;a href=&quot;https://twitter.com/dhh/status/1272885291624226816?lang=en&quot;&gt;(case 2)&lt;/a&gt;).&lt;/p&gt;
 
 &lt;h3 id=&quot;clubhouse&quot;&gt;Clubhouse&lt;/h3&gt;
 
@@ -37,7 +44,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.joinclubhouse.com/blog&quot;&gt;&lt;strong&gt;Blog&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;It is Clubhouse that motivated me to write this blog; it is also Clubhouse that motivated me to do the research and found Hey… So Remember to say thanks to Alpha Exploration, Basecamp!&lt;/p&gt;
+&lt;p&gt;It is Clubhouse that motivated me to write this blog; it is also Clubhouse that motivated me to do the research and thus found Hey… So remember to say thanks to Alpha Exploration, Basecamp!&lt;/p&gt;
 
 &lt;p&gt;Right, back to the topic, the really interesting thing about Clubhose is how it uses the invitation-only system to basically build exclusivity, virtually like it’s a &lt;strong&gt;private circle&lt;/strong&gt; wherein you have to know somebody as to join and thereby increased the value of the invitation and, as most of us desire to see that which we’ve been missing out on, makes it more likely for people to fight for the invitation. &lt;strong&gt;Clubhouse took that to the extreme&lt;/strong&gt;: I still haven’t seen my invitation yet.&lt;/p&gt;
 
@@ -45,7 +52,7 @@
 
 &lt;p&gt;So, why, after all, is this strategy successful, then? What makes it different from all other marketing models?&lt;/p&gt;
 
-&lt;p&gt;If you would conclude that which I said above, invitation-only success for the fact that it conveys a sense, albeit possibly forged, of exclusiveness, and most of us get a hard on for that kind of thing.&lt;/p&gt;
+&lt;p&gt;If you would conclude that which I said above, invitation-only succeeded for the fact that it conveys a sense, albeit possibly forged, of exclusiveness, and most of us get a hard on for that kind of thing.&lt;/p&gt;
 
 &lt;p&gt;Moreover, there stands one huge strength of invitation-only apps: &lt;strong&gt;it ensures quality&lt;/strong&gt;.&lt;/p&gt;
 
@@ -59,7 +66,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;So… Anyone willing to give me a Clubhouse invitation?&lt;/strong&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Recently, a new invitation-only app Clubhouse appeared in the market and had a huge triumph along with another invitation-only email app Hey. That makes me wonder: why is invitation-only strategy winning?</summary></entry><entry><title type="html">🤔 Tips for Starting Startups</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="🤔 Tips for Starting Startups" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;!--
+&lt;p&gt;&lt;strong&gt;So… Anyone willing to give me a Clubhouse invitation?&lt;/strong&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html"></summary></entry><entry><title type="html">🤔 Tips for Starting Startups</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="🤔 Tips for Starting Startups" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;!--
  * @Date: 01/02/2021 10.14.10 +0800
  * @Author: KnowsCount
  * @LastEditTime: 01/02/2021 23.22.29 +0800
