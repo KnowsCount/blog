@@ -1,7 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-01T15:21:29+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🤔 Tips for Starting Startups</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="🤔 Tips for Starting Startups" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-02-02T12:40:52+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🕵️‍♂️ Why is Invitation-only Winning?</title><link href="http://localhost:4000/why-is-invitation-only-winning/" rel="alternate" type="text/html" title="🕵️‍♂️ Why is Invitation-only Winning?" /><published>2021-02-02T00:00:00+00:00</published><updated>2021-02-02T00:00:00+00:00</updated><id>http://localhost:4000/why-is-invitation-only-winning</id><content type="html" xml:base="http://localhost:4000/why-is-invitation-only-winning/">&lt;p&gt;Recently, a new invitation-only app &lt;a href=&quot;https://www.joinclubhouse.com&quot;&gt;Clubhouse &lt;/a&gt;appeared in the market and had a huge triumph along with another invitation-only email app &lt;a href=&quot;https://hey.com&quot;&gt;Hey&lt;/a&gt;. That makes me wonder: why is invitation-only strategy winning?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/dayne-topkin-u5Zt-HoocrM-unsplash.jpg&quot; alt=&quot;invitation-only&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The first triumph of invitation-only strategies that I am aware of is the case of &lt;a href=&quot;http://www.gmail.com/&quot;&gt;Gmail&lt;/a&gt; (and there is a hardship distinguishing whether that success had anything to do with its initial invite-only policy or other factors XD). You might also recall&lt;a href=&quot;http://www.facebook.com/&quot;&gt; Facebook&lt;/a&gt; was born for a finite group of audiences, perhaps for some of the same reasons one might institute an invite-only policy. Some other exemplars that were once invitation-only I know of are &lt;a href=&quot;http://dribbble.com&quot;&gt;Dribbble&lt;/a&gt;, &lt;a href=&quot;http://www.medium.com/&quot;&gt;Medium&lt;/a&gt;, etc. (note: all mentioned above are not invitation-only anymore).&lt;/p&gt;
+
+&lt;p&gt;The recent examples are Clubhouse (by &lt;a href=&quot;https://apps.apple.com/us/developer/alpha-exploration-co/id1481002987&quot;&gt;Alpha Exploration Co&lt;/a&gt;, initially released in April 2020) and Hey (by &lt;a href=&quot;https://basecamp.com&quot;&gt;Basecamp&lt;/a&gt;, initially realeased in June 2020). Both of them achieved a huge success as startups, and I am, in the next few paragraphs, going to provide you with some basic information about these two products.&lt;/p&gt;
+
+&lt;h3 id=&quot;hey&quot;&gt;Hey&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/391bpr.png&quot; alt=&quot;hey-poster&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Email sucked for years. Not anymore — we fixed it. HEY’s fresh approach transforms email into something you want to use, not something you’re forced to deal with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hey.com&quot;&gt;&lt;strong&gt;Official Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/UCeYTysLyGI&quot;&gt;&lt;strong&gt;Introductory Video&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.producthunt.com/posts/hey-62dbfc18-c745-4d86-9a5b-a23a1f4d9eb3&quot;&gt;&lt;strong&gt;Product Hunt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hey is the first thing because it is more &lt;strong&gt;‘conventional’&lt;/strong&gt;. Why so? Invitation-only used to be a marketing strategy for email companies. For instance, Gmail. Gamil went viral, so viral that some were selling Gmail invites on eBay (same thing with Hey and Clubhouse invites for hundreds of dollars &lt;a href=&quot;https://twitter.com/ShaanVP/status/1356102192285900801&quot;&gt;(case 1)&lt;/a&gt; &lt;a href=&quot;https://twitter.com/dhh/status/1272885291624226816?lang=en&quot;&gt;(case 2)&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h3 id=&quot;clubhouse&quot;&gt;Clubhouse&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/ux9Tox.jpg&quot; alt=&quot;clubhouse-poster&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Clubhouse is the new hotness right now in the tech. - Product Hunt Daily, 20th May, 2020&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.joinclubhouse.com&quot;&gt;&lt;strong&gt;Official Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.joinclubhouse.com/blog&quot;&gt;&lt;strong&gt;Blog&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is Clubhouse that motivated me to write this blog; it is also Clubhouse that motivated me to do the research and found Hey… So Remember to say thanks to Alpha Exploration, Basecamp!&lt;/p&gt;
+
+&lt;p&gt;Right, back to the topic, the really interesting thing about Clubhose is how it uses the invitation-only system to basically build exclusivity, virtually like it’s a &lt;strong&gt;private circle&lt;/strong&gt; wherein you have to know somebody as to join and thereby increased the value of the invitation and, as most of us desire to see that which we’ve been missing out on, makes it more likely for people to fight for the invitation. &lt;strong&gt;Clubhouse took that to the extreme&lt;/strong&gt;: I still haven’t seen my invitation yet.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So, why, after all, is this strategy successful, then? What makes it different from all other marketing models?&lt;/p&gt;
+
+&lt;p&gt;If you would conclude that which I said above, invitation-only success for the fact that it conveys a sense, albeit possibly forged, of exclusiveness, and most of us get a hard on for that kind of thing.&lt;/p&gt;
+
+&lt;p&gt;Moreover, there stands one huge strength of invitation-only apps: &lt;strong&gt;it ensures quality&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Quoting &lt;a href=&quot;https://www.forbes.com/sites/joshsteimle/&quot;&gt;Josh Steimle&lt;/a&gt;,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Invite only isn’t a zero-sum game. On our social networking site there is a strong content creation component, not unlike with Medium. And as Medium does we could opt to invite only certain users to have an account and create content on the site, while others would only have access to view content on the site. Or we could allow all users to create accounts and “like”, “favorite”, or “follow” content and content producers, while content creation itself would still be temporarily restricted.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hence, invitation-only could be a representative of &lt;strong&gt;higher quality&lt;/strong&gt;, as not all people can in this case write on the platform.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;So… Anyone willing to give me a Clubhouse invitation?&lt;/strong&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Recently, a new invitation-only app Clubhouse appeared in the market and had a huge triumph along with another invitation-only email app Hey. That makes me wonder: why is invitation-only strategy winning?</summary></entry><entry><title type="html">🤔 Tips for Starting Startups</title><link href="http://localhost:4000/starting-startups-what-to-think/" rel="alternate" type="text/html" title="🤔 Tips for Starting Startups" /><published>2021-02-01T00:00:00+00:00</published><updated>2021-02-01T00:00:00+00:00</updated><id>http://localhost:4000/starting-startups-what-to-think</id><content type="html" xml:base="http://localhost:4000/starting-startups-what-to-think/">&lt;!--
  * @Date: 01/02/2021 10.14.10 +0800
  * @Author: KnowsCount
- * @LastEditTime: 01/02/2021 23.21.28 +0800
+ * @LastEditTime: 01/02/2021 23.22.29 +0800
  * @FilePath: /myBlog/_posts/2021-02-01-starting-startups-what-to-think.md
 --&gt;
 
@@ -12,12 +73,12 @@
 &lt;p&gt;Firstly pitching. pitching is one of the most important aspect of your startup. No matter how great your ideas are, your startup is useless if you cannot convey it and you don’t have any capital. If you cannot inspire people, your startup is more than useless.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;but wait what if I can make a product that doesn’t require much capital?… and teamwork is not needed! I can totally handle backend, frontend, security, marketing, &lt;del&gt;HR&lt;/del&gt; (not needed) by myself.&lt;/p&gt;
+  &lt;p&gt;but wait what if I can make a product that doesn’t require much capital?… and teamwork is not needed! I can totally handle backend, frontend, security, marketing, &lt;del&gt;HR (not needed)&lt;/del&gt; by myself.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Well.. If you cannot convey your ideas to customers then you’re not going to have any customers, and if you don’t have any customers, then your startup is useless, still. Every single interaction relating to your startup will somehow require you to pitch it. Now that is why it is essential to perfect your pitch.&lt;/p&gt;
 
-&lt;p&gt;Easier said than done. Here are the seven questions that you should answer as clearly as possible:&lt;/p&gt;
+&lt;p&gt;Easier said than done. Here are the seven questions you should answer as clearly as possible:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -28,7 +89,7 @@
     &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; To: Competent Friend
  Subject: My Startup
  ---
- my startup is about xyz and it solves the problem of abc using ijk.
+ my startup is about **xyz** and it solves the problem of *abc* using *ijk*.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -442,142 +503,4 @@ Short description - This module simulates a 10 armed bandit problem using a simp
 
 &lt;p&gt;logo:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/%E9%B9%8A%E8%B5%B7%E4%B9%8B%E9%B8%A6%20OK.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">To be finished.</summary></entry><entry><title type="html">⚛︎ ReactJS Tutorial - Intro</title><link href="http://localhost:4000/react-tutorial/" rel="alternate" type="text/html" title="⚛︎ ReactJS Tutorial - Intro" /><published>2020-12-19T00:15:00+00:00</published><updated>2020-12-19T00:15:00+00:00</updated><id>http://localhost:4000/react-tutorial</id><content type="html" xml:base="http://localhost:4000/react-tutorial/">&lt;p&gt;Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used WordPress to &lt;a href=&quot;https://docs.knowscount.cc&quot;&gt;blog&lt;/a&gt; but now I switched here onto &lt;a href=&quot;https://github.com/KnowsCount/blog&quot;&gt;GitHub&lt;/a&gt;, using &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, a much nicer and much more seamless blogging environment. So, many thanks to GitHub and the developers of Jekyll!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;some of my React projects / React projects I contributed to:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/KnowsCount/NKCS-Storage&quot;&gt;Storage Management System&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/c-m-X_j3b4rqnlk-unsplash.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;a project made for school storage management.. collaborated with a back-end developer.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/KnowsCount/WeeBlog&quot;&gt;WeeBlog&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;a project under development. It is going to be, quoting myself in its description,&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;a beauteous content sharing platform solution orchestrated to be sexy and concise.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;This is what we will be aiming for in the project part of the tutorial.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/hack-chat/hackchat-client&quot;&gt;hackchat&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;a rather novel online chat web app written in React. Quoting the &lt;a href=&quot;https://github.com/marzavec&quot;&gt;author&lt;/a&gt;, it is&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;a minimal, distraction-free chat application&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h5 id=&quot;now-enough-advertising-lets-get-to-the-topic&quot;&gt;Now enough advertising, let’s get to the topic.&lt;/h5&gt;
-
-&lt;h2 id=&quot;story&quot;&gt;Story&lt;/h2&gt;
-
-&lt;p&gt;React, my most-used framework in front-end development and my favourite one, had a highly speedy development since 2013 – the year Facebook opened its source (you can read a &lt;a href=&quot;https://React.org/blog/2013/06/05/why-react.html&quot;&gt;2013 post&lt;/a&gt; about the reason why Facebook built React). Facebook did an awesome job maintaining and enhancing React… The newest &lt;a href=&quot;https://React.org/blog/2020/10/20/react-v17.html&quot;&gt;React v17.0&lt;/a&gt; released this October (20 October, 2020) is an very exemplary case.&lt;/p&gt;
-
-&lt;p&gt;Many tech giants in China I know are using this framework, for instance, Alibaba (Taobao), NetEase, Zhihu, etc.; globally, companies like Facebook (of course), Instagram, Airbnb, Discord, etc. are also using React.&lt;/p&gt;
-
-&lt;p&gt;Along with the usage of tech giants, many new technologies are produced based on React. For example, &lt;a href=&quot;https://reactnative.dev&quot;&gt;React Native&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://facebook.github.io/react-360&quot;&gt;React VR&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/peek-definition.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;React, however, is somewhat strange. One can learn the to use it in a few hours, but it would be very hard for one to claim they has mastered the framework. During all my time learning React, I’ve met many difficulties (which helped me to realise the fact that I am very stupid), and I, in this blog, shall hereby share some of them with you.&lt;/p&gt;
-
-&lt;p&gt;There is also a framework named &lt;a href=&quot;https://github.com/vuejs/vue&quot;&gt;‘VueJS’&lt;/a&gt;, created by a Chinese developer &lt;a href=&quot;https://github.com/yyx990803&quot;&gt;Evan You&lt;/a&gt; which I only use to bootstrap small projects like my &lt;a href=&quot;https://github.com/KnowsCount/portfolio&quot;&gt;portfolio&lt;/a&gt;. It has actually more stars on GitHub than react &lt;strong&gt;(stars, not popularity)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;announcement&quot;&gt;Announcement&lt;/h2&gt;
-
-&lt;p&gt;This will be a series on my blog, I plan to try update it at least once per week, because for many a year, we know the best way to understand a concept is to explain it to someone else, quoting the Roman philosopher Seneca:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;While we teach, we learn,&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;However, in this post I would start by telling you the basic skills one need in order to make the most out of this tutorial:&lt;/p&gt;
-
-&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Comparatively good Javascript skills (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this&lt;/code&gt;, for instance)&lt;/li&gt;
-  &lt;li&gt;basic understanding of ES6 syntax&lt;/li&gt;
-  &lt;li&gt;webpack &lt;em&gt;(optional)&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;npm &lt;em&gt;(optional)&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Router &lt;em&gt;(optional)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-will-i-teach&quot;&gt;What will I Teach?&lt;/h2&gt;
-
-&lt;p&gt;I will divide the whole tutorial into three parts:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Basic React&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Environment&lt;/li&gt;
-      &lt;li&gt;Basic Syntax&lt;/li&gt;
-      &lt;li&gt;Concepts Explanation (Virtual DOM, Diff Algorithm, etc.)&lt;/li&gt;
-      &lt;li&gt;Animation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Redux&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Making your own Project&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Header (kinda complex)&lt;/li&gt;
-      &lt;li&gt;HomePage&lt;/li&gt;
-      &lt;li&gt;About Page&lt;/li&gt;
-      &lt;li&gt;Login/Signup&lt;/li&gt;
-      &lt;li&gt;Deployment&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-will-you-learn&quot;&gt;What will you Learn?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;create-react-app&lt;/li&gt;
-  &lt;li&gt;Component Thinking&lt;/li&gt;
-  &lt;li&gt;JSX&lt;/li&gt;
-  &lt;li&gt;Debugging&lt;/li&gt;
-  &lt;li&gt;Virtual DOM&lt;/li&gt;
-  &lt;li&gt;Diff Algorithm&lt;/li&gt;
-  &lt;li&gt;Lifecycle&lt;/li&gt;
-  &lt;li&gt;React-transition-group (third party animation module)&lt;/li&gt;
-  &lt;li&gt;Redux&lt;/li&gt;
-  &lt;li&gt;Antd&lt;/li&gt;
-  &lt;li&gt;UI, Container Component&lt;/li&gt;
-  &lt;li&gt;Stateless Component&lt;/li&gt;
-  &lt;li&gt;redux-thunk, redux-saga&lt;/li&gt;
-  &lt;li&gt;Styled-components&lt;/li&gt;
-  &lt;li&gt;Immutable.js&lt;/li&gt;
-  &lt;li&gt;redux-immutable&lt;/li&gt;
-  &lt;li&gt;axios&lt;/li&gt;
-  &lt;li&gt;…&lt;/li&gt;
-  &lt;li&gt;…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In conclusion, after learning from this tutorial, you will be able to&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;thoroughly comprehend&lt;/strong&gt; React&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;entirely master&lt;/strong&gt; ‘React Family’ (react + redux + react-router + axios + antd)&lt;/li&gt;
-  &lt;li&gt;do the front-end developement of &lt;strong&gt;megaprojects&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;code in &lt;strong&gt;standard&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;(whispering) &lt;strong&gt;at least 100K a year&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;OK. that would be it. Also, I personally recommend &lt;a href=&quot;https://www.freecodecamp.org&quot;&gt;FreeCodeCamp&lt;/a&gt; as a self-teaching site. &lt;strong&gt;This is not an advertisement.&lt;/strong&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="tutorial" /><category term="ReactJS" /><category term="code" /><summary type="html">Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used WordPress to blog but now I switched here onto GitHub, using Jekyll, a much nicer and much more seamless blogging environment. So, many thanks to GitHub and the developers of Jekyll!</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/%E9%B9%8A%E8%B5%B7%E4%B9%8B%E9%B8%A6%20OK.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">To be finished.</summary></entry></feed>
