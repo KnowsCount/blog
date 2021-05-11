@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "为什么我不用 Typescript",
+      "tags"     : "",
+      "url"      : "/typescript/",
+      "date"     : "2021-05-11 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "🤒 bitter lesson installing BBRPlus",
       "tags"     : "",
       "url"      : "/bitter-lesson-installing-bbrplus/",

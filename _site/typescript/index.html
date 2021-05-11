@@ -1,0 +1,586 @@
+<!--
+ * @Date: 19/12/2020 21.10.30 +0800
+ * @Author: KnowsCount
+ * @LastEditTime: 01/02/2021 23.20.31 +0800
+ * @FilePath: /myBlog/_layouts/post.html
+-->
+
+<!DOCTYPE html>
+<html lang="en-UK">
+	<head prefix="og: http://ogp.me/ns#">
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="application-name" content="KnowsCount's Blog" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="#fff" />
+	<meta name="apple-mobile-web-app-title" content="KnowsCount's Blog" />
+	<title>
+		为什么我不用 Typescript - KnowsCount's Blog
+	</title>
+	<link
+		rel="alternate"
+		href="http://localhost:4000/typescript/"
+		hreflang="en-UK"
+	/>
+	<link
+		rel="canonical"
+		href="http://localhost:4000/typescript/"
+	/>
+	 
+	<meta
+		name="description"
+		content="I am a young front-end developer."
+	/>
+	<meta name="referrer" content="no-referrer-when-downgrade" />
+	<meta property="fb:app_id" content="" />
+	<meta
+		property="og:site_name"
+		content="为什么我不用 Typescript | KnowsCount"
+	/>
+	<meta
+		property="og:title"
+		content="为什么我不用 Typescript | KnowsCount"
+	/>
+	
+	<meta property="og:type" content="website" />
+	
+	<meta
+		property="og:url"
+		content="http://localhost:4000/typescript/"
+	/>
+	<meta
+		property="og:description"
+		content="I am a young front-end developer."
+	/>
+	
+	<meta property="og:image" content="http://localhost:4000/assets/img/ogp.png" />
+	
+	<meta property="og:image:width" content="640" />
+	<meta property="og:image:height" content="640" />
+	<meta name="twitter:card" content="summary" />
+	<meta
+		name="twitter:title"
+		content="为什么我不用 Typescript | knowscount"
+	/>
+	<meta
+		name="twitter:url"
+		content="http://localhost:4000/typescript/"
+	/>
+	<meta name="twitter:site" content="@knowscount" />
+	<meta name="twitter:creator" content="@knowscount" />
+	<meta
+		name="twitter:description"
+		content="I am a young front-end developer."
+	/>
+	
+	<meta name="twitter:image" content="http://localhost:4000/assets/img/ogp.png" />
+	 <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="KnowsCount's Blog" />
+	<link
+		rel="apple-touch-icon"
+		sizes="180x180"
+		href="/assets/favicons/apple-touch-icon.png"
+	/>
+	<link
+		rel="icon"
+		type="image/png"
+		sizes="32x32"
+		href="/assets/favicons/favicon-32x32.png"
+	/>
+	<link
+		rel="icon"
+		type="image/png"
+		sizes="16x16"
+		href="/assets/favicons/favicon-16x16.png"
+	/>
+	<link rel="manifest" href="/assets/favicons/site.webmanifest" />
+	<link
+		rel="mask-icon"
+		href="/assets/favicons/safari-pinned-tab.svg"
+		color="#5bbad5"
+	/>
+	<meta name="apple-mobile-web-app-title" content="Jekyll Klise" />
+	<meta name="application-name" content="Jekyll Klise" />
+	<meta name="msapplication-TileColor" content="#da532c" />
+	<meta name="theme-color" content="#2c2c2c" />
+
+	<link rel="stylesheet" href="/assets/css/style.css" />
+	<meta
+		name="google-site-verification"
+		content="TcG_mK8pym1ZQAQWfoYDRR3ZlaRbV7tqVvrEEzA00fo"
+	/>
+</head>
+
+
+	<body data-theme="light" class="notransition">
+		<script>
+			const body = document.body
+			const data = body.getAttribute('data-theme')
+
+			const initTheme = (state) => {
+				if (state === 'dark') {
+					body.setAttribute('data-theme', 'dark')
+				} else if (state === 'light') {
+					body.removeAttribute('data-theme')
+				} else {
+					localStorage.setItem('theme', data)
+				}
+			}
+
+			initTheme(localStorage.getItem('theme'))
+
+			setTimeout(() => body.classList.remove('notransition'), 75)
+		</script>
+
+		<div class="navbar" role="navigation">
+  <nav class="menu">
+    <input type="checkbox" id="menu-trigger" class="menu-trigger" />
+    <label for="menu-trigger">
+      <span class="menu-icon">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 512 512"
+        >
+          <path
+            d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z"
+          />
+        </svg>
+      </span>
+    </label>
+    <a id="mode">
+      <svg
+        class="mode-sunny"
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        viewBox="0 0 512 512"
+      >
+        <title>LIGHT</title>
+        <line
+          x1="256"
+          y1="48"
+          x2="256"
+          y2="96"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="256"
+          y1="416"
+          x2="256"
+          y2="464"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="403.08"
+          y1="108.92"
+          x2="369.14"
+          y2="142.86"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="142.86"
+          y1="369.14"
+          x2="108.92"
+          y2="403.08"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="464"
+          y1="256"
+          x2="416"
+          y2="256"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="96"
+          y1="256"
+          x2="48"
+          y2="256"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="403.08"
+          y1="403.08"
+          x2="369.14"
+          y2="369.14"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="142.86"
+          y1="142.86"
+          x2="108.92"
+          y2="108.92"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <circle
+          cx="256"
+          cy="256"
+          r="80"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+      </svg>
+      <svg
+        class="mode-moon"
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        viewBox="0 0 512 512"
+      >
+        <title>DARK</title>
+        <line
+          x1="256"
+          y1="48"
+          x2="256"
+          y2="96"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="256"
+          y1="416"
+          x2="256"
+          y2="464"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="403.08"
+          y1="108.92"
+          x2="369.14"
+          y2="142.86"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="142.86"
+          y1="369.14"
+          x2="108.92"
+          y2="403.08"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="464"
+          y1="256"
+          x2="416"
+          y2="256"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="96"
+          y1="256"
+          x2="48"
+          y2="256"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="403.08"
+          y1="403.08"
+          x2="369.14"
+          y2="369.14"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <line
+          x1="142.86"
+          y1="142.86"
+          x2="108.92"
+          y2="108.92"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+        <circle
+          cx="256"
+          cy="256"
+          r="80"
+          style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px"
+        />
+      </svg>
+    </a>
+    <div class="trigger">
+      <div class="trigger-container"><a class="menu-link" href="/">home</a><a class="menu-link" href="/archive/">archive</a><a class="menu-link" href="/about/">about</a><a class="menu-link rss" href="/feed.xml">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="17"
+            height="17"
+            viewBox="0 0 512 512"
+            fill="#ED812E"
+          >
+            <title>RSS</title>
+            <path
+              d="M108.56,342.78a60.34,60.34,0,1,0,60.56,60.44A60.63,60.63,0,0,0,108.56,342.78Z"
+            />
+            <path
+              d="M48,186.67v86.55c52,0,101.94,15.39,138.67,52.11s52,86.56,52,138.67h86.66C325.33,312.44,199.67,186.67,48,186.67Z"
+            />
+            <path
+              d="M48,48v86.56c185.25,0,329.22,144.08,329.22,329.44H464C464,234.66,277.67,48,48,48Z"
+            />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </nav>
+</div>
+
+		<div class="wrapper post">
+			<main class="page-content" aria-label="Content">
+				<article itemscope itemtype="https://schema.org/BlogPosting">
+					<header class="header">
+						
+						<h1 class="header-title" itemprop="headline">
+							为什么我不用 Typescript
+						</h1>
+						
+						<div class="post-meta">
+							<time
+								datetime="2021-05-11T00:00:00+00:00"
+								itemprop="datePublished"
+							>
+								May 11, 2021
+							</time>
+							<span
+								itemprop="author"
+								itemscope
+								itemtype="https://schema.org/Person"
+							>
+								<span itemprop="name"
+									>KnowsCount</span
+								>
+							</span>
+							<time
+								hidden
+								datetime=""
+								itemprop="dateModified"
+							>
+								May 11, 2021
+							</time>
+							<span hidden itemprop="publisher" itemtype="Person"
+								>KnowsCount</span
+							>
+							<span hidden itemprop="image"
+								></span
+							>
+							<span hidden itemprop="mainEntityOfPage"
+								><h2 id="前言">前言</h2>
+</span
+							>
+						</div>
+						
+					</header>
+
+					<div class="page-content" itemprop="articleBody">
+						<h2 id="前言">
+        
+        
+          <a href="#前言" class="anchor-head"></a> 前言
+        
+        
+      </h2>
+
+<p>我算是久仰 Typescript 的大名了，因而之前就想学习，但是一直没有抽出时间来看看它。直到最近有一天我在知乎上被邀请回答了 <a href="https://www.zhihu.com/question/456084081/answer/1851756971">一个问题</a> —— 一个我以为的中学生问怎么样提升他的开源仓库。我点进去，先是被惊艳到了；然后发现，他用的是 Typescript。我顿时感觉我似乎落后了，于是鼓起劲，开始学起了 Typescript。</p>
+
+<p>但是我学了下，再用了下，发现它没有像被吹的那么神。虽说是 Javascript 的超集，也的确有些地方挺好的，但是还是不足够改变我使用 Javascript 编程。就像虽然有 Deno，但是我还是用 Node.js 一样。</p>
+
+<p>所以，我就写这篇文章，说下我个人感觉 Typescript 的缺点、为何它的优点无法打动我用它替代 Javascript，以及跟推荐我使用 Typescript 的大家讲一下我不用 Typescript 的逻辑。</p>
+    
+      <h2 id="缺陷">
+        
+        
+          <a href="#缺陷" class="anchor-head"></a> 缺陷
+        
+        
+      </h2>
+    
+      <h3 id="1-语法丑陋代码臃肿">
+        
+        
+          <a href="#1-语法丑陋代码臃肿" class="anchor-head"></a> 1. 语法丑陋，代码臃肿
+        
+        
+      </h3>
+
+<p>我写两段相同的代码，大家感受下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// js</span>
+<span class="kd">const</span> <span class="nx">multiply</span> <span class="o">=</span> <span class="p">(</span><span class="nx">i</span><span class="p">,</span> <span class="nx">j</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">i</span> <span class="o">*</span> <span class="nx">j</span>
+</code></pre></div></div>
+
+<div class="language-typescript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// ts</span>
+<span class="kd">function</span> <span class="nx">multiply</span><span class="p">(</span><span class="nx">i</span><span class="p">:</span> <span class="kr">number</span><span class="p">,</span> <span class="nx">j</span><span class="p">:</span> <span class="kr">number</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">i</span> <span class="o">+</span> <span class="nx">j</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>你看这类型注释，把好好的一段代码弄得这么乱……反正我看这样的 Typescript，花的反应时间一定比看上面的 Javascript 代码长。——不过也有可能是我比较熟悉 Javascript 吧。</p>
+
+<p>复杂一点的东西也是一个道理（Apollo GraphQL 的代码）：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// js</span>
+<span class="k">import</span> <span class="nx">React</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ApolloClient</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">apollo-client</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="kd">let</span> <span class="nx">apolloContext</span><span class="p">;</span>
+
+<span class="k">export</span> <span class="kd">function</span> <span class="nx">getApolloContext</span><span class="p">()</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nx">apolloContext</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">apolloContext</span> <span class="o">=</span> <span class="nx">React</span><span class="p">.</span><span class="nx">createContext</span><span class="p">({});</span>
+  <span class="p">}</span>
+  <span class="k">return</span> <span class="nx">apolloContext</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="k">export</span> <span class="kd">function</span> <span class="nx">resetApolloContext</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">apolloContext</span> <span class="o">=</span> <span class="nx">React</span><span class="p">.</span><span class="nx">createContext</span><span class="p">({});</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>铁定要比这个好得多：</p>
+
+<div class="language-typescript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// ts</span>
+<span class="k">import</span> <span class="nx">React</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ApolloClient</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">apollo-client</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="k">export</span> <span class="kr">interface</span> <span class="nx">ApolloContextValue</span> <span class="p">{</span>
+  <span class="nl">client</span><span class="p">?:</span> <span class="nx">ApolloClient</span><span class="o">&lt;</span><span class="nx">object</span><span class="o">&gt;</span><span class="p">;</span>
+  <span class="nl">renderPromises</span><span class="p">?:</span> <span class="nb">Record</span><span class="o">&lt;</span><span class="kr">any</span><span class="p">,</span> <span class="kr">any</span><span class="o">&gt;</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="kd">let</span> <span class="nx">apolloContext</span><span class="p">:</span> <span class="nx">React</span><span class="p">.</span><span class="nx">Context</span><span class="o">&lt;</span><span class="nx">ApolloContextValue</span><span class="o">&gt;</span><span class="p">;</span>
+
+<span class="k">export</span> <span class="kd">function</span> <span class="nx">getApolloContext</span><span class="p">()</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nx">apolloContext</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">apolloContext</span> <span class="o">=</span> <span class="nx">React</span><span class="p">.</span><span class="nx">createContext</span><span class="o">&lt;</span><span class="nx">ApolloContextValue</span><span class="o">&gt;</span><span class="p">({});</span>
+  <span class="p">}</span>
+  <span class="k">return</span> <span class="nx">apolloContext</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="k">export</span> <span class="kd">function</span> <span class="nx">resetApolloContext</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">apolloContext</span> <span class="o">=</span> <span class="nx">React</span><span class="p">.</span><span class="nx">createContext</span><span class="o">&lt;</span><span class="nx">ApolloContextValue</span><span class="o">&gt;</span><span class="p">({});</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>甚至有人提了个 <a href="https://github.com/apollographql/react-apollo/issues/3016">issue</a> 就是抱怨 Type 让它变得难用。</p>
+
+<p>这么看，实在是为了这个假静态类型语言牺牲太多了，毕竟代码可读性还是很重要的。——之所以说它是假静态语言，是因为在真正的静态类型语言中，如 C 和 C++，不同的变量类型在内存中的存储方式不同。</p>
+
+<p>比如，缺了这个可读性，debug 会变得更难。你是不是没有注意到我上面 <code class="language-plaintext highlighter-rouge">multiply</code> 的 Typescript 代码其实有 bug——应该是 <code class="language-plaintext highlighter-rouge">*</code> 而不是 <code class="language-plaintext highlighter-rouge">+</code>。</p>
+    
+      <h3 id="2-麻烦">
+        
+        
+          <a href="#2-麻烦" class="anchor-head"></a> 2. 麻烦
+        
+        
+      </h3>
+
+<p>浏览器不能直接执行 Typescript，所以 Typescript 必须要被编译成 Javascript 才能执行，要花一段时间。并且，使用 Typescript 要安装新的依赖，虽然的确不麻烦，但是不用 Typescript，就不用再多装一个依赖了是不是。</p>
+
+<p>其实还有一点，但是放不上台面来讲，因为这是我自己的问题。</p>
+
+<p>我一直不大喜欢给添花样的东西，比如 <code class="language-plaintext highlighter-rouge">pug</code>、<code class="language-plaintext highlighter-rouge">typescript</code>、<code class="language-plaintext highlighter-rouge">deno</code> 等；虽然 <code class="language-plaintext highlighter-rouge">scss</code> 啥的我觉得还是不错的——没有它我就写不出 <a href="https://github.com/KnowsCount/vue-lib">@knowscount/vue-lib</a> 这个仓库。</p>
+    
+      <h3 id="3-文件体积会变大">
+        
+        
+          <a href="#3-文件体积会变大" class="anchor-head"></a> 3. 文件体积会变大
+        
+        
+      </h3>
+
+<p>随随便便就能猜到，我写那么多额外的类型注释、代码变得那么臃肿肯定会让 Typescript 文件比用 Javascript 编写的文件更大。作为一个用 “tab 会让文件体积更小” 作为论据的 tab 党，我当然讨厌 Typescript 啦哈哈哈哈。</p>
+
+<p>我理解在编译过后都是一样的，但是反正……我还是不爽。而且正是由于 TypeScript 会被编译到JavaScript 中，所以才总是有可能让不同的值类型潜入 JavaScript 变量中，无论你的类型设计得多么仔细。这是不可避免的，因为 JavaScript 仍然是没有类型的。</p>
+    
+      <h3 id="4-报错使我老花">
+        
+        
+          <a href="#4-报错使我老花" class="anchor-head"></a> 4. 报错使我老花
+        
+        
+      </h3>
+
+<p>单纯吐槽一句，为什么它的报错那么丑，我就拼错了一个单词他给我又臭又长报一大段，还没有颜色。。</p>
+    
+      <h2 id="为何无法打动我">
+        
+        
+          <a href="#为何无法打动我" class="anchor-head"></a> 为何无法打动我
+        
+        
+      </h2>
+
+<p>在讲为什么 Typescript 的优点无法打动我之前，我先来讲一讲 Typescript 有哪些优点吧：</p>
+
+<ol>
+  <li>大厂的产品</li>
+  <li>大厂在用</li>
+  <li>可以用未来的特性</li>
+  <li>降低出 bug 的可能性</li>
+  <li>面对对象编程（OOP）</li>
+</ol>
+
+<p>对于它是微软的产品，我不能多说啥，毕竟我用 Visual Studio Code 用得很香；但是大厂在用这个论点，就不一样了。</p>
+
+<p>有个逻辑谬误叫做「reductio ad absurdum」，也就是「归谬法」。什么意思呢：</p>
+
+<blockquote>
+  <p>大厂用 Typescript，所以我要用 Typescript。<br />
+大厂几百万改个 logo，我就借几百万改个 logo，因为大厂是大厂，肯定做得对。</p>
+</blockquote>
+
+<p>这就很荒谬。</p>
+
+<p>的确，大公司会采用 Typescript，必定有他的道理。但是，同样的论证思路也可以用于 <code class="language-plaintext highlighter-rouge">Flow</code>、<code class="language-plaintext highlighter-rouge">Angular</code>、<code class="language-plaintext highlighter-rouge">Vue</code>、<code class="language-plaintext highlighter-rouge">Ember</code>、<code class="language-plaintext highlighter-rouge">jQuery</code>、<code class="language-plaintext highlighter-rouge">Bootstrap</code> 等等等等，几乎所有流行的库都是如此，那么它们一定都适合你吗？</p>
+
+<p>关于它可以让你提前接触到未来的特性……大哥，<code class="language-plaintext highlighter-rouge">babel</code> 不香吗？</p>
+
+<p>最后就是 OOP 以及降低出 bug 的可能性（Typesafe）。OOP 是 Typescript 的核心部分，而现在 OOP 已经不吃香了……例如 Ilya Suzdalnitski 就说过它是「万亿美元的灾难」。</p>
+
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0511a27d56854783b1f313d0659afcfc~tplv-k3u1fbpfcp-watermark.image" alt="v2-9cc25cb80ddc2df7ab06f0184e433790_1440w.jpg" /></p>
+
+<p>至于为什么这么说，无非就两点——面向对象代码难以重构，也难以进行单元测试。重构时的抓狂不提，单元测试的重要性，大家都清楚吧。</p>
+
+<p>而在 Javascript 这种非 OOP 语言里头，函数可以独立于对象存在。不用为了包含这些函数而去发明一些奇怪的概念真是一种解脱。</p>
+
+<p>总之，TypeScript 的所谓优点（更好的错误处理、类型推理）都不是最佳方案。你还是得写测试，还是得好好命名你的函数和变量。个人觉得单单像 Typescript 一样添加一个接口或类型不能解决任何这些问题。</p>
+
+<p>正好一千五百字。</p>
+ 
+					</div>
+				</article>
+
+				
+			</main>
+
+			  <nav class="post-nav">
+  
+  <a
+    class="post-nav-item post-nav-prev"
+    href="/bitter-lesson-installing-bbrplus/"
+  >
+    <div class="nav-arrow">Previous</div>
+    <span class="post-title">🤒 bitter lesson installing BBRPlus</span>
+  </a>
+   
+</nav>
+  <footer class="footer">
+	<a class="footer_item" href="/thanks">ack.</a>
+	<a class="footer_item" href="javascript::void(0)">resume</a>
+	<a class="footer_item" href="/feed.xml">rss</a>
+	<span class="footer_item">&copy; 2021</span>
+	<small class="footer_copyright">
+		<!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
+		modified upon
+		<a
+			href="https://github.com/piharpi/jekyll-klise"
+			target="_blank"
+			rel="noreferrer noopener"
+			>klisé</a
+		>
+		theme, powered by
+		<a href="https://vercel.com" target="_blank" rel="nonreferrer noopener"
+			>Vercel</a
+		>
+	</small>
+</footer>
+<script src="/assets/js/main.js" defer="defer"></script>
+		</div>
+	</body>
+</html>
