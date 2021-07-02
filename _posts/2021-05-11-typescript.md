@@ -1,5 +1,5 @@
 ---
-title: 为什么我不用 Typescript
+title: "\U0001F4A3 为什么我不用 Typescript"
 ---
 
 ## 前言
@@ -9,6 +9,8 @@ title: 为什么我不用 Typescript
 但是我学了下，再用了下，发现它没有像被吹的那么神。虽说是 Javascript 的超集，也的确有些地方挺好的，但是还是不足够改变我使用 Javascript 编程。就像虽然有 Deno，但是我还是用 Node.js 一样。
 
 所以，我就写这篇文章，说下我个人感觉 Typescript 的缺点、为何它的优点无法打动我用它替代 Javascript，以及跟推荐我使用 Typescript 的大家讲一下我不用 Typescript 的逻辑。
+
+各位想骂我心里骂骂就好了，我今天过个生日也不容易。
 
 ## 缺陷
 
@@ -79,13 +81,13 @@ export function resetApolloContext() {
 
 甚至有人提了个 [issue](https://github.com/apollographql/react-apollo/issues/3016) 就是抱怨 Type 让它变得难用。
 
-这么看，实在是为了这个假静态类型语言牺牲太多了，毕竟代码可读性还是很重要的。——之所以说它是假静态语言，是因为在真正的静态类型语言中，如 C 和 C++，不同的变量类型在内存中的存储方式不同。
+这么看，实在是为了这个假静态类型语言牺牲太多了，毕竟代码可读性还是很重要的。——之所以说它是假静态语言，是因为在真正的静态类型语言中，如 C 和 C++，不同的变量类型在内存中的存储方式不同，而在 Typescript 中不是这样。
 
 比如，缺了这个可读性，debug 会变得更难。你是不是没有注意到我上面 `multiply` 的 Typescript 代码其实有 bug——应该是 `*` 而不是 `+`。
 
 ### 2. 麻烦
 
-浏览器不能直接执行 Typescript，所以 Typescript 必须要被编译成 Javascript 才能执行，要花一段时间。并且，使用 Typescript 要安装新的依赖，虽然的确不麻烦，但是不用 Typescript，就不用再多装一个依赖了是不是。
+浏览器不能直接执行 Typescript，所以 Typescript 必须要被编译成 Javascript 才能执行，要花一段时间；项目越大，花的时间越长，所以 `Deno` 才要停用它。并且，使用 Typescript 要安装新的依赖，虽然的确不麻烦，但是不用 Typescript，就不用再多装一个依赖了是不是。
 
 其实还有一点，但是放不上台面来讲，因为这是我自己的问题。
 
@@ -95,7 +97,7 @@ export function resetApolloContext() {
 
 随随便便就能猜到，我写那么多额外的类型注释、代码变得那么臃肿肯定会让 Typescript 文件比用 Javascript 编写的文件更大。作为一个用 “tab 会让文件体积更小” 作为论据的 tab 党，我当然讨厌 Typescript 啦哈哈哈哈。
 
-我理解在编译过后都是一样的，但是反正……我还是不爽。而且正是由于 TypeScript 会被编译到JavaScript 中，所以才总是有可能让不同的值类型潜入 JavaScript 变量中，无论你的类型设计得多么仔细。这是不可避免的，因为 JavaScript 仍然是没有类型的。
+我理解在编译过后都是一样的，但是反正……我还是不爽。而且正是由于 TypeScript 会被编译到JavaScript 中，所以才会出现无论你的类型设计得多么仔细，还是有可能让不同的值类型潜入 JavaScript 变量中的问题。这是不可避免的，因为 JavaScript 仍然是没有类型的。
 
 ### 4. 报错使我老花
 
@@ -115,7 +117,7 @@ export function resetApolloContext() {
 
 有个逻辑谬误叫做「reductio ad absurdum」，也就是「归谬法」。什么意思呢：
 
-> 大厂用 Typescript，所以我要用 Typescript。<br>
+> 大厂用 Typescript，所以我要用 Typescript。<br />
 > 大厂几百万改个 logo，我就借几百万改个 logo，因为大厂是大厂，肯定做得对。
 
 这就很荒谬。
@@ -133,5 +135,3 @@ export function resetApolloContext() {
 而在 Javascript 这种非 OOP 语言里头，函数可以独立于对象存在。不用为了包含这些函数而去发明一些奇怪的概念真是一种解脱。
 
 总之，TypeScript 的所谓优点（更好的错误处理、类型推理）都不是最佳方案。你还是得写测试，还是得好好命名你的函数和变量。个人觉得单单像 Typescript 一样添加一个接口或类型不能解决任何这些问题。
-
-正好一千五百字。
