@@ -4,7 +4,7 @@ title: "\U0001F912 bitter lesson installing BBRPlus"
 
 A friend of mine charged me $1500 on vultr recently and I therefore started my journey exploring cloud instances. It was a pleasure—I've been learning something new every day since then for I, as someone who specialises more in front-end, do not know servers very well at all.
 
-I firstly deployed a entOS 9 server in Soeul, Korea. I installed LNMP packages on it, and hosted some websites on it. Everything was good, until I installed an open-source (not entirely as there is a pro version which costs roughly 200 CNY) web drive programme and found that the download speed does not satisfy me at all. So, I started researching about optimising network of a VPS, and found BBR(Plus).
+I firstly deployed a CentOS 9 VPS with 4 cores, 8GB ram in Soeul, Korea. I installed LNMP packages on it, and hosted some websites on it. Everything was good, until I installed an open-source (not entirely—there is a pro version which costs roughly 200 CNY) web drive programme and found that the download speed does not satisfy me at all. So, I started researching about optimising network of a VPS, and found BBR(Plus).
 
 For some weird reason, just hours after I found BBR, download speed of my server grew and became a few mb/s; yet after some cogitation, I decided to try it nevertheless—I mean, fuck it, I can uninstall it later anyway.
 
