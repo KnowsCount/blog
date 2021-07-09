@@ -1,5 +1,5 @@
 ---
-title: An Epigram
+title: "\U0001F58B An Epigram"
 ---
 
 # An Epigram

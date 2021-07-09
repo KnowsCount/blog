@@ -1,7 +1,14 @@
 [
   
     {
-      "title"    : "An Epigram",
+      "title"    : "💻 Deploying code-server",
+      "tags"     : "",
+      "url"      : "/deploying-code-server/",
+      "date"     : "2021-07-09 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "🖋 An Epigram",
       "tags"     : "",
       "url"      : "/an-epigram/",
       "date"     : "2021-07-06 00:00:00 +0000"
