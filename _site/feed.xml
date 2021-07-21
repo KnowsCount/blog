@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-07-09T10:24:19+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">💻 Deploying code-server</title><link href="http://localhost:4000/deploying-code-server/" rel="alternate" type="text/html" title="💻 Deploying code-server" /><published>2021-07-09T00:00:00+00:00</published><updated>2021-07-09T00:00:00+00:00</updated><id>http://localhost:4000/deploying-code-server</id><content type="html" xml:base="http://localhost:4000/deploying-code-server/">&lt;p&gt;some six months ago, GitHub recommended me the repository &lt;a href=&quot;https://github.com/cdr/code-server&quot;&gt;code-server&lt;/a&gt;. it described itself as:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2021-07-21T13:16:22+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">Poor is the Gift of Poets</title><link href="http://localhost:4000/poor-is-the-gift-of-poets/" rel="alternate" type="text/html" title="Poor is the Gift of Poets" /><published>2021-07-21T00:00:00+00:00</published><updated>2021-07-21T00:00:00+00:00</updated><id>http://localhost:4000/poor-is-the-gift-of-poets</id><content type="html" xml:base="http://localhost:4000/poor-is-the-gift-of-poets/">&lt;p&gt;Poor is the gift of poets:&lt;br /&gt;
+    nothing but words!&lt;br /&gt;
+The gifts of Kings are gold,&lt;br /&gt;
+    silver, and laudation do incurr;&lt;br /&gt;
+Garments of strange soft silk,&lt;br /&gt;
+    Feathers of wonderous birds.&lt;br /&gt;
+Steeds that are white as milk,&lt;br /&gt;
+    Cattles grouped in herds.&lt;br /&gt;
+These are the gifts of the Kings:&lt;br /&gt;
+    Yet the gift that poet brings,&lt;br /&gt;
+    is nothing but words.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Many a thousand words whereas!&lt;br /&gt;
+Take them—a gift that flies alas!&lt;br /&gt;
+    words that could have been birds,&lt;br /&gt;
+    words that are buring in mirth,&lt;br /&gt;
+In the great eternal earth.&lt;br /&gt;
+Many a thousand words!&lt;br /&gt;
+Mnay a thousand worlds!&lt;br /&gt;
+                                        —out of one poet’s birth&lt;br /&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Poor is the gift of poets:     nothing but words! The gifts of Kings are gold,     silver, and laudation do incurr; Garments of strange soft silk,     Feathers of wonderous birds. Steeds that are white as milk,     Cattles grouped in herds. These are the gifts of the Kings:     Yet the gift that poet brings,     is nothing but words.</summary></entry><entry><title type="html">💻 Deploying code-server</title><link href="http://localhost:4000/deploying-code-server/" rel="alternate" type="text/html" title="💻 Deploying code-server" /><published>2021-07-09T00:00:00+00:00</published><updated>2021-07-09T00:00:00+00:00</updated><id>http://localhost:4000/deploying-code-server</id><content type="html" xml:base="http://localhost:4000/deploying-code-server/">&lt;p&gt;some six months ago, GitHub recommended me the repository &lt;a href=&quot;https://github.com/cdr/code-server&quot;&gt;code-server&lt;/a&gt;. it described itself as:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;VS Code in the browser&lt;/p&gt;
@@ -466,31 +485,4 @@ Time for me to devise my jolly boasts.&lt;/em&gt;&lt;/p&gt;</content><author><na
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;With these in mind, you’ll be able to do ten-second pitches to a five-minute presentation with demo.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html"></summary></entry><entry><title type="html">🌐 Forcing us to Use Chrome?!</title><link href="http://localhost:4000/google-forces-to-use-chrome/" rel="alternate" type="text/html" title="🌐 Forcing us to Use Chrome?!" /><published>2021-01-29T00:00:00+00:00</published><updated>2021-01-29T00:00:00+00:00</updated><id>http://localhost:4000/google-forces-to-use-chrome</id><content type="html" xml:base="http://localhost:4000/google-forces-to-use-chrome/">&lt;!--
- * @Date: 29/01/2021 14.14.20 +0800
- * @Author: KnowsCount
- * @LastEditTime: 29/01/2021 15.40.31 +0800
- * @FilePath: /myBlog/_posts/2021-01-29-google-forces-to-use-chrome.md
---&gt;
-
-&lt;p&gt;In a recent &lt;a href=&quot;https://blog.chromium.org/2021/01/limiting-private-api-availability-in.html&quot;&gt;Chromium blog post&lt;/a&gt;, it was stated:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;During a recent audit, we discovered that some third-party Chromium based browsers were able to integrate Google features, such as Chrome sync and Click to Call, that are only intended for Google’s use. This meant that a small fraction of users could sign into their Google Account and store their personal Chrome sync data, such as bookmarks, not just with Google Chrome, but also with some third-party Chromium based browsers. We are limiting access to our private Chrome APIs starting on March 15, 2021.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/photo-1501250987900-211872d97eaa.jpeg&quot; alt=&quot;photo-1501250987900-211872d97eaa&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Google Chrome teams has also sent an &lt;a href=&quot;https://groups.google.com/a/chromium.org/g/embedder-dev/c/NXm7GIKTNTE/m/Qxcew5lfCAAJ?pli=1&quot;&gt;email&lt;/a&gt;, announcing their future plans to ban third-party browsers from using account synchronisation, and this irritated Linux distribution developers.&lt;/p&gt;
-
-&lt;p&gt;It is reported that from 15 March, users of third-party browsers based on Chromium using the configurations of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google_default_client_id&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google_default_client_secret&lt;/code&gt; will not be able to sign in to their Google Accounts.&lt;/p&gt;
-
-&lt;p&gt;According to Google, they – in recent audits – found some Chromium based browsers using services and APIs designed only for Google Chrome, most importantly, Chrome Sync API. Therefore, Google decided to remove the visiting of these APIs from third parties, claiming the decision is made as to enhance data security of users.&lt;/p&gt;
-
-&lt;p&gt;Linux distribution developers who have been using those APIs and services for the past decade, on the other hand, evinced their angriness and expressed it to Google by saying they will have to &lt;strong&gt;cease from maintaining Chromium software package&lt;/strong&gt; as it will become pointless. Jochen Eisinger, Chrome’s Director of Engineering, responded that &lt;strong&gt;they will firmly stick to their decision in future&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Up to this point, Slackware Linux and Arch Linux are already considering to &lt;strong&gt;remove Chromium from their repos&lt;/strong&gt;. Take Arch Linux’s &lt;a href=&quot;https://lists.archlinux.org/pipermail/arch-dev-public/2021-January/030263.html&quot;&gt;thread&lt;/a&gt; as an example:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jochen Eisinger (Director of Engineering, Chrome) has confirmed that the killing of our API keys is a done deal. He also does not seem interested in the slightest bit to explore possible remedies for Chromium packages … I am going to stop maintaining Chromium and be in favor of dropping the package from our repos, though I have a feeling someone will want to adopt it despite the reduction in functionality.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;With these in mind, you’ll be able to do ten-second pitches to a five-minute presentation with demo.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html"></summary></entry></feed>

@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Poor is the Gift of Poets",
+      "tags"     : "",
+      "url"      : "/poor-is-the-gift-of-poets/",
+      "date"     : "2021-07-21 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "💻 Deploying code-server",
       "tags"     : "",
       "url"      : "/deploying-code-server/",
