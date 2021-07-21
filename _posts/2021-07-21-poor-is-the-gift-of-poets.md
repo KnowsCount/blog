@@ -1,5 +1,5 @@
 ---
-title: 🖋 Poor is the Gift of Poets
+title: 🖋 Poor are the Gift of Poets
 ---
 
 Poor are the gift of poets:<br />
@@ -20,5 +20,5 @@ Take them—a gift that flies alas!<br />
 &nbsp; &nbsp; words that are buring in mirth,<br />
 In the great eternal earth.<br />
 Many a thousand words!<br />
-Mnay a thousand worlds!<br />
+Many a thousand worlds!<br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; —out of one poet's birth<br />
