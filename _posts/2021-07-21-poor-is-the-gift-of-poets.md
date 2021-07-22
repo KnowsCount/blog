@@ -1,13 +1,13 @@
 ---
-title: 🖋 Poor are the Gift of Poets
+title: 🖋 Poor is the Gift of Poets
 ---
 
-Poor are the gift of poets:<br />
+Poor is the gift of poets:<br />
 &nbsp; &nbsp; nothing but words!<br />
 The gifts of Kings are gold,<br />
 &nbsp; &nbsp; silver, and laudation do incurr;<br />
 Garments of strange soft silk,<br />
-&nbsp; &nbsp; Feathers of wonderous birds.<br />
+&nbsp; &nbsp; Feathers of wonderous birds;<br />
 Steeds that are white as milk,<br />
 &nbsp; &nbsp; Cattles grouped in herds.<br />
 These are the gifts of the Kings:<br />
@@ -21,4 +21,4 @@ Take them—a gift that flies alas!<br />
 In the great eternal earth.<br />
 Many a thousand words!<br />
 Many a thousand worlds!<br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; —out of one poet's birth<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; —out of one poet's birth.<br />
