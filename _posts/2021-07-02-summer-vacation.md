@@ -9,7 +9,7 @@ I shall dine and sleep and frolic; I shall live and die and revive. 'We'll rant 
 Ay, ay! What fun, what joy! 'season of mists and mellow fruitfulness?' Nay Mr Keats, that be nothing—did your _'light winged Dryad of the trees'_ not _'singest of summer in full throated ease?'_ O God bless the season of Apollo, that eye of heaven; and god bless the season of us, the students, the _discipulorum_, the _étudiants_, the most joyous of men!
 
 _Summer, O summer, no winds from November;<br>
-&nbsp; &nbsp; For with scholastic freeze we dissever,<br>
+&nbsp; &nbsp; For from scholastic freeze we dissever,<br>
 And cease upon the midlands of some shining coasts.
 <br><br>
 Summer, O summer, no presents from December;<br>
