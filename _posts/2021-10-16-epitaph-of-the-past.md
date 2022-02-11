@@ -13,4 +13,4 @@ Lest once again, we think of her depose.<br>
 Tender Romance! Thy winter drawing nigh,<br>
 Fey miracle! Dissolve in rigmarole;<br>
 O Dryad, the Nymphs! Dead and dust though thou art:<br>
-Take me, and wither would you take my soul?<br>
+Take me, and whither would you take my soul?<br>
