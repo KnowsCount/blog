@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2022-02-11T06:42:23+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">😶 Some Late Thoughts</title><link href="http://localhost:4000/some-late-thoughts/" rel="alternate" type="text/html" title="😶 Some Late Thoughts" /><published>2021-11-18T00:00:00+00:00</published><updated>2021-11-18T00:00:00+00:00</updated><id>http://localhost:4000/some-late-thoughts</id><content type="html" xml:base="http://localhost:4000/some-late-thoughts/">&lt;p&gt;So soon tired!—how very lively was I,&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2022-02-24T04:47:23+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🤌 The Usage of ‘That Which’</title><link href="http://localhost:4000/the-usage-of-that-which/" rel="alternate" type="text/html" title="🤌 The Usage of ‘That Which’" /><published>2022-02-24T00:00:00+00:00</published><updated>2022-02-24T00:00:00+00:00</updated><id>http://localhost:4000/the-usage-of-that-which</id><content type="html" xml:base="http://localhost:4000/the-usage-of-that-which/">&lt;h1 id=&quot;that-which&quot;&gt;‘that which’&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;that is a pronoun referring back to a noun phrase&lt;/li&gt;
+  &lt;li&gt;which is the relative pronoun used for inanimate antecedents.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;to put it simply, in ‘a be that which c [verb]’, that refers to ‘a’, whilst ‘which’ refers to ‘that’. for instance&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a very small part of acting is that which takes place on stage&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;is the same as&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a very small part of acting is acting which takes place on stage&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;which equates&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a very small part of acting is what takes place on stage (..informal)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;for the ones who does not like the usage of ‘which’, ‘that which’ can also be ‘that that’: ‘the latent opposition to rearming Germany is as strong as that that has found public expression.’ (from ‘The Careful Writer’ by Per Bernstein, ‘Let it be noted that there are two exceptions to the use of that to introduce a defining clause. One is a situation in which the demonstrative that and the relative that come together, as in this sentence: …[the example from above]… ‘, ‘the second exception is a situation in which the relative follows a preposition: for example, of which, not of that.’)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;some definitions that might help&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;inanimate&quot;&gt;inanimate&lt;/h3&gt;
+
+&lt;p&gt;‘inanimate’ (or ‘non-animate’, ‘non-personal’): not being, and never having been alive. grammatically, an inanimate noun or pronoun have no referent that includes a human, animal, plant or other entity which is considered alive.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;inanimate-whose&quot;&gt;inanimate whose&lt;/h3&gt;
+
+&lt;p&gt;a fun thing to mention here is ‘inanimate whose’ (whose inanimate, non-personal whose, and neuter whose): whose indicates that the antecedent has a possessive role in the relative clause (‘the man whose daughter I married’), but it can also refer to things as well as animate objects (‘I found a car whose battery was dead’); the use of the inanimate whose dates from the 15th century, but since the 18th century has drawn criticism from those who consider whose to be the genitive (possessive) only of the relative pronoun who and therefore believe it should be restricted to personal antecedents.&lt;/p&gt;
+
+&lt;p&gt;the preferred substitute is of which the, which I find clumsy and overly formal (as in ‘that’s the car of which the alarm keeps waking us up at night.’). The Cambridge Grammar of the English Language emphasises it is perfectly grammatical (‘genitives … are completely grammatical and by no means exceptional’, pp. 1049–1050).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;examples&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I could a tale unfold whose lightest word / Would harrow up thy soul, freeze thy young blood, (Hamlet I.v)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div align=&quot;center&quot;&gt;or&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By wailful sonnets, whose composed rhymes / Should be full-fraught with serviceable vows. (Two Gentlemen of Verona, III.ii)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div align=&quot;center&quot;&gt;or&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And they said; Goe to, let us build us a city and a tower, whose top may reach unto heaven, and let us make us a name, lest we be scattered abroad upon the face of the whole earth. (Genesis 11:4, KJV)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;antecedents&quot;&gt;antecedents&lt;/h3&gt;
+
+&lt;p&gt;‘antecedents’: an expression that gives its meaning to a proform (pronoun, pro-verb, pro-adverb, etc.). such as the her in ‘tina did her homework’, as the pronoun ‘her’ refers to and takes meaning from ‘tina’.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">‘that which’</summary></entry><entry><title type="html">😶 Some Late Thoughts</title><link href="http://localhost:4000/some-late-thoughts/" rel="alternate" type="text/html" title="😶 Some Late Thoughts" /><published>2021-11-18T00:00:00+00:00</published><updated>2021-11-18T00:00:00+00:00</updated><id>http://localhost:4000/some-late-thoughts</id><content type="html" xml:base="http://localhost:4000/some-late-thoughts/">&lt;p&gt;So soon tired!—how very lively was I,&lt;br /&gt;
 When I played, frolicked and on sky did fly,&lt;br /&gt;
 But now when I shall lie on bed and think,&lt;br /&gt;
 All left were memories. And stars do blink,&lt;br /&gt;
@@ -229,38 +292,4 @@ WantedBy=multi-user.target
 &lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt; is always a good choice.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">some six months ago, GitHub recommended me the repository code-server. it described itself as:</summary></entry><entry><title type="html">🖋 An Epigram</title><link href="http://localhost:4000/an-epigram/" rel="alternate" type="text/html" title="🖋 An Epigram" /><published>2021-07-06T00:00:00+00:00</published><updated>2021-07-06T00:00:00+00:00</updated><id>http://localhost:4000/an-epigram</id><content type="html" xml:base="http://localhost:4000/an-epigram/">&lt;h1 id=&quot;an-epigram&quot;&gt;An Epigram&lt;/h1&gt;
 
 &lt;p&gt;Out of dullness comes curtness,&lt;br /&gt;
-    Then my body reckless grew headless.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">An Epigram</summary></entry><entry><title type="html">🌞 Fun websites</title><link href="http://localhost:4000/fun-websites/" rel="alternate" type="text/html" title="🌞 Fun websites" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>http://localhost:4000/fun-websites</id><content type="html" xml:base="http://localhost:4000/fun-websites/">&lt;ul&gt;
-  &lt;li&gt;Staggering Beauty&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;http://www.staggeringbeauty.com/&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;WebGL Fluid Simulation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;https://paveldogreat.github.io/WebGL-Fluid-Simulation/&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;endless.horse&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;http://endless.horse&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Corndog&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;http://corndog.io&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;RGB&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;http://www.rrrgggbbb.com&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Chrismckenzie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;https://chrismckenzie.com&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Staggering Beauty</summary></entry></feed>
+    Then my body reckless grew headless.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">An Epigram</summary></entry></feed>
