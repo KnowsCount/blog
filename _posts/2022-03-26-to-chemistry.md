@@ -21,5 +21,5 @@ Moles and molecules all.<br>
 
 With fancies gazing spirits high,<br>
 Thy carbon compounds die;<br>
-With thine own deathbed drawing nigh<br>
-'Tis the triumph of faerie skies.<br>
+And thine own deathbed drawing nigh<br>
+—’Tis the triumph o’ faerie skies.<br>
