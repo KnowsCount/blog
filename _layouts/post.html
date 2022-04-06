@@ -10,6 +10,11 @@
 	{% include header.html %}
 
 	<body data-theme="{{ site.mode }}" class="notransition">
+		<script
+			async
+			src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+		></script>
+
 		<script>
 			const body = document.body
 			const data = body.getAttribute('data-theme')
@@ -59,6 +64,7 @@
 							>
 								{{ page.date | date: "%b %d, %Y" }}
 							</time>
+							&nbsp;
 							<span
 								itemprop="author"
 								itemscope
@@ -68,6 +74,12 @@
 									>{{ site.author.name }}</span
 								>
 							</span>
+							<span>|</span>
+							<span id="busuanzi_container_site_pv"
+								>viewed:
+								<span id="busuanzi_value_site_pv"></span>
+								times</span
+							>
 							<time
 								hidden
 								datetime="{{ page.modified | date_to_xmlschema }}"
