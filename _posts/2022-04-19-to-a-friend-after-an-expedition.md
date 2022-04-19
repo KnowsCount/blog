@@ -5,7 +5,7 @@ title: "\U0001F9F3 To a Friend After an Expedition"
 *—how is andy tireless?*
 
 The team is weary in the green<br>
-Of finding scenes unseen:<br>
+Of finding scenes unseen;<br>
 We could barely our spirit keep:<br>
 She limpèd nigh asleep.<br>
 
