@@ -1,5 +1,5 @@
 ---
-title: A Late Dream
+title: "\U0001F632 A Late Dream"
 ---
 
 *was it a vision, or a waking dream?<br>
