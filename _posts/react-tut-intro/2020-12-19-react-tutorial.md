@@ -5,7 +5,7 @@ tags: [tutorial, ReactJS, code]
 description: a beauteous content sharing platform solution orchestrated to be sexy and concise.
 ---
 
-Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used WordPress to [blog](https://docs.knowscount.cc) but now I switched here onto [GitHub](https://github.com/KnowsCount/blog), using [Jekyll](https://jekyllrb.com), a much nicer and much more seamless blogging environment. So, many thanks to GitHub and the developers of Jekyll!
+Hi! This is basically the first blog post here – a brief introduction of a future-updating series of ReactJS (hereinafter React) tutorial. I formerly used WordPress to [blog](https://docs.knowscount.com) but now I switched here onto [GitHub](https://github.com/KnowsCount/blog), using [Jekyll](https://jekyllrb.com), a much nicer and much more seamless blogging environment. So, many thanks to GitHub and the developers of Jekyll!
 
 ---
 

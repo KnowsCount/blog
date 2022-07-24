@@ -22,7 +22,7 @@ author:
     avatar: https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/12.png # change with your own avatar
 
 # URL settings
-url: 'https://blog.knowscount.cc' #
+url: 'https://blog.knowscount.com' #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish

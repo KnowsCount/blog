@@ -2,7 +2,7 @@
 title: "\U0001F307 End of Summer Thoughts"
 ---
 
-It had been with a beating and happy heart (as seen in my former blog [https://blog.knowscount.cc/summer-vacation/](https://blog.knowscount.cc/summer-vacation/)), that I had passed up the doorsteps (albeit there being none) and entered a lift to my home on a morning in early June; whereafter approaching the door to this hushed familiar temple, wherein I was to take Summer silently and seperated from this wondrous world. My solitude has been kindly lent to me by my father, because of whom our family had been quarantined.
+It had been with a beating and happy heart (as seen in my former blog [https://blog.knowscount.com/summer-vacation/](https://blog.knowscount.com/summer-vacation/)), that I had passed up the doorsteps (albeit there being none) and entered a lift to my home on a morning in early June; whereafter approaching the door to this hushed familiar temple, wherein I was to take Summer silently and seperated from this wondrous world. My solitude has been kindly lent to me by my father, because of whom our family had been quarantined.
 
 It might, from the context, be detected that I am not satisfied for being quarantined and being stuck at home; whereas it is apparent fact that, if you happen to possess the correct information about me, staying at home all day long should suffices me very well —it was in sooth a wonderful reconciliation: how I indeed luxuriated myself in Brandes' multitudinous talks on european literature, in Chateaubriand's *Mémoires d'Outre-Tombe* (shame how I hadn't the chance to have a tasteful of the steak named after him), and in short yet wholesome history of the States.
 
