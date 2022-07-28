@@ -1,5 +1,5 @@
 ---
-title: "\U0001F9F3 To a Friend on an Expedition"
+title: "\U0001F9F3 A Friend During an Expedition"
 ---
 
 *—how is andy tireless?*
