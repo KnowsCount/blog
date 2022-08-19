@@ -13,6 +13,6 @@ For blocks upon them built are but disgrace<br>
 And if by human's ruthless gears they made<br>
 To conquer Nature—quench her gentle mien—<br>
 Shall she be curb'd, against them do crusade!<br>
-Arise, ye moutains, blooms and skies serene:<br>
+Arise, ye mountains, blooms and skies serene:<br>
 Like Men should fight for right and truth do fight<br>
 With thy great might—till day o'erlay thy night.
