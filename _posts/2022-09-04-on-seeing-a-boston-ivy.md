@@ -1,5 +1,5 @@
 ---
-title: On Seeing a Boston Ivy
+title: 🍃 On Seeing a Boston Ivy
 ---
 
 Within the city's bustling node,<br>
