@@ -20,7 +20,7 @@ Its liberty was shorn.
 But there upon a metal wall,<br>
 Grew green of varying hue:<br>
 This rebel in the urban pall,<br>
-Put on a zesty shew!
+Puts on a zesty shew!
 
 Its forelimb ripe and mighty clasp'd<br>
 Around the modish wall:<br>
