@@ -12,4 +12,4 @@ From which love-sicken'd teardrops shall run like your tress?
 What be the number of hours I wait<br>
 Till I see in my sight that dear bed where you sate,<br>
 Whereon you and your sorrows doth vanish away,<br>
-And in dreaming we meet and I ever will stay?
+As in dreaming we meet and I ever will stay?
