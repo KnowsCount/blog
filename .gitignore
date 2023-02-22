@@ -4,3 +4,4 @@
 _drafts
 klise-*.gem
 Gemfile.lock
+.DS_Store
