@@ -1,5 +1,6 @@
 ---
 title: "✉️ A Note to Emily"
+tags: [blog]
 ---
 
 *a meagre attempt on dactylic composition.*

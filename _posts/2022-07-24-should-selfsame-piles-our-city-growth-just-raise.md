@@ -1,5 +1,6 @@
 ---
 title: "\U0001F333 'Should Selfsame Piles our City Growth Must Raise'"
+tags: [blog]
 ---
 
 Should selfsame piles our city growth must raise<br>

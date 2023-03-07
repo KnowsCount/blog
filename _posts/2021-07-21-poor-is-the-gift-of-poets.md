@@ -1,5 +1,6 @@
 ---
 title: 🖋 Poor is the Gift of Poets
+tags: [blog]
 ---
 
 Poor is the gift of poets:<br />

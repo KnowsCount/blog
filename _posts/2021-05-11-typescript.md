@@ -1,5 +1,6 @@
 ---
 title: "\U0001F4A3 为什么我不用 Typescript"
+tags: [blog]
 ---
 
 ## 前言

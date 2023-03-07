@@ -1,5 +1,6 @@
 ---
 title: "\U0001F307 End of Summer Thoughts"
+tags: [blog]
 ---
 
 It had been with a beating and happy heart (as seen in my former blog [https://blog.knowscount.com/summer-vacation/](https://blog.knowscount.com/summer-vacation/)), that I had passed up the doorsteps (albeit there being none) and entered a lift to my home on a morning in early June; whereafter approaching the door to this hushed familiar temple, wherein I was to take Summer silently and seperated from this wondrous world. My solitude has been kindly lent to me by my father, because of whom our family had been quarantined.

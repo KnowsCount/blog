@@ -1,5 +1,6 @@
 ---
 title: "\U0001F320 Epitaph of a Tommy"
+tags: [blog]
 ---
 
 I fumbled slowly through my silver case,<br>

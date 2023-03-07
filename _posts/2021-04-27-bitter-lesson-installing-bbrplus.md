@@ -1,5 +1,6 @@
 ---
 title: "\U0001F912 bitter lesson installing BBRPlus"
+tags: [blog]
 ---
 
 A friend of mine charged me $1500 on vultr recently and I therefore started my journey exploring cloud instances. It was a pleasure—I've been learning something new every day since then for I, as someone who specialises more in front-end, do not know servers very well at all.

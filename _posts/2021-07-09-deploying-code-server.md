@@ -1,5 +1,6 @@
 ---
 title: "\U0001F4BB Deploying code-server"
+tags: [blog]
 ---
 
 some six months ago, GitHub recommended me the repository [code-server](https://github.com/cdr/code-server). it described itself as:

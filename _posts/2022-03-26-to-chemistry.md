@@ -1,5 +1,6 @@
 ---
 title: "⚗️ To Chemistry"
+tags: [blog]
 ---
 
 —*for it exhausts my spirit*

@@ -2,247 +2,268 @@
   
     {
       "title"    : "🐈 To a Cat",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/to-a-cat/",
       "date"     : "2023-02-22 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🥱 Boredom",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/boredom/",
       "date"     : "2022-10-07 00:00:00 +0000"
     } ,
   
     {
+      "title"    : "📓 Reflection - 25 Sept 2022",
+      "tags"     : "reflections",
+      "url"      : "/reflection-25-sept-2022/",
+      "date"     : "2022-09-25 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "📓 Reflection - 24 Sept 2022",
+      "tags"     : "reflections",
+      "url"      : "/reflection-24-sept-2022/",
+      "date"     : "2022-09-24 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "📓 Reflection - 23 Sept 2022",
+      "tags"     : "reflections",
+      "url"      : "/reflection-23-sept-2022/",
+      "date"     : "2022-09-23 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "✉️ A Note to Emily",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/a-note-to-emily/",
       "date"     : "2022-09-22 00:00:00 +0000"
     } ,
   
     {
-      "title"    : "🍃 On Seeing a Boston Ivy",
-      "tags"     : "",
+      "title"    : "📓Reflection - 20 Sept 2022",
+      "tags"     : "reflections",
+      "url"      : "/reflection-20-sept-2022/",
+      "date"     : "2022-09-20 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "🍃 On Seeing an Ivy",
+      "tags"     : "blog",
       "url"      : "/on-seeing-a-boston-ivy/",
       "date"     : "2022-09-04 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🌳 Upon a Wall in West Forest",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/upon-a-wall-in-west-forest/",
       "date"     : "2022-07-29 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🐲 QingMing",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/qingming/",
       "date"     : "2022-07-28 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🌳 &#39;Should Selfsame Piles our City Growth Must Raise&#39;",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/should-selfsame-piles-our-city-growth-just-raise/",
       "date"     : "2022-07-24 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🫀 To Emily",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/to-emily/",
       "date"     : "2022-07-21 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🐉 Pining for Home on Ninth of September",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/pining-for-home-on-ninth-of-september/",
       "date"     : "2022-06-25 00:00:00 +0000"
     } ,
   
     {
       "title"    : "😲 A Late Dream",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/a-late-dream/",
       "date"     : "2022-05-11 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🌕 Dear Queen Moon",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/dear-queen-moon/",
       "date"     : "2022-04-25 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🧳 A Friend During an Expedition",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/to-a-friend-after-an-expedition/",
       "date"     : "2022-04-19 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🥲 Lockdown",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/lockdown/",
       "date"     : "2022-04-06 00:00:00 +0000"
     } ,
   
     {
       "title"    : "⚗️ To Chemistry",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/to-chemistry/",
       "date"     : "2022-03-26 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🎩 The Fallacy of Being &#39;Apolitical&#39;",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/the-fallacy-of-being-apolitical/",
       "date"     : "2022-03-18 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🤌 The Usage of &#39;That Which&#39;",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/the-usage-of-that-which/",
       "date"     : "2022-02-24 00:00:00 +0000"
     } ,
   
     {
       "title"    : "😶 Some Late Thoughts",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/some-late-thoughts/",
       "date"     : "2021-11-18 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🌠 Epitaph of a Tommy",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/i-fumbled-slowly-through-my-silver-case/",
       "date"     : "2021-11-11 00:00:00 +0000"
     } ,
   
     {
       "title"    : "⚰️ Epitaph of the Past",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/epitaph-of-the-past/",
       "date"     : "2021-10-16 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🌇 End of Summer Thoughts",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/end-of-summer-thoughts/",
       "date"     : "2021-08-28 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🎸 WSC thoughts",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/wsc-thoughts/",
       "date"     : "2021-08-19 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🤫 Quite Quiet",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/quite-quiet/",
       "date"     : "2021-07-22 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🖋 Poor is the Gift of Poets",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/poor-is-the-gift-of-poets/",
       "date"     : "2021-07-21 00:00:00 +0000"
     } ,
   
     {
       "title"    : "💻 Deploying code-server",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/deploying-code-server/",
       "date"     : "2021-07-09 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🖋 An Epigram",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/an-epigram/",
       "date"     : "2021-07-06 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🌞 Fun websites",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/fun-websites/",
       "date"     : "2021-07-05 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🚀 Summer Vacation!",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/summer-vacation/",
       "date"     : "2021-07-02 00:00:00 +0000"
     } ,
   
     {
       "title"    : "💣 为什么我不用 Typescript",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/typescript/",
       "date"     : "2021-05-11 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🤒 bitter lesson installing BBRPlus",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/bitter-lesson-installing-bbrplus/",
       "date"     : "2021-04-27 00:00:00 +0000"
     } ,
   
     {
       "title"    : "💰 My First Cryptocurrencies",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/my-first-cryptocurrencies/",
       "date"     : "2021-02-08 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🕵️‍♂️ Why is Invitation-only Winning?",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/why-is-invitation-only-winning/",
       "date"     : "2021-02-02 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🌐 Forcing us to Use Chrome?!",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/google-forces-to-use-chrome/",
       "date"     : "2021-01-29 00:00:00 +0000"
     } ,
   
     {
       "title"    : "📕 The Eyeless.",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/the-eyeless/",
       "date"     : "2021-01-28 00:00:00 +0000"
     } ,
   
     {
       "title"    : "🖲 什么是信息茧房",
-      "tags"     : "",
+      "tags"     : "blog",
       "url"      : "/info-cocoons/",
       "date"     : "2021-01-15 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "📖 故事接龙平台的版本控制实现",
-      "tags"     : "",
-      "url"      : "/storyPlatform1/",
-      "date"     : "2020-12-29 00:00:00 +0000"
     } ,
   
     {
@@ -253,22 +274,8 @@
     } ,
   
     {
-      "title"    : "✒️ The Upstart Crows",
-      "tags"     : "blog",
-      "url"      : "/shakespeare-community/",
-      "date"     : "2020-12-20 03:57:00 +0000"
-    } ,
-  
-    {
-      "title"    : "⚛︎ ReactJS Tutorial - Intro",
-      "tags"     : "tutorial, ReactJS, code",
-      "url"      : "/react-tutorial/",
-      "date"     : "2020-12-19 00:15:00 +0000"
-    } ,
-  
-    {
       "title"    : "🤖 Artificial Intelligence - the Final Verdict",
-      "tags"     : "blog, code",
+      "tags"     : "code",
       "url"      : "/artificial-intelligence-is-the-final-verdict/",
       "date"     : "2020-12-07 15:57:32 +0000"
     } ,

@@ -1,5 +1,6 @@
 ---
 title: "\U0001F3A9 The Fallacy of Being 'Apolitical'"
+tags: [blog]
 ---
 
 It is, I am given to understand, no new nor profound knowledge that everything in human world is, to some degree, political. Politics, at the root level, is just opinions whereby one endeavours to derive policy from; therefore, just like a living human being cannot 'have no opinion', he cannot be 'whole-heartedly apolitical'. A parallel apparent truth is that all men, however isolated from society, remains a social animal; and again cannot be entirely apolitical. For, however he who dwells in the innermost of the wilderness should shun it, the very act of isolating himself by escaping society and politics is one of the purest and most symbolic political acts.

@@ -1,5 +1,6 @@
 ---
 title: "\U0001F680 Summer Vacation!"
+tags: [blog]
 ---
 
 Today begins our summer vacation. Ay, the vacation greater than all of the great of the world—the great vacation of summer.

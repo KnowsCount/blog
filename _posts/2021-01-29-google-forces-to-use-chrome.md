@@ -1,5 +1,6 @@
 ---
 title: "\U0001F310 Forcing us to Use Chrome?!"
+tags: [blog]
 ---
 
 <!--

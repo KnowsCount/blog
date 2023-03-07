@@ -1,5 +1,6 @@
 ---
 title: 🌳 Upon a Wall in West Forest
+tags: [blog]
 ---
 
 Here a ridge yet there a peak,<br>

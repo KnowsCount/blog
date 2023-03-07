@@ -1,5 +1,6 @@
 ---
 title: "\U0001F4B0 My First Cryptocurrencies"
+tags: [blog]
 ---
 
 ![cryptocurrencies](https://knowscount-1304485449.cos.ap-shanghai.myqcloud.com/img/ZCByBK.jpg)

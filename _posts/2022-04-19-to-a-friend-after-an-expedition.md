@@ -1,5 +1,6 @@
 ---
 title: "\U0001F9F3 A Friend During an Expedition"
+tags: [blog]
 ---
 
 *—how is andy tireless?*

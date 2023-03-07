@@ -1,5 +1,6 @@
 ---
 title: "\U0001F92B Quite Quiet"
+tags: [blog]
 comments: false
 ---
 

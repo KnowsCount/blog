@@ -1,5 +1,6 @@
 ---
 title: "\U0001F636 Some Late Thoughts"
+tags: [blog]
 ---
 
 So soon tired!—how very lively was I,<br>

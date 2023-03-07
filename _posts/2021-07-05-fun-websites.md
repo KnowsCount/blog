@@ -1,5 +1,6 @@
 ---
 title: "\U0001F31E Fun websites"
+tags: [blog]
 ---
 
 - Staggering Beauty

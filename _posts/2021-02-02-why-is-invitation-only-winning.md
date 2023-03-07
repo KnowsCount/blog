@@ -1,5 +1,6 @@
 ---
 title: "\U0001F575️‍♂️ Why is Invitation-only Winning?"
+tags: [blog]
 ---
 
 <!--

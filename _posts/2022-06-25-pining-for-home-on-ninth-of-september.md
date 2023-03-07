@@ -1,5 +1,6 @@
 ---
 title: "\U0001F409 Pining for Home on Ninth of September"
+tags: [blog]
 ---
 
 In distant village lonely dwell,<br>

@@ -1,5 +1,6 @@
 ---
 title: "\U0001F315 Dear Queen Moon"
+tags: [blog]
 ---
 
 Raindrops fiercer<br>

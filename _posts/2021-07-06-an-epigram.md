@@ -1,5 +1,6 @@
 ---
 title: "\U0001F58B An Epigram"
+tags: [blog]
 ---
 
 # An Epigram

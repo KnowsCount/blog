@@ -1,5 +1,6 @@
 ---
 title: "⚰️ Epitaph of the Past"
+tags: [blog]
 ---
 
 Surely at last, the fairies, the damp moon,<br>

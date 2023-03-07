@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2023-02-22T14:24:46+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a young front-end developer.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🐈 To a Cat</title><link href="http://localhost:4000/to-a-cat/" rel="alternate" type="text/html" title="🐈 To a Cat" /><published>2023-02-22T00:00:00+00:00</published><updated>2023-02-22T00:00:00+00:00</updated><id>http://localhost:4000/to-a-cat</id><content type="html" xml:base="http://localhost:4000/to-a-cat/">&lt;p&gt;A cat lays slumb’ring here and there,&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2023-03-07T15:08:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a poet.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🐈 To a Cat</title><link href="http://localhost:4000/to-a-cat/" rel="alternate" type="text/html" title="🐈 To a Cat" /><published>2023-02-22T00:00:00+00:00</published><updated>2023-02-22T00:00:00+00:00</updated><id>http://localhost:4000/to-a-cat</id><content type="html" xml:base="http://localhost:4000/to-a-cat/">&lt;p&gt;A cat lays slumb’ring here and there,&lt;br /&gt;
 Her dwellings never fix’d.&lt;br /&gt;
 No masters rule her leapings fair,&lt;br /&gt;
 Nor cat food for her mix’d.&lt;/p&gt;
@@ -26,7 +26,7 @@ She listened to my song.&lt;/p&gt;
 &lt;p&gt;The soul whereby her being’s form’d,&lt;br /&gt;
 O hear me I thee pray!—&lt;br /&gt;
 Wert thou from Muse or God transform’d&lt;br /&gt;
-I could not but be gay.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">A cat lays slumb’ring here and there, Her dwellings never fix’d. No masters rule her leapings fair, Nor cat food for her mix’d.</summary></entry><entry><title type="html">🥱 Boredom</title><link href="http://localhost:4000/boredom/" rel="alternate" type="text/html" title="🥱 Boredom" /><published>2022-10-07T00:00:00+00:00</published><updated>2022-10-07T00:00:00+00:00</updated><id>http://localhost:4000/boredom</id><content type="html" xml:base="http://localhost:4000/boredom/">&lt;p&gt;In boredom I have found a shrine,&lt;br /&gt;
+I could not but be gay.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">A cat lays slumb’ring here and there, Her dwellings never fix’d. No masters rule her leapings fair, Nor cat food for her mix’d.</summary></entry><entry><title type="html">🥱 Boredom</title><link href="http://localhost:4000/boredom/" rel="alternate" type="text/html" title="🥱 Boredom" /><published>2022-10-07T00:00:00+00:00</published><updated>2022-10-07T00:00:00+00:00</updated><id>http://localhost:4000/boredom</id><content type="html" xml:base="http://localhost:4000/boredom/">&lt;p&gt;In boredom I have found a shrine,&lt;br /&gt;
 A temple rich and wide:&lt;br /&gt;
 My Muses come and heart of mine&lt;br /&gt;
 Is fill’d with Poesy’s tide.&lt;/p&gt;
@@ -61,7 +61,26 @@ As cold as his poor fate;&lt;br /&gt;
 His lips—where Genius did unfold&lt;br /&gt;
 Yet murmurs high debate.&lt;/p&gt;
 
-&lt;p&gt;[should be continued till I am bored again…]&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">In boredom I have found a shrine, A temple rich and wide: My Muses come and heart of mine Is fill’d with Poesy’s tide.</summary></entry><entry><title type="html">✉️ A Note to Emily</title><link href="http://localhost:4000/a-note-to-emily/" rel="alternate" type="text/html" title="✉️ A Note to Emily" /><published>2022-09-22T00:00:00+00:00</published><updated>2022-09-22T00:00:00+00:00</updated><id>http://localhost:4000/a-note-to-emily</id><content type="html" xml:base="http://localhost:4000/a-note-to-emily/">&lt;p&gt;&lt;em&gt;a meagre attempt on dactylic composition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[should be continued till I am bored again…]&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">In boredom I have found a shrine, A temple rich and wide: My Muses come and heart of mine Is fill’d with Poesy’s tide.</summary></entry><entry><title type="html">📓 Reflection - 25 Sept 2022</title><link href="http://localhost:4000/reflection-25-sept-2022/" rel="alternate" type="text/html" title="📓 Reflection - 25 Sept 2022" /><published>2022-09-25T00:00:00+00:00</published><updated>2022-09-25T00:00:00+00:00</updated><id>http://localhost:4000/reflection-25-sept-2022</id><content type="html" xml:base="http://localhost:4000/reflection-25-sept-2022/">&lt;p&gt;I am—and when I say ‘I am’, I must be taken seriously—the nicest person I had the hap to know upon the planet earth. I was dining in a Burger King somewhere around the school before I should enter it, and I recalled how a roommate kindly bought us KFC last week. Thoughts and feelings arise, and I decided to buy each of them milk tea—or, according to their preferences, hot chocolate. Now that I should write it down, actually, the KFC guy seems to be the kinder—but still, I am the kindest.&lt;/p&gt;
+
+&lt;p&gt;Nothing else notable today—or is there? My brain does not really want to work.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="reflections" /><summary type="html">I am—and when I say ‘I am’, I must be taken seriously—the nicest person I had the hap to know upon the planet earth. I was dining in a Burger King somewhere around the school before I should enter it, and I recalled how a roommate kindly bought us KFC last week. Thoughts and feelings arise, and I decided to buy each of them milk tea—or, according to their preferences, hot chocolate. Now that I should write it down, actually, the KFC guy seems to be the kinder—but still, I am the kindest.</summary></entry><entry><title type="html">📓 Reflection - 24 Sept 2022</title><link href="http://localhost:4000/reflection-24-sept-2022/" rel="alternate" type="text/html" title="📓 Reflection - 24 Sept 2022" /><published>2022-09-24T00:00:00+00:00</published><updated>2022-09-24T00:00:00+00:00</updated><id>http://localhost:4000/reflection-24-sept-2022</id><content type="html" xml:base="http://localhost:4000/reflection-24-sept-2022/">&lt;p&gt;Homeless in Shanghai, I have to stay in my friend’s place for the weekend. He lives in a very posh house, in a very posh complex—so posh that the security by the gate should know each and every name of the proprietors. Ignorant of that being a possibility, I exclaimed in awe—an exclamation which evidently caused the security to doubt whether ones of my friend’s poshness should know a man like myself. He made me call my friend so that he can make sure I am not a homeless boy trying to harass a rich man—which I pretty much am.&lt;/p&gt;
+
+&lt;p&gt;I called and my friend told the security he does know me—God bless him; the security lets me in, and I am once again awed: each house comes with a garden, and in the middle of the complex is a huge garden; trees can be found everywhere, whilst in the centre garden theres grows a literal forest of trees. I recall little about the various flowers upon the fresh lawns scatter, but I do remember well the trees. Almost every one of the trees I had the hap to meet along the way has its own voice as well as its feature: at the passing of the breeze the fir-trees sob and moan no less distinctly than they rock; the holly whistles as it battles with itself; the ash hisses amid its quiverings; the beech rustles whilst its flat boughs should rise and fall. I walked, in lieu of walking towards the house, into the trees, and soon found myself standing in the clearing amongst the centre trees. And apparently in a sea of mosquitos.&lt;/p&gt;
+
+&lt;p&gt;I quickly left, and into his mansion I went.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="reflections" /><summary type="html">Homeless in Shanghai, I have to stay in my friend’s place for the weekend. He lives in a very posh house, in a very posh complex—so posh that the security by the gate should know each and every name of the proprietors. Ignorant of that being a possibility, I exclaimed in awe—an exclamation which evidently caused the security to doubt whether ones of my friend’s poshness should know a man like myself. He made me call my friend so that he can make sure I am not a homeless boy trying to harass a rich man—which I pretty much am.</summary></entry><entry><title type="html">📓 Reflection - 23 Sept 2022</title><link href="http://localhost:4000/reflection-23-sept-2022/" rel="alternate" type="text/html" title="📓 Reflection - 23 Sept 2022" /><published>2022-09-23T00:00:00+00:00</published><updated>2022-09-23T00:00:00+00:00</updated><id>http://localhost:4000/reflection-23-sept-2022</id><content type="html" xml:base="http://localhost:4000/reflection-23-sept-2022/">&lt;p&gt;There is hardly homework today: there is, yet they are for the weekend—a student of my dedication never does weekend homework before weekend. The evening studies, then, was supposed to be a traquil time for me to read and think; whereas—as I am writing this—the air conditioner produces a burning smell whilst classmates around me are screaming as if they are being burnt alive.&lt;/p&gt;
+
+&lt;p&gt;The excitement and constant jabbering is fostered by a very sorry scene today. A lady—I am wont to address to females thus, though in this case I feel like I should hardly call her a lady—publicly took off her jacket in class, whereunder she is clothed with only—well—undergarment. I was sitting at the very front of the classroom when she did that—the teacher’s seat—and I, when I heard a scream, lifted my head and haplessly had a very brief glance at the… view. I quickly stuffed the book I was holding onto my face and swore—my brain has not the faintest idea of how to deal with this verily… delicate situation. I was nearly able to convince myself such drama is but a boyish phantasmagoria my brain had produced—nearly—till some other screams arose: she had turned around.&lt;/p&gt;
+
+&lt;p&gt;Mankind is quite strange a thing to think about; they in their shape and abilities resemble me, but their mind—the way they think—is oftentimes mystical. What was she—pray tell, thou All-knowing—thinking when she should do that? I was reading Keats when she had commited the deed, and now his words are but irony to me:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;… Surely the All-seeing, &lt;br /&gt;
+Who joys to see us with his gifts agreeing,&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One would hardly, dear Lord Almighty, agree with such gift—it is no gift, and it is not to be agreed upon.&lt;/p&gt;
+
+&lt;p&gt;I should cease to write: I cannot bear to recall the sight once more.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="reflections" /><summary type="html">There is hardly homework today: there is, yet they are for the weekend—a student of my dedication never does weekend homework before weekend. The evening studies, then, was supposed to be a traquil time for me to read and think; whereas—as I am writing this—the air conditioner produces a burning smell whilst classmates around me are screaming as if they are being burnt alive.</summary></entry><entry><title type="html">✉️ A Note to Emily</title><link href="http://localhost:4000/a-note-to-emily/" rel="alternate" type="text/html" title="✉️ A Note to Emily" /><published>2022-09-22T00:00:00+00:00</published><updated>2022-09-22T00:00:00+00:00</updated><id>http://localhost:4000/a-note-to-emily</id><content type="html" xml:base="http://localhost:4000/a-note-to-emily/">&lt;p&gt;&lt;em&gt;a meagre attempt on dactylic composition.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;When should I see in a bower your eyes&lt;br /&gt;
 In which dances the spirit who from our love rise,&lt;br /&gt;
@@ -71,7 +90,25 @@ From which love-sicken’d teardrops shall run like your tress?&lt;/p&gt;
 &lt;p&gt;What be the number of hours I wait&lt;br /&gt;
 Till I see in my sight that dear bed where you sate,&lt;br /&gt;
 Whereon you and your sorrows doth vanish away,&lt;br /&gt;
-As in dreaming we meet and I ever will stay?&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">a meagre attempt on dactylic composition.</summary></entry><entry><title type="html">🍃 On Seeing a Boston Ivy</title><link href="http://localhost:4000/on-seeing-a-boston-ivy/" rel="alternate" type="text/html" title="🍃 On Seeing a Boston Ivy" /><published>2022-09-04T00:00:00+00:00</published><updated>2022-09-04T00:00:00+00:00</updated><id>http://localhost:4000/on-seeing-a-boston-ivy</id><content type="html" xml:base="http://localhost:4000/on-seeing-a-boston-ivy/">&lt;p&gt;Within the city’s bustling node,&lt;br /&gt;
+As in dreaming we meet and I ever will stay?&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">a meagre attempt on dactylic composition.</summary></entry><entry><title type="html">📓Reflection - 20 Sept 2022</title><link href="http://localhost:4000/reflection-20-sept-2022/" rel="alternate" type="text/html" title="📓Reflection - 20 Sept 2022" /><published>2022-09-20T00:00:00+00:00</published><updated>2022-09-20T00:00:00+00:00</updated><id>http://localhost:4000/reflection-20-sept-2022</id><content type="html" xml:base="http://localhost:4000/reflection-20-sept-2022/">&lt;p&gt;Versification in dactyls is hard. Keats is a genius. These are, alas, all my thoughts today. The first one new, the second old. Nought had left any impression worth mentioning except for the two: it’s yet another bland and boring day under the sun. Bland and boring may be too harsh two words to conclude a day though: after all, each day has its own uniqueness; today is but an example of a day that is lacking in its uniqueness.&lt;/p&gt;
+
+&lt;p&gt;A song, though—it just came in mind—did stir my bored spirit today; the song did not quite impress me heretofore when I first listened, but today it did. Would you were bored as I am, you might try listening: the name is The Garden Where the Praities Grow.&lt;/p&gt;
+
+&lt;p&gt;To expand on the dactyls bit: I have been composing poetry once more. The first line struck my mind out of nowhere, with a dactylic rhythm: ‘when should I see in a bower your eyes’. Thus the poem went:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When should I see in a bower your eyes&lt;br /&gt;
+In which dances the spirit who from our love rise,&lt;br /&gt;
+Whereby all of your feelings shall sweetly express,&lt;br /&gt;
+From which love-sicken’d teardrops shall run like your tress.&lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;What be the number of hours I wait&lt;br /&gt;
+Till I see in my sight that dear bed where you sate,&lt;br /&gt;
+Whereon you and your sorrows doth vanish away,&lt;br /&gt;
+As in dreaming we meet and I ever will stay.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is not good poetry: too evident some sacrifices are made for the fitting of the metre, yet it is at least a joy—for myself—to read. Now Byron is the genius of the day as well as Keats: one presently admires the first canto of The Bride of Abydos more than one has ever did.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="reflections" /><summary type="html">Versification in dactyls is hard. Keats is a genius. These are, alas, all my thoughts today. The first one new, the second old. Nought had left any impression worth mentioning except for the two: it’s yet another bland and boring day under the sun. Bland and boring may be too harsh two words to conclude a day though: after all, each day has its own uniqueness; today is but an example of a day that is lacking in its uniqueness.</summary></entry><entry><title type="html">🍃 On Seeing an Ivy</title><link href="http://localhost:4000/on-seeing-a-boston-ivy/" rel="alternate" type="text/html" title="🍃 On Seeing an Ivy" /><published>2022-09-04T00:00:00+00:00</published><updated>2022-09-04T00:00:00+00:00</updated><id>http://localhost:4000/on-seeing-a-boston-ivy</id><content type="html" xml:base="http://localhost:4000/on-seeing-a-boston-ivy/">&lt;p&gt;Within the city’s bustling node,&lt;br /&gt;
 I walk’d amongst the streets;&lt;br /&gt;
 I saw some trees along the road,&lt;br /&gt;
 Some leaves that from it sheets.&lt;/p&gt;
@@ -99,7 +136,7 @@ Is thrilling to recall.&lt;/p&gt;
 &lt;p&gt;No dainty blossoms gardens grow&lt;br /&gt;
 Can match thine ardent soul:&lt;br /&gt;
 O thou that thrives and for life plough&lt;br /&gt;
-My worship thy nerve stole!&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Within the city’s bustling node, I walk’d amongst the streets; I saw some trees along the road, Some leaves that from it sheets.</summary></entry><entry><title type="html">🌳 Upon a Wall in West Forest</title><link href="http://localhost:4000/upon-a-wall-in-west-forest/" rel="alternate" type="text/html" title="🌳 Upon a Wall in West Forest" /><published>2022-07-29T00:00:00+00:00</published><updated>2022-07-29T00:00:00+00:00</updated><id>http://localhost:4000/upon-a-wall-in-west-forest</id><content type="html" xml:base="http://localhost:4000/upon-a-wall-in-west-forest/">&lt;p&gt;Here a ridge yet there a peak,&lt;br /&gt;
+My worship thy nerve stole!&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">Within the city’s bustling node, I walk’d amongst the streets; I saw some trees along the road, Some leaves that from it sheets.</summary></entry><entry><title type="html">🌳 Upon a Wall in West Forest</title><link href="http://localhost:4000/upon-a-wall-in-west-forest/" rel="alternate" type="text/html" title="🌳 Upon a Wall in West Forest" /><published>2022-07-29T00:00:00+00:00</published><updated>2022-07-29T00:00:00+00:00</updated><id>http://localhost:4000/upon-a-wall-in-west-forest</id><content type="html" xml:base="http://localhost:4000/upon-a-wall-in-west-forest/">&lt;p&gt;Here a ridge yet there a peak,&lt;br /&gt;
 Different distance difference sees;&lt;br /&gt;
 Shifting changes muddle wreak:&lt;br /&gt;
 Truth is blurr’d among its trees.&lt;/p&gt;
@@ -109,7 +146,7 @@ Truth is blurr’d among its trees.&lt;/p&gt;
 &lt;p&gt;横看成岭侧成峰&lt;br /&gt;
 远近高低各不同&lt;br /&gt;
 不识庐山真面目&lt;br /&gt;
-只缘身在此山中&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Here a ridge yet there a peak, Different distance difference sees; Shifting changes muddle wreak: Truth is blurr’d among its trees.</summary></entry><entry><title type="html">🐲 QingMing</title><link href="http://localhost:4000/qingming/" rel="alternate" type="text/html" title="🐲 QingMing" /><published>2022-07-28T00:00:00+00:00</published><updated>2022-07-28T00:00:00+00:00</updated><id>http://localhost:4000/qingming</id><content type="html" xml:base="http://localhost:4000/qingming/">&lt;p&gt;Rain of Qingming skies befell,&lt;br /&gt;
+只缘身在此山中&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">Here a ridge yet there a peak, Different distance difference sees; Shifting changes muddle wreak: Truth is blurr’d among its trees.</summary></entry><entry><title type="html">🐲 QingMing</title><link href="http://localhost:4000/qingming/" rel="alternate" type="text/html" title="🐲 QingMing" /><published>2022-07-28T00:00:00+00:00</published><updated>2022-07-28T00:00:00+00:00</updated><id>http://localhost:4000/qingming</id><content type="html" xml:base="http://localhost:4000/qingming/">&lt;p&gt;Rain of Qingming skies befell,&lt;br /&gt;
 Mien of passers sorrow tell;&lt;br /&gt;
 ‘Does a pub house somewhere lie?’&lt;br /&gt;
 ‘Yon it does, in village nigh.’&lt;br /&gt;&lt;/p&gt;
@@ -119,126 +156,4 @@ Mien of passers sorrow tell;&lt;br /&gt;
 &lt;p&gt;清明时节雨纷纷&lt;br /&gt;
 路上行人欲断魂&lt;br /&gt;
 借问酒家何处有&lt;br /&gt;
-牧童遥指杏花村&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Rain of Qingming skies befell, Mien of passers sorrow tell; ‘Does a pub house somewhere lie?’ ‘Yon it does, in village nigh.’</summary></entry><entry><title type="html">🌳 ‘Should Selfsame Piles our City Growth Must Raise’</title><link href="http://localhost:4000/should-selfsame-piles-our-city-growth-just-raise/" rel="alternate" type="text/html" title="🌳 ‘Should Selfsame Piles our City Growth Must Raise’" /><published>2022-07-24T00:00:00+00:00</published><updated>2022-07-24T00:00:00+00:00</updated><id>http://localhost:4000/should-selfsame-piles-our-city-growth-just-raise</id><content type="html" xml:base="http://localhost:4000/should-selfsame-piles-our-city-growth-just-raise/">&lt;p&gt;Should selfsame piles our city growth must raise&lt;br /&gt;
-Upon the land where Nymphs and Fauns abide,&lt;br /&gt;
-Where birds on cypress gaily sing to praise&lt;br /&gt;
-The pastures green, that meadow spreading wide:&lt;br /&gt;
-Let garments green not cede their dwelling place,&lt;br /&gt;
-Nor creatures bold their long-reigned land resign;&lt;br /&gt;
-For blocks upon them built are but disgrace&lt;br /&gt;
-—To Nature, and to Gaia’s grand design.&lt;br /&gt;
-And if by human’s ruthless gears they made&lt;br /&gt;
-To conquer Nature—quench her gentle mien—&lt;br /&gt;
-Shall she be curb’d, against them do crusade!&lt;br /&gt;
-Arise, ye mountains, blooms and skies serene:&lt;br /&gt;
-Like Men should fight for right and truth do fight&lt;br /&gt;
-With thy great might—till day o’erlay thy night.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">Should selfsame piles our city growth must raise Upon the land where Nymphs and Fauns abide, Where birds on cypress gaily sing to praise The pastures green, that meadow spreading wide: Let garments green not cede their dwelling place, Nor creatures bold their long-reigned land resign; For blocks upon them built are but disgrace —To Nature, and to Gaia’s grand design. And if by human’s ruthless gears they made To conquer Nature—quench her gentle mien— Shall she be curb’d, against them do crusade! Arise, ye mountains, blooms and skies serene: Like Men should fight for right and truth do fight With thy great might—till day o’erlay thy night.</summary></entry><entry><title type="html">🫀 To Emily</title><link href="http://localhost:4000/to-emily/" rel="alternate" type="text/html" title="🫀 To Emily" /><published>2022-07-21T00:00:00+00:00</published><updated>2022-07-21T00:00:00+00:00</updated><id>http://localhost:4000/to-emily</id><content type="html" xml:base="http://localhost:4000/to-emily/">&lt;p&gt;I look at you and not a phrase&lt;br /&gt;
-Arises inside me:&lt;br /&gt;
-For not at all a human praise&lt;br /&gt;
-Could match that charm of thee.&lt;/p&gt;
-
-&lt;p&gt;I look at you and, smiling, you&lt;br /&gt;
-Dost look back unto me;&lt;br /&gt;
-Such rendezvous of sights of two,&lt;br /&gt;
-Makes souls in shyness flee!&lt;/p&gt;
-
-&lt;p&gt;‘I dreamt of thee: O, dost thou know,&lt;br /&gt;
-And didst thou dream of me?&lt;br /&gt;
-Then didst thee dreaming true love show,&lt;br /&gt;
-And hath I shown mine thee?’&lt;/p&gt;
-
-&lt;p&gt;You blush, I smile, as I am thrilled&lt;br /&gt;
-To hear you answer me:&lt;br /&gt;
-You smiled as well, like sea distilled,&lt;br /&gt;
-One hears no speech from thee.&lt;/p&gt;
-
-&lt;p&gt;Your lips were still but dear eyes thine&lt;br /&gt;
-Didst sing your love to me:&lt;br /&gt;
-‘Indeed—’ they grinned ‘this heart of mine&lt;br /&gt;
-With love does pound for thee.&lt;/p&gt;
-
-&lt;p&gt;‘I saw you under nooks and leaves,&lt;br /&gt;
-Awaiting none but me—&lt;br /&gt;
-Same sickness of sweet love conceives,&lt;br /&gt;
-That I should dream of thee.&lt;/p&gt;
-
-&lt;p&gt;‘I miss you true, and love you too,&lt;br /&gt;
-You own this heart in me:&lt;br /&gt;
-For now I dwell in thought of you&lt;br /&gt;
-And kiss’s shall set me free.’&lt;/p&gt;
-
-&lt;p&gt;And thus I kissed you on your cheeks&lt;br /&gt;
-Just like you kissèd me:&lt;br /&gt;
-And there my tears ran two long creeks,&lt;br /&gt;
-Just like the tears of thee.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">I look at you and not a phrase Arises inside me: For not at all a human praise Could match that charm of thee.</summary></entry><entry><title type="html">🐉 Pining for Home on Ninth of September</title><link href="http://localhost:4000/pining-for-home-on-ninth-of-september/" rel="alternate" type="text/html" title="🐉 Pining for Home on Ninth of September" /><published>2022-06-25T00:00:00+00:00</published><updated>2022-06-25T00:00:00+00:00</updated><id>http://localhost:4000/pining-for-home-on-ninth-of-september</id><content type="html" xml:base="http://localhost:4000/pining-for-home-on-ninth-of-september/">&lt;p&gt;In distant village lonely dwell,&lt;br /&gt;
-A yearn of home in festive bell;&lt;br /&gt;
-My brother steps unto the heights,&lt;br /&gt;
-And misses me, in cornel rites.&lt;/p&gt;
-
-&lt;h3 id=&quot;original-text&quot;&gt;original text:&lt;/h3&gt;
-&lt;p&gt;独在异乡为异客&lt;br /&gt;
-每逢佳节倍思亲&lt;br /&gt;
-遥知兄弟登高处&lt;br /&gt;
-遍插茱萸少一人&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">In distant village lonely dwell, A yearn of home in festive bell; My brother steps unto the heights, And misses me, in cornel rites.</summary></entry><entry><title type="html">😲 A Late Dream</title><link href="http://localhost:4000/a-late-dream/" rel="alternate" type="text/html" title="😲 A Late Dream" /><published>2022-05-11T00:00:00+00:00</published><updated>2022-05-11T00:00:00+00:00</updated><id>http://localhost:4000/a-late-dream</id><content type="html" xml:base="http://localhost:4000/a-late-dream/">&lt;p&gt;&lt;em&gt;was it a vision, or a waking dream?&lt;br /&gt;
-fled is that music:—do I wake or sleep?&lt;br /&gt;
-—Keats&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;She shut her eyes upon her bed,&lt;br /&gt;
-And beauty glows about;&lt;br /&gt;
-The beam of glamour ‘round her head,&lt;br /&gt;
-A bard could only doubt.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;She lays on bed a nakèd wise:&lt;br /&gt;
-And I am standing by;&lt;br /&gt;
-—To feel the wishes in her eyes&lt;br /&gt;
-The world I would defy.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The head upon my shoulder seeks&lt;br /&gt;
-To think it carefully;&lt;br /&gt;
-But lo!—how blushful are her cheeks:&lt;br /&gt;
-I lay down carelessly.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Her damask lips grow fairer still&lt;br /&gt;
-—Like cherry dews herself;&lt;br /&gt;
-The soft white bosom, like a hill,&lt;br /&gt;
-Is plump upon this elf.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The eyes of ink, and hair of silk&lt;br /&gt;
-Have found their place on me;&lt;br /&gt;
-Complexion hers is white as milk,&lt;br /&gt;
-My eyesight leaves not she.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The falls of ink upon her head&lt;br /&gt;
-Doth flow like inmost dream:&lt;br /&gt;
-—the lock of hair that half abed&lt;br /&gt;
-How sleek and smooth doth seem!&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Her eyes emit voracious lust,&lt;br /&gt;
-A lust that I obey:&lt;br /&gt;
-For with an ardour full robust,&lt;br /&gt;
-Beside her I do lay.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;My arms then ‘round her breasts doth twine&lt;br /&gt;
-And mouth agapèd wide;&lt;br /&gt;
-My hands then claspèd ‘round the shrine&lt;br /&gt;
-Behind her bras unti’d.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Her legs curl upwards slightly bent,&lt;br /&gt;
-And gapeth wide apart;&lt;br /&gt;
-She nods her head and gave consent&lt;br /&gt;
-For me to make a start.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I hold her hands and grab her knee,&lt;br /&gt;
-As quick as light’ning’s leap;&lt;br /&gt;
-But looking up I see not she:&lt;br /&gt;
-A shadow nigh me creep.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;My mind then mocks my boyishness:&lt;br /&gt;
-I was in dreamland deep!&lt;br /&gt;
-That little nymph who dwells in me&lt;br /&gt;
-Had lullèd me asleep!&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I open my unwilling eyes&lt;br /&gt;
-Towards the rising beam:&lt;br /&gt;
-If I should die with her anigh&lt;br /&gt;
-—How well such dying seem!&lt;br /&gt;&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">was it a vision, or a waking dream? fled is that music:—do I wake or sleep? —Keats</summary></entry></feed>
+牧童遥指杏花村&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">Rain of Qingming skies befell, Mien of passers sorrow tell; ‘Does a pub house somewhere lie?’ ‘Yon it does, in village nigh.’</summary></entry></feed>

@@ -1,5 +1,6 @@
 ---
 title: "\U0001F632 A Late Dream"
+tags: [blog]
 ---
 
 *was it a vision, or a waking dream?<br>

@@ -1,5 +1,6 @@
 ---
 title: "\U0001F4D5 The Eyeless."
+tags: [blog]
 ---
 
 The breeze, albeit mild, has long dandled daffodils; the sun, albeit glaring, has long flickered aground. 

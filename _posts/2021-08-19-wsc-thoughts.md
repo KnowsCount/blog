@@ -1,5 +1,6 @@
 ---
 title: "\U0001F3B8 WSC thoughts"
+tags: [blog]
 ---
 
 It is curious fact that, albeit exciting, we got the chance to enter the Yale round. I (and when I say I, I must be understood to be speaking dramatically) only venture to evince pride once per century; and I do reckon our achievements in World Scholars Cup does make me quite proud—of myself, and of course, the team.

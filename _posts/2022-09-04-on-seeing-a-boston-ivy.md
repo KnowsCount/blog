@@ -1,5 +1,6 @@
 ---
-title: 🍃 On Seeing a Boston Ivy
+title: "\U0001F343 On Seeing an Ivy"
+tags: [blog]
 ---
 
 Within the city's bustling node,<br>

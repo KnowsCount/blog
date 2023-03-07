@@ -1,7 +1,7 @@
 ---
 title: 🤖 Artificial Intelligence - the Final Verdict
 date: 2020-12-07 15:57:32
-tags: [blog, code]
+tags: [code]
 description: in this article I talked briefly about the whys and wherefores of artificial intelligence being the final verdict in future.
 ---
 
