@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2023-03-07T15:08:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a poet.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">🐈 To a Cat</title><link href="http://localhost:4000/to-a-cat/" rel="alternate" type="text/html" title="🐈 To a Cat" /><published>2023-02-22T00:00:00+00:00</published><updated>2023-02-22T00:00:00+00:00</updated><id>http://localhost:4000/to-a-cat</id><content type="html" xml:base="http://localhost:4000/to-a-cat/">&lt;p&gt;A cat lays slumb’ring here and there,&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-UK"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-UK" /><updated>2023-03-12T10:18:34+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KnowsCount’s Blog</title><subtitle>I am a poet.</subtitle><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><entry><title type="html">☕️ A Whim</title><link href="http://localhost:4000/a-whim/" rel="alternate" type="text/html" title="☕️ A Whim" /><published>2023-03-12T00:00:00+00:00</published><updated>2023-03-12T00:00:00+00:00</updated><id>http://localhost:4000/a-whim</id><content type="html" xml:base="http://localhost:4000/a-whim/">&lt;p&gt;I pour’d red tea upon the sheet&lt;br /&gt;
+Whereon I verse compose:&lt;br /&gt;
+Absorb the drink! Ye crafted feet,&lt;br /&gt;
+Till marks of time disclose.&lt;/p&gt;
+
+&lt;p&gt;O look as if some ruggèd times&lt;br /&gt;
+Your being did withstand;&lt;br /&gt;
+And none shall know that these fine rhymes&lt;br /&gt;
+Is but by red tea tann’d.&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><summary type="html">I pour’d red tea upon the sheet Whereon I verse compose: Absorb the drink! Ye crafted feet, Till marks of time disclose.</summary></entry><entry><title type="html">🐈 To a Cat</title><link href="http://localhost:4000/to-a-cat/" rel="alternate" type="text/html" title="🐈 To a Cat" /><published>2023-02-22T00:00:00+00:00</published><updated>2023-02-22T00:00:00+00:00</updated><id>http://localhost:4000/to-a-cat</id><content type="html" xml:base="http://localhost:4000/to-a-cat/">&lt;p&gt;A cat lays slumb’ring here and there,&lt;br /&gt;
 Her dwellings never fix’d.&lt;br /&gt;
 No masters rule her leapings fair,&lt;br /&gt;
 Nor cat food for her mix’d.&lt;/p&gt;
@@ -146,14 +154,4 @@ Truth is blurr’d among its trees.&lt;/p&gt;
 &lt;p&gt;横看成岭侧成峰&lt;br /&gt;
 远近高低各不同&lt;br /&gt;
 不识庐山真面目&lt;br /&gt;
-只缘身在此山中&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">Here a ridge yet there a peak, Different distance difference sees; Shifting changes muddle wreak: Truth is blurr’d among its trees.</summary></entry><entry><title type="html">🐲 QingMing</title><link href="http://localhost:4000/qingming/" rel="alternate" type="text/html" title="🐲 QingMing" /><published>2022-07-28T00:00:00+00:00</published><updated>2022-07-28T00:00:00+00:00</updated><id>http://localhost:4000/qingming</id><content type="html" xml:base="http://localhost:4000/qingming/">&lt;p&gt;Rain of Qingming skies befell,&lt;br /&gt;
-Mien of passers sorrow tell;&lt;br /&gt;
-‘Does a pub house somewhere lie?’&lt;br /&gt;
-‘Yon it does, in village nigh.’&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;original-text-by-mu-du&quot;&gt;original text by Mu Du:&lt;/h3&gt;
-
-&lt;p&gt;清明时节雨纷纷&lt;br /&gt;
-路上行人欲断魂&lt;br /&gt;
-借问酒家何处有&lt;br /&gt;
-牧童遥指杏花村&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">Rain of Qingming skies befell, Mien of passers sorrow tell; ‘Does a pub house somewhere lie?’ ‘Yon it does, in village nigh.’</summary></entry></feed>
+只缘身在此山中&lt;/p&gt;</content><author><name>KnowsCount</name><email>knowscount@gmail.com</email></author><category term="blog" /><summary type="html">Here a ridge yet there a peak, Different distance difference sees; Shifting changes muddle wreak: Truth is blurr’d among its trees.</summary></entry></feed>
