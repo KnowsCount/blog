@@ -1,5 +1,6 @@
 ---
 title: "\U0001FAC0 An Elegy to Keats"
+tags: [blog]
 ---
 
 Poet! Thy verse is like a sacred song,<br>
