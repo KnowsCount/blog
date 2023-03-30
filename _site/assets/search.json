@@ -1,8 +1,15 @@
 [
   
     {
-      "title"    : "☕️ A Whim",
+      "title"    : "🫀 An Elegy to Keats",
       "tags"     : "",
+      "url"      : "/an-elegy-to-keats/",
+      "date"     : "2023-03-30 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "☕️ A Whim",
+      "tags"     : "blog",
       "url"      : "/a-whim/",
       "date"     : "2023-03-12 00:00:00 +0000"
     } ,
