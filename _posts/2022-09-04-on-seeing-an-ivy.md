@@ -1,6 +1,7 @@
 ---
 title: "\U0001F343 On Seeing an Ivy"
-tags: [blog]
+tags:
+- blog
 ---
 
 Within the city's bustling node,<br>
@@ -9,7 +10,7 @@ I saw some trees along the road,<br>
 Some leaves that from it sheets.
 
 The trees doth grow in selfsame mien,<br>
-Their gaps all two feet wide;<br>
+Their gaps all six feet wide;<br>
 The leaves doth dye a selfsame green,<br>
 And trunks in same tint dyed.
 
