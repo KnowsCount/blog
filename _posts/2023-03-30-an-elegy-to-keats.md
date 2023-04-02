@@ -5,7 +5,7 @@ tags: [blog]
 
 Poet! Thy verse is like a sacred song,<br>
 That from the Nine was as a Gift deriv'd:<br>
-A craft that even Poesy's God would long<br>
+A craft that even Stagirite would long<br>
 To claim its authorship thou hast contriv'd<br>
 To pen; to pen, aye, pen instead of steal<br>
 The workmanship of God—for many more<br>
